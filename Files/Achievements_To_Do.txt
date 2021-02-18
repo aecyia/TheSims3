@@ -5,9 +5,9 @@ DLCs not started: Generations, Pets, Seasons, Island Paradise
 Achievements Concluded ( & therefore can't get ) : Winter Shminter ( Seasons )
 ======================================================================
 CURRENTLY WORKING ON
-10k correlating Scientific Data
-Blog on My Page 50 times
-Share 200 memories
+	10k correlating Scientific Data
+	Blog on My Page 50 times
+	Share 200 memories
 ======================================================================
 NEXT: SHOWTIME
 singer, magician, or acrobat win a simfest in a Park
@@ -141,13 +141,3 @@ Host a friend's singer, acrobat, and magician in a Park
 send a gift to an online friend
 send 30 gifts to online friends
 ======================================================================
-
-
-
-
-
-
-
-
-
-

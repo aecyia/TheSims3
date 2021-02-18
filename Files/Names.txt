@@ -1,20 +1,20 @@
 Description: A list of names I like
-Last Updated: 03 February 2021
+Last Updated: 18 February 2021
 
-Ai, Aecyia, Aeria, Aria, Aeryia, Aura, Aure, Astra, Azure, Azura, Aurelia, Astelia, Ally, Alessandra, Alexandra, Alexandria, Alexia, Alexa, Andrea, Autumn, Aoi,
-Aer, Aero, Ace, Aiden, Aecyion, Ayden, Adrian, Andrew, Art, Andy, Austin, Axel, Aurelion, Aurelius, Archer, Aphelios, Aeviternitas, Aevum, Aslan, Alfred, Antonio, Aerinus,
+Ai, Aecyia, Aeria, Aria, Aeryia, Aura, Aure, Astra, Azure, Azura, Aurelia, Astelia, Ally, Alessandra, Alexandra, Alexandria, Alexia, Alexa, Andrea, Autumn, Aoi, Adonis,
+Aer, Aero, Ace, Aecyion, Aiden, Ayden, Adrian, Andrew, Art, Andy, Austin, Axel, Aurelion, Aurelius, Archer, Aphelios, Aeviternitas, Aevum, Aslan, Alfred, Antonio, Aerinus,
 
 Bunnie, Bubbles, Blossom, Buttercup, Brooke Lynne, Bellatrix, Brielle, Briella, Bernadette,
 Brandon, Baxter, Benedict, Blake, Brent, Bryant, Brooklyn, Bradley, Bronx, Bryce,
 
 Caitlyn, Carolyn, Carol Lynne, Carolynne, Calypso, Celestia, Celestine, Celestial, Camilla, Camille, Crystal, Cyra, Cappuccino, Candy, Cherry, Chocolate, Cinnamon, Cocoa, Cornelia,
-Cosmos, Cosmic, Castor, Cedric, Cody, Chance, Cooper, Carter, Ciel, Cyan, Cecil, Colby, Chip, Cade, Casper,
+Cosmos, Cosmic, Castor, Cedric, Cody, Chance, Cooper, Carter, Ciel, Cyan, Cecil, Colby, Chip, Cade, Casper, Cyrus, Cyprus,
 
 Destiny, Dove, Diana, Diane, Daniella, Danielle, Day,
-Darryl, Doyle, Dante, Drew, Dominic,
+Darryl, Doyle, Dante, Drew, Dominic, Draco,
 
 Emilee, Eva, Eve, Estelia, Estelle, Evangeline, Elle,
-Erik, Eric, Ethan, Edmund, Emmett, Edward, Everest, Echo, Ezreal, Earl, Elliot, Elias,
+Erik, Eric, Ethan, Edmund, Emmett, Edward, Everest, Echo, Ezreal, Earl, Elliot, Elias, Ei,
 
 Flora, Fate, Fae, Faye, Faith, Fantasia, Fauna, Florence, Florencia, Fleur, Florentine, Forever,
 Flight, Flynn, Fynn, Finn, Ferb, Flint, Floyd, Fox, François, Forest, Forrest, Fyre,
@@ -25,13 +25,13 @@ Grey, Gray, Greyson, Grayson, Genos, Glenn, Godric, Grid, Gunner
 Hydrangea, Hyacinth, Harmony, Honour, Henrietta, Hera, Hermione, Hime, Hope, Honouria, Hue, Hypatia,
 Hunter, Harley, Hector, Hex, Hibiki, Halo, Hamilton, Haru, Hawk, Hayden, Hayato, Heath, Hobbes, Holmes,
 
-Irene, Isla, Irina, Iris, Isabelle, Isabella, Ivory, Ivy,
-Isaac, Ivan, Ice, Ignatius, Idris, Icarus, Infinity,
+Irene, Isla, Irina, Iris, Isabelle, Isabella, Ivory, Ivy, Io,
+Isaac, Ivan, Ice, Ignatius, Idris, Icarus, Infinity, Isle,
 
 July, June, Juliet,
 Jayden, Jaden, Justin, Jay, Jason, Joseph, Jarvis, Justice,
 
-Kendra,
+Kendra, Kalista,
 Kai, Kayne, Kyle, Kenneth, Kris, King, Key,
 
 Lavender, Leah, Layla, Lynne,
@@ -47,7 +47,7 @@ Ocean, October, Octavia,
 Orion, Oasis, Octavius,
 
 Princess, Phoenix,
-Phineas, Prince, Preston, Parker, Pierce,
+Phineas, Prince, Preston, Parker, Pierce, Pod,
 
 Queen, Quincy, Quinne,
 Quinton, Quentin, Quest,
@@ -56,7 +56,7 @@ Riven, River, Rose,
 Reid, Ricky, Rufus, Reese, Romeo, Ray, Rei, Robin, Rye,
 
 Skye, Sky, Skylar, Star, Snow, Summer,
-Seth, Sebastian, Sean, Sherlock, Spencer, Space, Scotch, Swift,
+Seth, Sebastian, Sean, Sherlock, Spencer, Space, Scotch, Swift, Sol, Sun, Syo,
 
 Taylor, Tracy,
 Timothy, Teddy, Theodore,
