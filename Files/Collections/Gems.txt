@@ -13,23 +13,23 @@ Emerald			Common		Base Game
 Fluorite		Rare		Ambitions
 Geode			Uncommon	World Adventures
 Jade			Rare		China
-Lapis Lazuli		Common		China
+Lapis Lazuli	Common		China
 Luminorious		Rare		Base Game
 Moonstone		Rare		Supernatural
 Opal			Rare		France
-Pink Diamond		Rare		Base Game
+Pink Diamond	Rare		Base Game
 Quartz			Common		World Adventures
 Rainbow			Rare		Base Game
 Ruby			Common		Base Game
 Septarian Nodule 	Rare		World Adventures
 Smithsonite		Uncommon	Late Night
-Smoky Quartz		Common		Base Game
+Smoky Quartz	Common		Base Game
 Soulpeace		Rare		World Adventures
 Sunstone		Rare		Supernatural
 Tanzanite		Uncommon	Base Game
 Tiberium		Rare		World Adventures
 Turquoise		Uncommon	Egypt
-Vampire’s Eye		Rare		Late Night
+Vampire’s Eye	Rare		Late Night
 Yellow Sapphire		Uncommon	Base Game
 
 
@@ -39,16 +39,16 @@ Oval			4 cuts
 Pear			8 cuts total; +4
 Plumbbob		16 cuts total; +8
 Marquis			30 cuts total; +14
-Crystal Ball		45 cuts total; +15
+Crystal Ball	45 cuts total; +15
 Brilliant		60 cuts total; +15
-Heart-Shaped		Collect 10 different types of gems
-Polished Split		Geode + Septarian Nodules only
+Heart-Shaped	Collect 10 different types of gems
+Polished Split	Geode + Septarian Nodules only
 Spire			Tiberium only
 Skull			Transfiguration ( World Adventures )
 Star			75 cuts total; +15
 Sculptor’s Egg		Sculpting Skill Level 5 ( Ambitions )
 Dust			Gem cutter byproduct ( Supernatural )
-Sun			100 cuts total; +25
+Sun				100 cuts total; +25
 Moon			100 cuts total; +25
 ==============================
 Geode			Only Polished Split and Heart-Shaped cuts
