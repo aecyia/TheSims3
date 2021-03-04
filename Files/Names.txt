@@ -1,7 +1,7 @@
 Description: An alphabetized list of names and words that I like. For Sims, Animal Companions, Land, Spaceships ( Endless Sky ), and more.
 Last Updated: 22 February 2021
 
-Acacia, Ace, Acer, Acherion, Acquilae, Acrux, Adonis, Adrian, Aecyia, Aecyion, Aer, Aeria, Aerinus, Aero, Aeryia, Aescolanus, Aeviternitas, Aevum, Ai, Aiden, Albatross, Albion, Albirion, Alcyion, Alcyon, Alcyone, Aldebaran, Aleistar, Alessandra, Alexa, Alexandra, Alexandria, Alexia, Alfred, Alioth, Alix, Ally, Alnyx, Alphecca, Altair, Amazon, Amethyst, Andrea, Andrew, Andy, Anthony, Antonio, Antony, Aoi, Aphelios, Aquilae, Arachne, Arae, Archer, Arcturus, Arculus, Aresepru, Aria, Art, Ascella, Asgard, Aslan, Astelia, Asterias, Astra, Astro, Atria, Aura, Aure, Aurelia, Aurelion, Aurelius, Austin, Australia, Australis, Australius, Australus, Autumn, Avalon, Aventine, Avior, Axel, Ayden, Azerion, Azues, Azul, Azuli, Azura, Azure, Azus
+Acacia, Ace, Acer, Acherion, Acquilae, Acrux, Adonis, Adrian, Aecyia, Aecyion, Aer, Aeria, Aerinus, Aero, Aeryia, Aescolanus, Aeviternitas, Aevum, Ai, Aiden, Albatross, Albion, Albirion, Alcyion, Alcyon, Alcyone, Aldebaran, Aleistar, Alessandra, Alexa, Alexandra, Alexandria, Alexia, Alfred, Alioth, Alix, Ally, Alnyx, Alphecca, Altair, Amazon, Amethyst, Andrea, Andrew, Andy, Anthony, Antonio, Antony, Aoi, Aphelios, Aquilae, Arachne, Arae, Archer, Arcturus, Arculus, Aresepru, Aria, Art, Ascella, Asgard, Aslan, Astelia, Asteria, Asterias, Astor, Astoria, Astra, Astro, Atria, Aura, Aure, Aurelia, Aurelion, Aurelius, Austin, Australia, Australis, Australius, Australus, Autumn, Avalon, Aventine, Avior, Axel, Ayden, Azerion, Azues, Azul, Azuli, Azura, Azure, Azus
 
 Baxter, Bellatrix, Benedict, Bernadette, Blake, Blossom, Bradley, Brandon, Brent, Briella, Brielle, Bronx, BrookeLynne, Brooklyn, Bryant, Bryce, Bubbles, Bunnie, Buttercup
 
@@ -9,7 +9,7 @@ Cade, Caeculus, Caelian, Caitlyn, Calypso, Camilla, Camille, Candy, Canyon, Capp
 
 Daniella, Danielle, Dante, Darryl, Day, Deep, Destiny, Diana, Diane, Dominic, Dove, Doyle, Draco, Drew, Dune, Dusk
 
-Earl, Echo, Echo, Edmund, Edrisa, Edusa, Edward, Ei, Elias, Elle, Elliot, Elteria, Elterion, Ember, Emilee, Emmett, Epsilon, Eric, Erik, Estelia, Estelle, Eteron, Ethan, Eva, Evangeline, Eve, Everest, Ezreal
+Earl, Echo, Echo, Edmund, Edrisa, Edusa, Edward, Edwin, Ei, Elias, Elle, Elliot, Elteria, Elterion, Ember, Emilee, Emmett, Epsilon, Eric, Erik, Estelia, Estelle, Eteron, Ethan, Eva, Evangeline, Eve, Everest, Ezreal
 
 Fae, Faith, Fantasia, Fate, Fauna, Faye, Ferb, Finn, Fleur, Flight, Flint, Flood, Flora, Florence, Florencia, Florentine, Floyd, Flynn, Forest, Forever, Forrest, Fox, François, Furnace, Fynn, Fyre
 
@@ -35,7 +35,7 @@ Parker, Pearl, Penelope, Phineas, Phoenix, Pierce, Pilot, Pod, Polaris, Poseidon
 
 Quartz, Queen, Quentin, Quest, Quincy, Quinne, Quinton
 
-Ray, Reese, Regulus, Rei, Reid, Relic, Remnant, Remote, Reunion, Ricky, Riven, River, Robin, Romeo, Rose, Rufus, Rust, Rutilicus, Rye
+Ray, Reese, Regulus, Rei, Reid, Relic, Remnant, Remote, Reunion, Ricky, Riven, River, Robin, Romeo, Rosalia, Rose, Roselia, Rufus, Rust, Rutilicus, Ryan, Rye
 
 Sapphire, Saya, Scotch, Sean, Sebastian, Secret, Seginus, Serenity, Serpens, Seth, Shadow, Sherlock, Shiver, Silver, Sirius, Sky, Skye, Skylar, Snow, Sol, Solace, Space, Spencer, Star, Summer, Sun, Swift, Syo
 
@@ -45,7 +45,7 @@ Unagi, Undertaker, Unique, Urion, Usagi
 
 Valhalla, Valiante, Valor, Vega, Veliante, Vibrant, Victor, Victoria, Vindematrix, Vindemiatrix, Viridi, Viridian, Vitalia, Vivian, Vix, Vlad, Vladimir, Volax, Vyktor
 
-Wales, Walker, Watcher, Wesley, Willow, Winston, Winter, Wish, Wolfe, Wyvern
+Wales, Walker, Watcher, Wesley, Willow, Winston, Winter, Wish, Wisteria, Wolfe, Wyvern
 
 Xalia, Xander, Xayah, Xion, Xyle
 
