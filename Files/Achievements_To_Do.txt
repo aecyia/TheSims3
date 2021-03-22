@@ -4,12 +4,14 @@ Achievements Left: Too many
 DLCs not started: Generations, Pets, Seasons, Island Paradise
 Achievements Concluded ( & therefore can't get ) : Winter Shminter ( Seasons )
 ======================================================================
-CURRENTLY WORKING ON
+█▀▀ █ █ █▀█ █▀█ █▀▀ █▄ █ ▀█▀
+█▄▄ █▄█ █▀▄ █▀▄ ██▄ █ ▀█  █ 
 	10k correlating Scientific Data
 	Blog on My Page 50 times
 	Share 200 memories
 ======================================================================
-NEXT: SHOWTIME
+█▄ █ █▀▀ ▀▄▀ ▀█▀ : Showtime
+█ ▀█ ██▄ █ █  █  :			DLC
 singer, magician, or acrobat win a simfest in a Park
 win a simfest at a coffeehouse
 perform in a Park, Coffeehouse, Live Show Venue, Private Show Venue, Big Show Venue
@@ -35,7 +37,6 @@ nearly drown attempting the watery grave trick
 all mime & juggling stunts 3x before becoming a performance artist
 vanishing sim trick 20x
 ======================================================================
-Daily + Object
 play 5 four-player games of dominoes
 get singed riding the plasmapunch gyroscopic conductor
 10k tips playing pool
@@ -141,3 +142,58 @@ Host a friend's singer, acrobat, and magician in a Park
 send a gift to an online friend
 send 30 gifts to online friends
 ======================================================================
+
+skill journal for Aeria Ai
++	100 jokes -- 49
++	fishing + gardening
+	+	catch 20 types of fish -- 53%
+	+	catch 350 fish -- 147
+	+ 	harvest 75 perfect plants -- 32
++	guitar 10 parties and venues
++	25,000 guitar tips -- 663
++	science & logic
+	+	chess rank 5 -- 4
+	+	tutor 20 hrs children -- 1
+	+	tutor 30 hrs skills sims -- 15
+	+	analyze 100 -- 0
+	+	100 experiments -- 0
++	30 paintings  --- 10
++	5 masterpieces -- 0
++	25 sims finder -- 0
++	change 30 relationships -- 0
++	photography
+	+	75 subjects -- 20
+	+	50 unique sims -- 13
+	+	60 strangers -- 0
+	+	5 photo collections -- 0
++	martial arts
+	+	tournament 5 -- 0
+	+	meditate 150 hours -- 0
+	+	75 sparring matches -- 0
+	+	break 150 boards -- 0
++	nectar
+	+	200 bottles made -- 97
+	+	turn 400 homegrown grapes into nectar
+	+	15 combinations -- 5
++	sculpting
+	+	20 made -- 0
+	+	35 made -- 0
+	+	5 each material -- 0
+	+	25 ice -- 0
++	inventing
+	+	250 widgets
+	+	detonated 150 objects
+	+	100 Big Inventions
+	+	Lvl 10 Invention opportunity
++	street art
+	+	30 street art projects
+	+	10 murals
+	+	5 street art masterpieces
++	consignment
+	+	impressive rep
+	+	sell 150 items
+	+	25,000
++	collect all space rocks
++	collect 10 types of butterflies
++	collect all fireflies
++	collect 10 types of beetles
