@@ -1,0 +1,84 @@
+█▀█ █▀▀ █▀ █▀█ █ █ █▀█ █▀▀ █▀▀ █▀ 	https://www.carls-sims-3-guide.com/skills/charisma/
+█▀▄ ██▄ ▄█ █▄█ █▄█ █▀▄ █▄▄ ██▄ ▄█ 	https://sims.fandom.com/wiki/Charisma
+
+
+█▀ ▀█▀ ▄▀█ ▀█▀ █ █▀ ▀█▀ █ █▀▀ █▀
+▄█  █  █▀█  █  █ ▄█  █  █ █▄▄ ▄█
+
++	
++	
++	
+
+Challenges				Requirement				Bonus / Reward
+Celebrity				25 local acquaintances	build relationships quicker
+Personable				learned 50 traits		learn traits quicker
+Super Friendly			at least 20 friends		friendships never decay
+Everybody's Best Friend 10 best friends 		Friends skip Good Friend and goes to Best Friends
+Comedian				100 jokes told			jokes rarely fall flat
+
+█▀█ █▀█ █▀█ █▀▀ █▀▀ █▀ █▀ █ █▀█ █▄ █ █▀
+█▀▀ █▀▄ █▄█ █▀  ██▄ ▄█ ▄█ █ █▄█ █ ▀█ ▄█
+
++	Political Track
++	Musicians
+
+█ █ █▀█ █ █ █   ▀█▀ █▀█   █ █▀▄▀█ █▀█ █▀█ █▀█ █ █ █▀▀
+█▀█ █▄█ ▀▄▀▄▀    █  █▄█   █ █ ▀ █ █▀▀ █▀▄ █▄█ ▀▄▀ ██▄
+
++	Charisma class
++	Charisma book
++	Talking to mirrors
++	Socializing with others
+	+	Popular places around town
+	+	Attend / Host a party
+	+	Calling friends on the phone
+	+	Texting friends
+	+	Chat with someone on the computer
+	+	Socializing with coworkers at work
++	Playing Guitar in public
+	+	Play for tips ( gaining money & friends ! )
+
+█ █ █▀ █▀▀ █▀▀ █ █ █     ▀█▀ █▀█ ▄▀█ █ ▀█▀ █▀
+█▄█ ▄█ ██▄ █▀  █▄█ █▄▄    █  █▀▄ █▀█ █  █  ▄█
+
++	Charismatic
++	Friendly
++	Good Sense of Humour
++	Flirty
++	Schmoozer
+
+▄▀█ █▄▄ █ █   █ ▀█▀ █ █▀▀ █▀
+█▀█ █▄█ █ █▄▄ █  █  █ ██▄ ▄█
+
+Lvl	Ability					Type		Notes				Requirements ( Friends-Relationships )
+1	Friendly Greet			Greeting	Friendly greeting		0	0
+	Charming Introduction	Special		Boosted starting relationship	Level 10+ gives instant friendship
+2	Amusing Greet			Greeting	Funny greeting			0	2
+3	Interesting Greet		Greeting	Interesting greeting	1	3
+	Get To Know				Special		Increased ability to find out traits & interests ( no lvl req with the Friendly Trait )
+4	Flirty Greet			Greeting	Romantic greeting		2	4
+5	Affectionate Greet		Greeting	Romantic greeting		3	6
+	Smooth Recovery			Special		Save conversation after awkward turn
+6	Funny Greeting			Greeting	Funny greeting			4	8
+7	Impressive Greet		Greeting	Impressive greeting		5	10
+8	Hilarious Greet			Greeting	Funny greeting			6	15
+9	Loving Greet			Greeting	Romantic greeting		8	20
+10	Irresistible Greet		Greeting	Romantic greeting		10	25
+
+
+█▀█ █▀█ █▀█ █▀█ █▀█ ▀█▀ █ █ █▄ █ █ ▀█▀ █ █▀▀ █▀
+█▄█ █▀▀ █▀▀ █▄█ █▀▄  █  █▄█ █ ▀█ █  █  █ ██▄ ▄█
+
+Charismatic Cash
+	Received: Random
+	Goal: Gain a skill point in Charisma
+	Reward: Money
+	Text: A local politician that's been keeping an eye on you thinks you should put in the effort to improve your Charisma skill. To make this worth your effort, you'll be paid to improve your Charisma skill by just one level. Seems like a good deal!
+Smooth, Like Verbal Butter
+	Received: Reach Level 5
+	Goal: Use "Smooth Recovery"
+	Reward: Monetary
+	Text: Sims like you tend to get into a lot of conversations. Unfortunately, not every comment will land favorably upon the ears of its recipient, so you'll need to learn how to get out of sticky situations. Use Smooth Recovery to fix a social faux pas and you'll earn a little cash for your efforts.
+A Charming Experiment
+	Goal: Assist Experiment at the Science Lab
+	Text: The Science Facility is conducting experiments to see if charming Sims can convince creatures to do things they don't necessarily want to do. This week, the scientists are paying cash to any Sim that can convince ants do dig holes in specific areas. Travel to the facility to show just how charming you really are.

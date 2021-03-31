@@ -1,7 +1,9 @@
 The following information is taken from:
-	Sims Wiki Fandom
-	personal experience
++	https://sims.fandom.com/wiki/Writing_(The_Sims_3)
++	Personal experience
 
+█▄▄ █▀█ █▀█ █▄▀ █▀
+█▄█ █▄█ █▄█ █░█ ▄█
 Base Game
 	General ( 15 )
 		Autobiography
@@ -51,7 +53,7 @@ Base Game
 	Compositions [ Levels 5 – 9 ]
 		Guitar
 	Bait
-		+	Note: The cover pictures for All that Glitters is Goldfish  and Glitter Tragedy: Trout and Clownfish Baiting Technique are different levels ( 1 and 2, respectively ) and do not align with the other cover pictures. So, I will list these by level.
+		+	Note: The cover pictures for All that Glitters is Goldfish and Glitter Tragedy: Trout and Clownfish Baiting Technique are different levels ( 1 and 2, respectively ) and do not align with the other cover pictures. So, I will list these by level.
 		+	Generally, the order from lowest fishing skill to highest is: Purple, Green, Blue 
 		Level 1: 3 books
 		Levels 2 – 5: 3 books
@@ -93,7 +95,6 @@ Pets
 	Skill Books
 		Riding
 Showtime
-	+	Personal Note: Have not played this yet, but the recipes look similar to the Base GameRecipes
 	Blue [ 1; Level 3 ]
 	Red [ 2; Level 5 ]
 	Green [ 2; Levels 8 – 9 ]
@@ -196,212 +197,219 @@ World Adventures
 			Level 0
 			1 Book
 
-All Books You Can Write
+▄▀█ █   █     █▄▄ █▀█ █▀█ █▄▀ █▀   █▄█ █▀█ █ █   █▀▀ ▄▀█ █▄ █   █ █ █ █▀█ █ ▀█▀ █▀▀
+█▀█ █▄▄ █▄▄   █▄█ █▄█ █▄█ █ █ ▄█    █  █▄█ █▄█   █▄▄ █▀█ █ ▀█   ▀▄▀▄▀ █▀▄ █  █  ██▄
 [ This is taken from github.com/aecyia/TheSims3/Files/For_The_Writers.txt ]
-	Article ( Story / Review )
-	Autobiography
-	Biography
-	Children’s
-	Comic [ UNIVERSITY LIFE ]
-	Drama
-	Fantasy
-	Fiction
-	Historical
-	Horror [ SUPERNATURAL ]
-	Humor
-	Life Story
-	Masterpiece
-	Mystery
-	Non-Fiction
-	Poetry [ SUPERNATURAL ]
-	Political Memoir ( Political Life Story )
-	Romance
-	Satire
-	Science Fiction
-	Sports [ UNIVERSITY LIFE ]
-	Trashy
-	Vaudeville
 
-All Books Genres
-	+	World Adventures’ locations ( China, Egypt, France ) are split up
-	Article ( Story / Review )
-		Base Game
-	Autobiography
-		Base Game
-	Bait
-		Base Game
-		China
-		Egypt
-		France
-		Supernatural
-	Biography
-		Base Game
-		Supernatural
-	Childhood Development ( Toddlers )
-		Base Game
-	Children’s
-		Base Game
-		Ambitions Future
-		Ambitions Past
-		China
-		Egypt
-		France
-		Supernatural
-	Comic
-		University Life
-	Compositions
-		Base Game
-			Guitar
-		Into the Future
-			Laser Rhythm-a-con
-		Late Night
-			Bass
-			Drums
-			Piano
-	Drama
-		Base Game
-		Egypt
-		Supernatural
-	Fantasy
-		Base Game
-		Ambitions Future
-		China
-		Supernatural
-		University Life
-	Fiction
-		Base Game
-		Ambitions Future
-		Ambitions Past
-		China
-		Egypt
-		France
-		Supernatural
-	Historical
-		Base Game
-		Ambitions Past
-		China
-		Egypt
-		France
-		Supernatural
-		University Life
-	Horror
-		Supernatural
-		University Life
-	Humor
-		Base Game
-		Ambitions Past
-		Egypt
-		France
-	Life Story
-		Base Game
-	Masterpiece
-		Base Game
-	Mystery
-		Base Game
-		Egypt
-		France
-		Supernatural
-	Non-Fiction
-		Base Game
-		Ambitions Future
-		Ambitions Past
-		China
-		Egypt
-		France
-		Supernatural
-		University Life
-	Opportunity
-		Base Game
+Article ( Story / Review )
+Autobiography
+Biography
+Children’s
+Comic [ UNIVERSITY LIFE ]
+Drama
+Fantasy
+Fiction
+Historical
+Horror [ SUPERNATURAL ]
+Humor
+Life Story
+Masterpiece
+Mystery
+Non-Fiction
+Poetry [ SUPERNATURAL ]
+Political Memoir ( Political Life Story )
+Romance
+Satire
+Science Fiction
+Sports [ UNIVERSITY LIFE ]
+Trashy
+Vaudeville
+
+▄▀█ █   █     █▄▄ █▀█ █▀█ █▄▀ █▀   █▀▀ █▀▀ █▄ █ █▀█ █▀▀ █▀
+█▀█ █▄▄ █▄▄   █▄█ █▄█ █▄█ █ █ ▄█   █▄█ ██▄ █ ▀█ █▀▄ ██▄ ▄█
++	World Adventures’ locations ( China, Egypt, France ) are split up
+
+Article ( Story / Review )
+	Base Game
+Autobiography
+	Base Game
+Bait
+	Base Game
+	China
+	Egypt
+	France
+	Supernatural
+Biography
+	Base Game
+	Supernatural
+Childhood Development ( Toddlers )
+	Base Game
+Children’s
+	Base Game
+	Ambitions Future
+	Ambitions Past
+	China
+	Egypt
+	France
+	Supernatural
+Comic
+	University Life
+Compositions
+	Base Game
+		Guitar
+	Into the Future
+		Laser Rhythm-a-con
+	Late Night
+		Bass
+		Drums
+		Piano
+Drama
+	Base Game
+	Egypt
+	Supernatural
+Fantasy
+	Base Game
+	Ambitions Future
+	China
+	Supernatural
+	University Life
+Fiction
+	Base Game
+	Ambitions Future
+	Ambitions Past
+	China
+	Egypt
+	France
+	Supernatural
+Historical
+	Base Game
+	Ambitions Past
+	China
+	Egypt
+	France
+	Supernatural
+	University Life
+Horror
+	Supernatural
+	University Life
+Humor
+	Base Game
+	Ambitions Past
+	Egypt
+	France
+Life Story
+	Base Game
+Masterpiece
+	Base Game
+Mystery
+	Base Game
+	Egypt
+	France
+	Supernatural
+Non-Fiction
+	Base Game
+	Ambitions Future
+	Ambitions Past
+	China
+	Egypt
+	France
+	Supernatural
+	University Life
+Opportunity
+	Base Game
+		Business
+		Criminal
+		Culinary
+		Journalism
+		Law Enforcement
+		Medical
+		Military
+		Music
+			Music: Electronic Rock !
+			Music: Symphonic
+		Politics
+		Professional Sports
+		Science
+	Ambitions
+		Education
+	Late Night
+		Film
+		Film: Acting
+		Film: Directing
+	World Adventures
+		Questionable Romantic Foods
+		The Saga of the Three Relics
+Poetry
+	Supernatural
+	University Life
+Political Memoir ( Political Life Story )
+	Base Game
+Pregnancy
+	Base Game
+Recipes
+	Base Game
+	China
+	Egypt
+	France
+	Showtime
+	Supernatural
+	Supernatural Alchemy
+Romance
+	Base Game
+	China
+	Egypt
+Satire
+	Base Game
+	Ambitions Past
+	Egypt
+	France
+Science Fiction
+	Base Game
+	China
+	Supernatural
+Skills
+	Base Game
+		Charisma
+		Cooking
+		Gardening
+		Handiness
+		Logic
+	Ambitions
+		Inventing
+	Into the Future
+		Bot Building
+	Late Night
+		Mixology
+	Pets
+		Riding
+	Supernatural
+		Alchemy
+	University Life
+		Science
+		Social Networking
+		Street Art
+	Worlds Adventures
+		Martial Arts
+		Photography
+		Nectar Making
+Sports
+	University Life
+		Textbooks
 			Business
-			Criminal
-			Culinary
-			Journalism
-			Law Enforcement
-			Medical
-			Military
-			Music
-				Music: Electronic Rock !
-				Music: Symphonic
-			Politics
-			Professional Sports
+			Communication
+			Fine Arts
 			Science
-		Ambitions
-			Education
-		Late Night
-			Film
-			Film: Acting
-			Film: Directing
-		World Adventures
-			Questionable Romantic Foods
-			The Saga of the Three Relics
-	Poetry
-		Supernatural
-		University Life
-	Political Memoir ( Political Life Story )
-		Base Game
-	Pregnancy
-		Base Game
-	Recipes
-		Base Game
-		China
-		Egypt
-		France
-		Showtime
-		Supernatural
-		Supernatural Alchemy
-	Romance
-		Base Game
-		China
-		Egypt
-	Satire
-		Base Game
-		Ambitions Past
-		Egypt
-		France
-	Science Fiction
-		Base Game
-		China
-		Supernatural
-	Skills
-		Base Game
-			Charisma
-			Cooking
-			Gardening
-			Handiness
-			Logic
-		Ambitions
-			Inventing
-		Into the Future
-			Bot Building
-		Late Night
-			Mixology
-		Pets
-			Riding
-		Supernatural
-			Alchemy
-		University Life
-			Science
-			Social Networking
-			Street Art
-		Worlds Adventures
-			Martial Arts
-			Photography
-			Nectar Making
-	Sports
-		University Life
-			Textbooks
-				Business
-				Communication
-				Fine Arts
-				Science
-				Sports
-				Technology
-	Trashy
-		Base Game
-		Supernatural
-		University Life
-	Vaudeville
-		Base Game
+			Sports
+			Technology
+Trashy
+	Base Game
+	Supernatural
+	University Life
+Vaudeville
+	Base Game
 
-Personal Groupings
+
+█▀█ █▀▀ █▀█ █▀ █▀█ █▄ █ ▄▀█ █     █▀▀ █▀█ █▀█ █ █ █▀█ █ █▄ █ █▀▀ █▀
+█▀▀ ██▄ █▀▄ ▄█ █▄█ █ ▀█ █▀█ █▄▄   █▄█ █▀▄ █▄█ █▄█ █▀▀ █ █ ▀█ █▄█ ▄█
+
 https://i.imgur.com/GX4lYph.png

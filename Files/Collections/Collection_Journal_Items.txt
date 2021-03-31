@@ -1,24 +1,12 @@
 Sample text file for everything to collect
-
-█▀▄▀█ █▀▀ ▀█▀ ▄▀█ █   █▀
-█ ▀ █ ██▄  █  █▀█ █▄▄ ▄█
-
-Iron
-Silver 
-Gold 
-Palladium
-Plutonium
-Copper
-Mummitomium
-Iridium
-Titanium
-Platinum
-Mercury	
-Compendium
-Supernovium
-Woohooium
-Carbon Steel
-Tungsten Carbide
+	Insects
+		Butterflies
+		Fireflies
+		Beetles
+		Nanites
+	Gems
+	Metals
+	Space Rocks
 
 █▄▄ █ █ ▀█▀ ▀█▀ █▀▀ █▀█ █▀▀ █   █ █▀▀ █▀
 █▄█ █▄█  █   █  ██▄ █▀▄ █▀  █▄▄ █ ██▄ ▄█
@@ -105,4 +93,93 @@ Entropic
 Optic	
 Damping	
 Prismatic
-Uber	
+Uber
+
+█▀▀ █▀▀ █▀▄▀█ █▀
+█▄█ ██▄ █ ▀ █ ▄█
+
+Alabaster
+Amethyst
+Bloodstone
+Blue Topaz
+Citrine
+Diamond
+Emerald
+Fluorite
+Geode
+Jade
+Lapis Lazuli
+Luminorious
+Moonstone
+Opal
+Pink Diamond
+Quartz
+Rainbow
+Ruby
+Septarian Nodule
+Smithsonite
+Smoky Quartz
+Soulpeace	
+Sunstone
+Tanzanite
+Tiberium
+Turquoise
+Vampire’s Eye
+Yellow Sapphire
+
+█▀▄▀█ █▀▀ ▀█▀ ▄▀█ █   █▀
+█ ▀ █ ██▄  █  █▀█ █▄▄ ▄█
+
+Iron
+Silver 
+Gold 
+Palladium
+Plutonium
+Copper
+Mummitomium
+Iridium
+Titanium
+Platinum
+Mercury	
+Compendium
+Supernovium
+Woohooium
+Carbon Steel
+Tungsten Carbide
+
+█▀ █▀█ ▄▀█ █▀▀ █▀▀   █▀█ █▀█ █▀▀ █▄▀ █▀
+▄█ █▀▀ █▀█ █▄▄ ██▄   █▀▄ █▄█ █▄▄ █ █ ▄█
+
+Acapulcoite
+Angrite
+Ataxite
+Aubrite
+Branchinite
+Carbonaceous Chondrite
+Chassignite
+Diogenite
+Enstratite Chondrite
+Eucrite
+Hexahedrite
+Howardite
+Kamasite
+Londranite
+Lunar
+Mesosiderite
+Nakalite
+Oetahedrite
+Ordinary Chondrite
+Pallasite
+Pearsonite
+Rodiekceous
+Rumuritie
+Shergottite
+Unusual Bellacite
+Unusual Custerous Gossticite
+Unusual Dukedite
+Unusual Holmberic
+Unusual Llamatite
+Unusual Mazzadrayte
+Unusual Sporecite
+Ureilite
+Winonaite

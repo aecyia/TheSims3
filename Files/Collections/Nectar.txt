@@ -1,21 +1,22 @@
-====================================================================================================
-Ingredients
-	Apples
-	Avornalino Grapes
-		Cherimola Blan Grapes
-		Cherry
-		Cranerlet Nuala Grapes
-	Flame Fruit
-		Gralladina Fran Grapes
-		Grapes
-	Life Fruit
-	Lime
-		Meloire Grapes
-	Plum
-	Pomegranate
-	Pomelo
-		Renoit Grapes
-	Watermelon
+█ █▄ █ █▀▀ █▀█ █▀▀ █▀▄ █ █▀▀ █▄ █ ▀█▀ █▀
+█ █ ▀█ █▄█ █▀▄ ██▄ █▄▀ █ ██▄ █ ▀█  █  ▄█
+
+Apples
+Avornalino Grapes
+	Cherimola Blan Grapes
+	Cherry
+	Cranerlet Nuala Grapes
+Flame Fruit
+	Gralladina Fran Grapes
+	Grapes
+Life Fruit
+Lime
+	Meloire Grapes
+Plum
+Pomegranate
+Pomelo
+	Renoit Grapes
+Watermelon
 
 ====================================================================================================
 1 INGREDIENT
@@ -32,7 +33,7 @@ Life Nectar: 100% Life Fruit
 Lime Nectar: 100% Lime
 Meloire Grapes Nectar: 100% Meloire
 Plum Nectar: 100% Plum
-Pomegranate Nectar:
+Pomegranate Nectar: 100% Pomegranate
 Pomelo Nectar: 100% Pomelo
 Renoit Grapes Nectar: 100% Renoit
 Watermelon Nectar: 100% Watermelon

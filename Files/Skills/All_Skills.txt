@@ -1,0 +1,44 @@
+Base Game
+	Athletic
+	Charisma
+	Cooking
+	Fishing
+	Gardening
+	Guitar
+	Handiness
+	Logic
+	Painting
+	Writing
+	Collecting
+World Adventures
+	Martial Arts
+	Nectar Making
+	Photography
+Ambitions
+	Inventing
+	Sculpting
+	Consignment
+Late Night
+	Bass
+	Drums
+	Mixology
+	Piano
+Pets
+	Riding
+Supernatural
+	Alchemy
+University Life
+	Science
+	Social Networking
+	Street Art
+Island Paradise
+	Scuba Diving
+Into the Future
+	Advanced Technology
+	Bot Building
+	Laser Rhythm-A-Con
+The Sims 3 Store
+	Artisan
+	Dancing
+	Gambling
+	Violin

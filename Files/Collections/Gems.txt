@@ -1,6 +1,5 @@
-Useful Links:
-	Carl’s Sims Guide	https://www.carls-sims-3-guide.com/skills/collecting/gems.php
-	Sims Fandom			https://sims.fandom.com/wiki/Gem_collecting
+https://www.carls-sims-3-guide.com/skills/collecting/gems.php
+https://sims.fandom.com/wiki/Gem_collecting
 
 █▀▀ █▀▀ █▀▄▀█ █▀
 █▄█ ██▄ █ ▀ █ ▄█	Rarity		DLC
@@ -56,6 +55,9 @@ Geode				Only Polished Split and Heart-Shaped cuts
 Septarian Nodule	Only Polished Split and Heart-Shaped cuts
 Tiberium			Only Spire and Heart-Shaped cuts
 
+▄▀█ █   █  
+█▀█ █▄▄ █▄▄
+
 Alabaster
 Amethyst
 Bloodstone
@@ -84,6 +86,10 @@ Tiberium
 Turquoise
 Vampire’s Eye
 Yellow Sapphire
+
+
+█▀▀ █▀█ █   █   █▀▀ █▀▀ ▀█▀ █ █▄ █ █▀▀
+█▄▄ █▄█ █▄▄ █▄▄ ██▄ █▄▄  █  █ █ ▀█ █▄█
 
 Alabaster
 	Emerald
