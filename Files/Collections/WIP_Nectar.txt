@@ -1,20 +1,21 @@
 ====================================================================================================
 Ingredients
-    Apples
-    Avornalino Grapes
-    Cherimola Blan Grapes
-    Cherry
-    Cranerlet Nuala Grapes
-    Flame Fruit
-    Gralladina Fran Grapes
-    Life Fruit
-    Lime
-    Meloire Grapes
-    Plum
-    Pomegranate
-    Pomelo
-    Renoit Grapes
-    Watermelon
+	Apples
+	Avornalino Grapes
+		Cherimola Blan Grapes
+		Cherry
+		Cranerlet Nuala Grapes
+	Flame Fruit
+		Gralladina Fran Grapes
+		Grapes
+	Life Fruit
+	Lime
+		Meloire Grapes
+	Plum
+	Pomegranate
+	Pomelo
+		Renoit Grapes
+	Watermelon
 
 ====================================================================================================
 1 INGREDIENT
@@ -38,6 +39,7 @@ Watermelon Nectar: 100% Watermelon
 ====================================================================================================
 2 INGREDIENTS
 Avornalino Grapes Renoit Grapes Nectar: 75% Avornalino, 25% Renoit
+
 
 Cherimola Blan Grapes Avornalino Grapes Nectar: 55% Cherimola Blan, 44% Avornalino
 

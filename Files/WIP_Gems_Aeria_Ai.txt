@@ -1,0 +1,264 @@
+Aeria Ai: 30 March 2021
+
+Alabaster
+	Marquis
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Dust
+	Sun	
+	Moon
+Amethyst
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor’s Egg
+	Dust
+	Sun	
+	Moon
+Bloodstone
+	Emerald
+	Oval
+	Pear
+	Plumbbob
+	Marquis
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor’s Egg
+	Dust
+	Sun	
+	Moon
+Blue Topaz
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor’s Egg
+	Dust
+	Sun	
+	Moon
+Citrine
+	Skull
+	Dust
+	Sun	
+	Moon
+Diamond
+	Oval
+	Skull
+	Star
+	Dust
+	Sun	
+	Moon
+Emerald
+	Brilliant
+	Skull
+	Dust
+	Sun
+	Moon
+Fluorite
+	Marquis
+	Crystal Ball
+	Brilliant
+	Skull
+	Star
+	Dust
+	Sun	
+	Moon
+Jade
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Dust
+	Sun	
+	Moon
+Lapis Lazuli
+	Skull
+	Star
+	Dust
+	Sun	
+	Moon
+Luminorious
+	Plumbbob
+	Marquis
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor’s Egg
+	Dust
+	Sun	
+	Moon
+Moonstone
+	Emerald
+	Oval
+	Pear
+	Plumbbob
+	Marquis
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor’s Egg
+	Dust
+	Sun	
+	Moon
+Opal
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor’s Egg
+	Dust
+	Sun	
+	Moon
+Pink Diamond
+	Oval
+	Pear
+	Plumbbob
+	Marquis
+	Crystal Ball
+	Skull
+	Star
+	Sculptor’s Egg
+	Dust
+	Sun	
+	Moon
+Quartz
+	Plumbbob
+	Skull
+	Dust
+	Sun	
+	Moon
+Rainbow
+	Emerald
+	Marquis
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor’s Egg
+	Dust
+	Sun	
+	Moon
+Ruby
+	Brilliant
+	Heart-Shaped
+	Skull
+	Sculptor’s Egg
+	Dust
+	Sun	
+	Moon
+Smithsonite
+	Emerald
+	Oval
+	Pear
+	Plumbbob
+	Marquis
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor’s Egg
+	Dust
+	Sun	
+	Moon
+Smoky Quartz
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor’s Egg
+	Dust
+	Sun	
+	Moon
+Soulpeace
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor’s Egg
+	Dust
+	Sun	
+	Moon
+Sunstone
+	Emerald
+	Oval
+	Pear
+	Plumbbob
+	Marquis
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor’s Egg
+	Dust
+	Sun	
+	Moon
+Tanzanite
+	Plumbbob
+	Marquis
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor’s Egg
+	Dust
+	Sun	
+	Moon
+Turquoise
+	Heart-Shaped
+	Skull
+	Sculptor’s Egg
+	Dust
+	Sun	
+	Moon
+Vampire’s Eye
+	Emerald
+	Oval
+	Pear
+	Plumbbob
+	Marquis
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor’s Egg
+	Dust
+	Sun	
+	Moon
+Yellow Sapphire
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor’s Egg
+	Dust
+	Sun	
+	Moon
+
+
+DONE
+Septarian Nodule
+Tiberium
+Geode
+
