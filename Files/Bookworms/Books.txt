@@ -1,9 +1,12 @@
-The following information is taken from:
+█▀█ █▀▀ █▀ █▀█ █ █ █▀█ █▀▀ █▀▀ █▀
+█▀▄ ██▄ ▄█ █▄█ █▄█ █▀▄ █▄▄ ██▄ ▄█
+
 +	https://sims.fandom.com/wiki/Writing_(The_Sims_3)
 +	Personal experience
 
 █▄▄ █▀█ █▀█ █▄▀ █▀
-█▄█ █▄█ █▄█ █░█ ▄█
+█▄█ █▄█ █▄█ █ █ ▄█
+
 Base Game
 	General ( 15 )
 		Autobiography
@@ -53,7 +56,9 @@ Base Game
 	Compositions [ Levels 5 – 9 ]
 		Guitar
 	Bait
-		+	Note: The cover pictures for All that Glitters is Goldfish and Glitter Tragedy: Trout and Clownfish Baiting Technique are different levels ( 1 and 2, respectively ) and do not align with the other cover pictures. So, I will list these by level.
+		+	The cover pictures for the following are different levels and do not align with the other cover pictures
+			1	All that Glitters is Goldfish
+			2	Glitter Tragedy: Trout and Clownfish Baiting Technique
 		+	Generally, the order from lowest fishing skill to highest is: Purple, Green, Blue 
 		Level 1: 3 books
 		Levels 2 – 5: 3 books
@@ -200,8 +205,6 @@ World Adventures
 ▄▀█ █   █     █▄▄ █▀█ █▀█ █▄▀ █▀   █▄█ █▀█ █ █   █▀▀ ▄▀█ █▄ █   █ █ █ █▀█ █ ▀█▀ █▀▀
 █▀█ █▄▄ █▄▄   █▄█ █▄█ █▄█ █ █ ▄█    █  █▄█ █▄█   █▄▄ █▀█ █ ▀█   ▀▄▀▄▀ █▀▄ █  █  ██▄
 
-https://github.com/aecyia/TheSims3/main/Bookworms/For_The_Writers.txt
-
 Article ( Story / Review )
 Autobiography
 Biography
@@ -228,7 +231,8 @@ Vaudeville
 
 ▄▀█ █   █     █▄▄ █▀█ █▀█ █▄▀ █▀   █▀▀ █▀▀ █▄ █ █▀█ █▀▀ █▀
 █▀█ █▄▄ █▄▄   █▄█ █▄█ █▄█ █ █ ▄█   █▄█ ██▄ █ ▀█ █▀▄ ██▄ ▄█
-+	World Adventures’ locations ( China, Egypt, France ) are split up
+
++	World Adventures' locations ( China, Egypt, France ) are separated
 
 Article ( Story / Review )
 	Base Game

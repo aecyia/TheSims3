@@ -1,8 +1,10 @@
-The following information is taken from:
-	Carl’s Sims 3 Guide				https://www.carls-sims-3-guide.com/skills/writing/book-type-list.php
-	Sims Wiki Fandom: Books			https://sims.fandom.com/wiki/List_of_books_in_The_Sims_3
-	Sims Wiki Fandom: Writing		https://sims.fandom.com/wiki/Writing_(The_Sims_3)
-	and my personal experience		(:
+█▀█ █▀▀ █▀ █▀█ █ █ █▀█ █▀▀ █▀▀ █▀
+█▀▄ ██▄ ▄█ █▄█ █▄█ █▀▄ █▄▄ ██▄ ▄█
+
+Carl’s Sims 3 Guide				https://www.carls-sims-3-guide.com/skills/writing/book-type-list.php
+Sims Wiki Fandom: Books			https://sims.fandom.com/wiki/List_of_books_in_The_Sims_3
+Sims Wiki Fandom: Writing		https://sims.fandom.com/wiki/Writing_(The_Sims_3)
+and my personal experience		(:
 
 █   █▀▀ ▄▀█ █▀█ █▄ █ █ █▄ █ █▀▀   █ █ █ █▀█ █ ▀█▀ █ █▄ █ █▀▀
 █▄▄ ██▄ █▀█ █▀▄ █ ▀█ █ █ ▀█ █▄█   ▀▄▀▄▀ █▀▄ █  █  █ █ ▀█ █▄█
@@ -17,43 +19,56 @@ Writing Class
 +	Offered at the Business building
 +	Would recommend that this class be taken at a discounted price
 
-Writing Traits
+▀█▀ █▀█ ▄▀█ █ ▀█▀ █▀
+ █  █▀▄ █▀█ █  █  ▄█
+
 +	Most Helpful: Bookworm, Artistic
 +	Useful: Perfectionist, Computer Whiz
 +	Other: Loner, Couch Potato, Hates the Outdoors
 +	Specific to Novels: See Below ( Chart )
 
-My Chart
-	https://i.imgur.com/6MC3QN1.png
+█▀▀ █ █ ▄▀█ █▀█ ▀█▀ █▀
+█▄▄ █▀█ █▀█ █▀▄  █  ▄█
 
-Personal Advice
-	When naming books, I tend to use the format: NAME GENRE NUMBER
-		Example: Ace Masterpiece 017
-	Otherwise, you can use the original pre-written titles.
-		They automatically suggest a rename if the title is taken.
-			Title >> Title 2 >> Title 3 >> etc.
+https://i.imgur.com/6MC3QN1.png
+https://github.com/aecyia/TheSims3/blob/main/Files/Bookworms/Bookshelves_Setup.png
+
+
+█▄ █ ▄▀█ █▀▄▀█ █ █▄ █ █▀▀
+█ ▀█ █▀█ █ ▀ █ █ █ ▀█ █▄█
+
+When naming books, I tend to use the format: NAME GENRE NUMBER
+	Example: Ace Masterpiece 017
+Otherwise, you can use the original pre-written titles.
+	They automatically suggest a rename if the title is taken.
+		Title >> Title 2 >> Title 3 >> etc.
+
+
+█▀▀ █▀▀ █▄ █ █▀█ █▀▀ █▀
+█▄█ ██▄ █ ▀█ █▀▄ ██▄ ▄█
 
 All Books You Can Write ( 23 )
-	Article ( Story / Review )
-	Autobiography
-	Biography
-	Children’s
-	Comic [ UNIVERSITY LIFE ]
-	Drama
-	Fantasy
-	Fiction
-	Historical
-	Horror [ SUPERNATURAL ]
-	Humor
-	Life Story
-	Masterpiece
-	Mystery
-	Non-Fiction
-	Poetry [ SUPERNATURAL ]
-	Political Memoir ( Political Life Story )
-	Romance
-	Satire
-	Science Fiction
-	Sports [ UNIVERSITY LIFE ]
-	Trashy
-	Vaudeville
+
+Article ( Story / Review )
+Autobiography
+Biography
+Children’s
+Comic [ UNIVERSITY LIFE ]
+Drama
+Fantasy
+Fiction
+Historical
+Horror [ SUPERNATURAL ]
+Humor
+Life Story
+Masterpiece
+Mystery
+Non-Fiction
+Poetry [ SUPERNATURAL ]
+Political Memoir ( Political Life Story )
+Romance
+Satire
+Science Fiction
+Sports [ UNIVERSITY LIFE ]
+Trashy
+Vaudeville
