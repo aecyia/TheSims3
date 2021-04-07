@@ -1,0 +1,57 @@
+Collection Statistics from the Collection Journal
+
+Become a renowned collector of precious gems, valuable minerals, moon rocks,
+and all sorts of bugs. Scavenge the town for collectables !
+
+Useful Links:
+	Sims Fandom			https://sims.fandom.com/wiki/Collecting_(The_Sims_3)
+	Carls Sims Guide	https://www.carls-sims-3-guide.com/skills/collecting/
+
+█▀▀ █▀▀ █▄ █ █▀▀ █▀█ ▄▀█ █     █▀█ ▄▀█ █▀▀ █▀▀
+█▄█ ██▄ █ ▀█ ██▄ █▀▄ █▀█ █▄▄   █▀▀ █▀█ █▄█ ██▄
+
+--	Gems Collected
+--%	Unique Gems Found
+
+--	Metals Collected
+--% Unique Metals Found
+
+--	Rocks Found
+--	Unique Rocks Analyzed
+
+--	Butterflies Collected
+--%	Unique Butterflies Found
+
+--	Beetles Collected
+--%	Unique Beetles Found
+
+--	Insects Donated to Science
+--	Spirits Captured
+--	Spirits Sold For Science
+
+█▀▀ █ █ ▄▀█ █   █   █▀▀ █▄ █ █▀▀ █▀▀ █▀
+█▄▄ █▀█ █▀█ █▄▄ █▄▄ ██▄ █ ▀█ █▄█ ██▄ ▄█
+
+Challenge Name >> Requirement >> Reward
+
+Gem Collector
+	10 types of Gems
+		Rarest gem cut shape
+Metal Collector
+	5 unique Metals
+		Additional ingors returned in mail
+Amateur Rock Finder
+	at least half of all space rocks
+		Easier to find the rest
+Awesomest Rock Collector in the Universe
+	All Space rocks
+		More luck collecting ones of higher value
+Butterfly Collector
+	10 types of butterflies
+		Easier time finding beetles and butterflies
+Firefly Collector
+	All fireflies collected
+		Easier time collecting fireflies and other insects
+Beetle Collector
+	10 types of beetles
+		Never fail at catching butterflies or beetles again

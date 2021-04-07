@@ -1,0 +1,185 @@
+Sample text file for everything to collect
+	Insects
+		Butterflies
+		Fireflies
+		Beetles
+		Nanites
+	Gems
+	Metals
+	Space Rocks
+
+█▄▄ █ █ ▀█▀ ▀█▀ █▀▀ █▀█ █▀▀ █   █ █▀▀ █▀
+█▄█ █▄█  █   █  ██▄ █▀▄ █▀  █▄▄ █ ██▄ ▄█
+
+Base Game
+	Moth
+	Monarch Butterfly
+	Zephyr Metalmark Butterfly
+	Red Admiral Butterfly
+	Mission Blue Butterfly
+	Green Swallowtail Butterfly
+	Royal Purple Butterfly
+	Silver-spotted Skipper Butterfly
+	Zebra Butterfly
+	Rainbow Butterfly
+World Adventures
+	China
+		Bamboo Straight Swift Butterfly
+		Yellow Band Dart Butterfly
+	Egypt
+		Crypt Moth
+		Cleopatra Butterfly
+	France
+		Two-Tailed Pasha Butterfly
+		Glowy Fly
+Late Night
+	Green Will-O'-The-Wisp
+	Blue Will-O'-The-Wisp
+	Pink Will-O'-The-Wisp
+
+█▀▀ █ █▀█ █▀▀ █▀▀ █   █ █▀▀ █▀
+█▀  █ █▀▄ ██▄ █▀  █▄▄ █ ██▄ ▄█
+
+Firefly albus 		White
+Firefly pratinus	Green
+Firefly fulvus		Yellow
+Firefly luteus		Orange
+Firefly caeruleus	Blue
+Firefly ruber		Red
+Firefly roseus		Pink
+Firefly purpureus	Purple
+
+█▄▄ █▀▀ █▀▀ ▀█▀ █   █▀▀ █▀
+█▄█ ██▄ ██▄  █  █▄▄ ██▄ ▄█
+
+Base Game
+	Cockroach
+	Ladybug
+	Japanese Beetle
+	Water Beetle
+	Light Beetle
+	Rhinocerous Beetle
+	Stag Beetle Beetle
+	Spotted Beetle
+	Trilobite Beetle
+	Rainbow Beetle
+World Adventures
+	China	Red Assassin Bug
+	Egypt	Scarab Beetle
+	France	Cerambyx Beetle
+Late Night
+	Termite
+	Spider
+
+█▄ █ ▄▀█ █▄ █ █ ▀█▀ █▀▀ █▀
+█ ▀█ █▀█ █ ▀█ █  █  ██▄ ▄█
+
+Neutron	
+Caustic	
+Quantum	
+Scalar	
+Lite	
+Lepton	
+Tribble	
+Heisenberg
+Condensor
+Tunnelling
+Torque	
+Induction
+Polar	
+Thermo	
+Dispersion
+Entropic
+Optic	
+Damping	
+Prismatic
+Uber
+
+█▀▀ █▀▀ █▀▄▀█ █▀
+█▄█ ██▄ █ ▀ █ ▄█
+
+Alabaster
+Amethyst
+Bloodstone
+Blue Topaz
+Citrine
+Diamond
+Emerald
+Fluorite
+Geode
+Jade
+Lapis Lazuli
+Luminorious
+Moonstone
+Opal
+Pink Diamond
+Quartz
+Rainbow
+Ruby
+Septarian Nodule
+Smithsonite
+Smoky Quartz
+Soulpeace	
+Sunstone
+Tanzanite
+Tiberium
+Turquoise
+Vampire’s Eye
+Yellow Sapphire
+
+█▀▄▀█ █▀▀ ▀█▀ ▄▀█ █   █▀
+█ ▀ █ ██▄  █  █▀█ █▄▄ ▄█
+
+Iron
+Silver 
+Gold 
+Palladium
+Plutonium
+Copper
+Mummitomium
+Iridium
+Titanium
+Platinum
+Mercury	
+Compendium
+Supernovium
+Woohooium
+Carbon Steel
+Tungsten Carbide
+
+█▀ █▀█ ▄▀█ █▀▀ █▀▀   █▀█ █▀█ █▀▀ █▄▀ █▀
+▄█ █▀▀ █▀█ █▄▄ ██▄   █▀▄ █▄█ █▄▄ █ █ ▄█
+
+Acapulcoite
+Angrite
+Ataxite
+Aubrite
+Branchinite
+Carbonaceous Chondrite
+Chassignite
+Diogenite
+Enstratite Chondrite
+Eucrite
+Hexahedrite
+Howardite
+Kamasite
+Londranite
+Lunar
+Mesosiderite
+Nakalite
+Oetahedrite
+Ordinary Chondrite
+Pallasite
+Pearsonite
+Rodiekceous
+Rumuritie
+Shergottite
+Unusual Bellacite
+Unusual Custerous Gossticite
+Unusual Dukedite
+Unusual Holmberic
+Unusual Llamatite
+Unusual Mazzadrayte
+Unusual Sporecite
+Ureilite
+Winonaite
