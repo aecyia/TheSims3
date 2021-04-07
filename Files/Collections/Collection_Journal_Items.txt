@@ -1,4 +1,4 @@
-Sample text file for everything to collect
+This is a sample text file for everything to collect
 	Insects
 		Butterflies
 		Fireflies
