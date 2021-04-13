@@ -1,0 +1,97 @@
+Resources
+	https://sims.fandom.com/wiki/Game_guide:Multiple_ways_to_improve_The_Sims_3%27s_performance
+	http://simswiki.info/wiki.php?title=Game_Help:Improving_Sims_3_Performance
+	https://www.nraas.net/community/TIPS-FOR-BETTER-GAME-PERFORMANCE
+	https://www.neoseeker.com/Articles/Games/Guides/sims3performance/
+
+
+
+Documents\Electronic Arts\The Sims 3\DCBackup
+	+	Delete everything EXCEPT ccmerged.package
+Documents\Electronic Arts\The Sims 3
+	+	Delete the following:
+		+	CasPartCache.package
+		+	compositorCache.package
+		+	scriptCache.package
+		+	simCompositorCache.package
+		+	socialCache.package
+	+	Unused files from the folders:
+		+	Custom Music
+		+	Downloads
+		+	Exports
+		+	FeaturedItems
+		+	Screenshots
+Documents\Electronic Arts\The Sims 3\FeaturedItems
+	+	How to disable: https://sims3.crinrict.com/en/2011/12/tutorial-turning-off-ingame-store-and-preventing-loading-of-pictures.html
+	1	Right-click FeaturedItems
+	2	Properties
+	3	Security
+	4	Select the User with which you play the game
+	5	Edit
+	6	New window should appear
+	7	Select the User with which you play the game again
+	8	Find the Write
+	9	Check the box for Deny
+	10	Okay ( 2nd window )
+	11	Read the Windows Security popup
+	12	Yes
+	13	Okay ( 1st window )
+Program Files (x86)\Steam\steamapps\common\The Sims 3\Game\Bin
+	+	Open GraphicsRules.sgr with a text editor ( such as Notepad )
+		1	Find this
+			seti cpuLevelUber 	4
+			seti cpuLevelHigh 	3
+			seti cpuLevelMedium 2
+			seti cpuLevelLow 	1
+		2	Change to
+			seti cpuLevelUber 	4
+			seti cpuLevelHigh 	3
+			seti cpuLevelMedium 3
+			seti cpuLevelLow 	3
+		3	Find this
+			seti cardLevelUber		5
+			seti cardLevelHigh	  	4
+			seti cardLevelMedium	3
+			seti cardLevelLowmedium	2
+			seti cardLevelLow		1
+		4	Change to
+			seti cardLevelUber	 	5
+			seti cardLevelHigh	 	4
+			seti cardLevelMedium	3
+			seti cardLevelLowmedium	3
+			seti cardLevelLow		3
+Combining all your packages with S3PE
+	+	Purpose: Opens one file instead of multiple = runs faster with the same amount of space taken up
+	+	Guide: https://club-crimsyn.dreamwidth.org/28336.html
+In-Game Options
+	+	Graphics Tab
+		+	Lowest setting for all
+		+	Enable Object Hiding
+	+	General Settings Tab
+		+	Disable these if you don't need / use them:
+			+	Shop Mode
+			+	Lessons
+			+	Memories
+			+	Usage Sharing
+			+	Interactive Loading Screens
+Disabling the Launcher
+	+	C:\Program Files (x86)\Steam\steamapps\common\The Sims 3\Game\Bin
+	1	Rename the Sims3Launcher.exe to Sims3LauncherOld.exe ( or anything you want )
+	2	Rename TS3.exe to Sims3Launcher.exe
+NRaas Mods
+	+	Purpose
+		+	Resetting sims, towns, objects, etc.
+		+	Catching errors, resolving them
+		+	Cleaning up broken objects, finding missing sims, etc.
+	+	MasterController
+	+	Overwatch
+	+	Error Trap
+Other General Actions
+	+	Not running any other applications in the background as you play
+	+	Loading a different save game or creating a new game
+		+	Don't go to the main menu and switch
+		+	Instead, quit the entire game completely and reload the game
+		+	This prevents file corruption, bloating, and other detrimental errors
+	+	Don't have too many Cash Registers ( and other role giving objects ) on a single lot
+	+	Don't overload your Sim's inventory with a lot of items
+	
