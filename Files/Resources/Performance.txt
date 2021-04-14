@@ -4,8 +4,6 @@ Resources
 	https://www.nraas.net/community/TIPS-FOR-BETTER-GAME-PERFORMANCE
 	https://www.neoseeker.com/Articles/Games/Guides/sims3performance/
 
-
-
 Documents\Electronic Arts\The Sims 3\DCBackup
 	+	Delete everything EXCEPT ccmerged.package
 Documents\Electronic Arts\The Sims 3
