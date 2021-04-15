@@ -26,7 +26,7 @@ University Life
 █ █ █▀█ █ █ █   ▀█▀ █▀█   █ █▀▄▀█ █▀█ █▀█ █▀█ █ █ █▀▀
 █▀█ █▄█ ▀▄▀▄▀    █  █▄█   █ █ ▀ █ █▀▀ █▀▄ █▄█ ▀▄▀ ██▄
 
-+	Take an athletic class
++	Athletic class
 +	Swimming
 +	Workout Machines
 	+	Run on a Treadmill
@@ -63,3 +63,8 @@ University Life
 5	Run Faster				Run faster when using 'Go Here' interaction.
 6	Train					Allows the Sim to train another Sim. This will boost the Athletic skill gain rate of the trainee.
 7	Quick Burst				Sim Works Out much faster and experiences the gains, hygiene decay and fatigue much sooner.
+
+█▀█ █▀█ █▀█ █▀█ █▀█ ▀█▀ █ █ █▄ █ █ ▀█▀ █ █▀▀ █▀
+█▄█ █▀▀ █▀▀ █▄█ █▀▄  █  █▄█ █ ▀█ █  █  █ ██▄ ▄█
+
+?

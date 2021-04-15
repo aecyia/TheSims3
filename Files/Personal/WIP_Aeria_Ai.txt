@@ -1,25 +1,24 @@
-30 march 2021
+14 april 2021
 
 skill journal for Aeria Ai
-+	100 jokes -- 56
++	100 jokes -- 69
 +	fishing
 	+	catch 20 types of fish -- 53%
 	+	catch 350 fish -- 147
 +	guitar
-	+	10 parties and venues -- 0?
-	+	25,000 tips -- 663
+	+	10 parties and venues -- 1
+	+	25,000 tips -- 1248
 +	science & logic
 	+	chess rank 5 -- 4
-	+	tutor 20 hrs children -- 1
-	+	analyze 100 -- 0-0-21-21
+	+	tutor 20 hrs children -- 3
+	+	analyze 100 -- 1-0-21-21
 	+	100 experiments -- 4
-+	30 paintings  --- 13
-+	5 masterpieces -- 0
++	30 paintings  --- 14
++	5 masterpieces -- 1
 +	25 sims finder -- 0
-+	change 30 relationships to romantic interest or partner -- 0
 +	photography
 	+	75 subjects -- 40
-	+	50 unique sims -- 20
+	+	50 unique sims -- 21
 	+	60 strangers -- 0
 	+	5 photo collections -- 0
 +	martial arts
@@ -32,17 +31,16 @@ skill journal for Aeria Ai
 	+	turn 400 homegrown grapes into nectar
 	+	15 combinations -- 5
 +	sculpting
-	+	20 made -- 4
-	+	35 made -- 4
+	+	35 made -- 6
 	+	5 each material
 		clay	1
-		stone	0
+		stone	1
 		wood	0
 		ice		3 	need 25
 		metal 	0
-		topiary	0
+		topiary	1
 +	inventing
-	+	250 widgets -- 0
+	+	250 widgets -- 2
 	+	detonated 150 objects -- 0
 	+	100 Big Inventions -- 3
 +	street art
@@ -51,8 +49,8 @@ skill journal for Aeria Ai
 	+	5 street art masterpieces
 +	consignment
 	+	impressive rep
-	+	sell 150 items -- 42
-	+	25,000 -- 4525
+	+	sell 150 items -- 84
+	+	25,000 -- 15607
 +	collections
 	+	all space rocks
 	+	all fireflies

@@ -1,20 +1,22 @@
 █▀█ █▀▀ █▀ █▀█ █ █ █▀█ █▀▀ █▀▀ █▀ 	https://www.carls-sims-3-guide.com/skills/charisma/
 █▀▄ ██▄ ▄█ █▄█ █▄█ █▀▄ █▄▄ ██▄ ▄█ 	https://sims.fandom.com/wiki/Charisma
 
-
 █▀ ▀█▀ ▄▀█ ▀█▀ █ █▀ ▀█▀ █ █▀▀ █▀
 ▄█  █  █▀█  █  █ ▄█  █  █ █▄▄ ▄█
 
-+	
-+	
-+	
++	Sims Known: 0
++	Friendships Made: 517
++	Best Friends Made: 230
++	Traits Learned: 805
++	Smooth Recoveries Made: 0
++	Funny Jokes Told: 0
 
 Challenges				Requirement				Bonus / Reward
-Celebrity				25 local acquaintances	build relationships quicker
-Personable				learned 50 traits		learn traits quicker
-Super Friendly			at least 20 friends		friendships never decay
+Celebrity				25 local acquaintances	Build relationships quicker
+Personable				learned 50 traits		Learn traits quicker
+Super Friendly			at least 20 friends		Friendships never decay
 Everybody's Best Friend 10 best friends 		Friends skip Good Friend and goes to Best Friends
-Comedian				100 jokes told			jokes rarely fall flat
+Comedian				100 jokes told			Jokes rarely fall flat
 
 █▀█ █▀█ █▀█ █▀▀ █▀▀ █▀ █▀ █ █▀█ █▄ █ █▀
 █▀▀ █▀▄ █▄█ █▀  ██▄ ▄█ ▄█ █ █▄█ █ ▀█ ▄█
