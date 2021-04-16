@@ -71,16 +71,4 @@ Lvl	Ability					Type		Notes				Requirements ( Friends-Relationships )
 █▀█ █▀█ █▀█ █▀█ █▀█ ▀█▀ █ █ █▄ █ █ ▀█▀ █ █▀▀ █▀
 █▄█ █▀▀ █▀▀ █▄█ █▀▄  █  █▄█ █ ▀█ █  █  █ ██▄ ▄█
 
-Charismatic Cash
-	Received: Random
-	Goal: Gain a skill point in Charisma
-	Reward: Money
-	Text: A local politician that's been keeping an eye on you thinks you should put in the effort to improve your Charisma skill. To make this worth your effort, you'll be paid to improve your Charisma skill by just one level. Seems like a good deal!
-Smooth, Like Verbal Butter
-	Received: Reach Level 5
-	Goal: Use "Smooth Recovery"
-	Reward: Monetary
-	Text: Sims like you tend to get into a lot of conversations. Unfortunately, not every comment will land favorably upon the ears of its recipient, so you'll need to learn how to get out of sticky situations. Use Smooth Recovery to fix a social faux pas and you'll earn a little cash for your efforts.
-A Charming Experiment
-	Goal: Assist Experiment at the Science Lab
-	Text: The Science Facility is conducting experiments to see if charming Sims can convince creatures to do things they don't necessarily want to do. This week, the scientists are paying cash to any Sim that can convince ants do dig holes in specific areas. Travel to the facility to show just how charming you really are.
+https://sims.fandom.com/wiki/Opportunity/Charisma
