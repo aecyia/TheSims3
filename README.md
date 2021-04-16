@@ -1,5 +1,5 @@
-# TheSims3
+# The Sims 3
 
-My progress + notes for The Sims 3
+Purpose: My progress + notes
 
-Project Started: 03 February 2021
+Project Start: 03 February 2021
