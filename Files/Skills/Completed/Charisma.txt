@@ -5,9 +5,9 @@
 ▄█  █  █▀█  █  █ ▄█  █  █ █▄▄ ▄█
 
 +	Sims Known: 0
-+	Friendships Made: 517
-+	Best Friends Made: 230
-+	Traits Learned: 805
++	Friendships Made: 0
++	Best Friends Made: 0
++	Traits Learned: 0
 +	Smooth Recoveries Made: 0
 +	Funny Jokes Told: 0
 

@@ -1,0 +1,58 @@
+█▀█ █▀▀ █▀ █▀█ █ █ █▀█ █▀▀ █▀▀ █▀ 	
+█▀▄ ██▄ ▄█ █▄█ █▄█ █▀▄ █▄▄ ██▄ ▄█ 	
+
+█▀ ▀█▀ ▄▀█ ▀█▀ █ █▀ ▀█▀ █ █▀▀ █▀
+▄█  █  █▀█  █  █ ▄█  █  █ █▄▄ ▄█
+
++	Number Caught: 0
++	Fish Types Caught: 0%
++	Heaviest Fish Caught: - ( 0 kg )
++	Most Money Earned from Selling a Fish: - for §0
++	Total Money Earned from Fishing: §0
+	
+Challenges				Requirement				Bonus / Reward
+Amateur Ichthyologist	20 types of fish caught	Able to catch bigger fish
+Commercial Fisherman	350 fish caught			Able to catch more fish in less time
+
+█▀█ █▀█ █▀█ █▀▀ █▀▀ █▀ █▀ █ █▀█ █▄ █ █▀
+█▀▀ █▀▄ █▄█ █▀  ██▄ ▄█ ▄█ █ █▄█ █ ▀█ ▄█
+
++	
++	
+
+█ █ █▀█ █ █ █   ▀█▀ █▀█   █ █▀▄▀█ █▀█ █▀█ █▀█ █ █ █▀▀
+█▀█ █▄█ ▀▄▀▄▀    █  █▄█   █ █ ▀ █ █▀▀ █▀▄ █▄█ ▀▄▀ ██▄
+
++	
++	
++	
++	
++	
++	
+
+█ █ █▀ █▀▀ █▀▀ █ █ █     ▀█▀ █▀█ ▄▀█ █ ▀█▀ █▀
+█▄█ ▄█ ██▄ █▀  █▄█ █▄▄    █  █▀▄ █▀█ █  █  ▄█
+
++	
++	
+
+▄▀█ █▄▄ █ █   █ ▀█▀ █ █▀▀ █▀
+█▀█ █▄█ █ █▄▄ █  █  █ ██▄ ▄█
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+█▀█ █▀█ █▀█ █▀█ █▀█ ▀█▀ █ █ █▄ █ █ ▀█▀ █ █▀▀ █▀
+█▄█ █▀▀ █▀▀ █▄█ █▀▄  █  █▄█ █ ▀█ █  █  █ ██▄ ▄█
+
++	
++	
++	
