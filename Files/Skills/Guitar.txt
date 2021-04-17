@@ -4,13 +4,17 @@
 █▀ ▀█▀ ▄▀█ ▀█▀ █ █▀ ▀█▀ █ █▀▀ █▀
 ▄█  █  █▀█  █  █ ▄█  █  █ █▄▄ ▄█
 
-+	
-+	
-+	
-+	
++	Compositions Known: 0%
++	Number of times compositions have been performed: 0
++	Money earned through playing guitar: §0
++	Number of times Sims have watched you perform: 0
 	
-Challenges			Requirement				Bonus / Reward
+Challenges			Requirement					Bonus / Reward
+Master Guitarist	Learned every song			Receive a special Master Track
+Guitar Star			Play at 10 parties + venues	Earn larger monetary rewards for tips and performances
+Money Maker			Earn §25,000				Receive a new Master Track
 
+Guitar Compositions
 
 █▀█ █▀█ █▀█ █▀▀ █▀▀ █▀ █▀ █ █▀█ █▄ █ █▀
 █▀▀ █▀▄ █▄█ █▀  ██▄ ▄█ ▄█ █ █▄█ █ ▀█ ▄█
@@ -51,6 +55,4 @@ Challenges			Requirement				Bonus / Reward
 █▀█ █▀█ █▀█ █▀█ █▀█ ▀█▀ █ █ █▄ █ █ ▀█▀ █ █▀▀ █▀
 █▄█ █▀▀ █▀▀ █▄█ █▀▄  █  █▄█ █ ▀█ █  █  █ ██▄ ▄█
 
-+	
-+	
-+	
+https://sims.fandom.com/wiki/Opportunity/Guitar

@@ -4,13 +4,22 @@
 █▀ ▀█▀ ▄▀█ ▀█▀ █ █▀ ▀█▀ █ █▀▀ █▀
 ▄█  █  █▀█  █  █ ▄█  █  █ █▄▄ ▄█
 
-+	
-+	
-+	
-+	
-	
-Challenges			Requirement				Bonus / Reward
++	Number Planted: 0
++	Unique Plants planted: 0%
++	Items Harvested: 0
++	Perfect Items Harvested: 0
++	Unknown Seeds Planted: 0
++	Best Harvestable: -
++	Money Earned: §0
++	Largest Money Bag Harvested: §0
 
+Challenges			Requirement					Bonus / Reward
+Master Planter		Plant 19 types				Reduce weed growth
+Botanical Boss		Harvest 75 perfect plants	Plants almost never die from neglect
+Master Farmer		Harvest 650 plants			Plants remain watered and fertilized longer; more efficient gardens
+
+Plant History
+Plant Name >> # Harvested >> Highest Quality
 
 █▀█ █▀█ █▀█ █▀▀ █▀▀ █▀ █▀ █ █▀█ █▄ █ █▀
 █▀▀ █▀▄ █▄█ █▀  ██▄ ▄█ ▄█ █ █▄█ █ ▀█ ▄█
@@ -51,6 +60,4 @@ Challenges			Requirement				Bonus / Reward
 █▀█ █▀█ █▀█ █▀█ █▀█ ▀█▀ █ █ █▄ █ █ ▀█▀ █ █▀▀ █▀
 █▄█ █▀▀ █▀▀ █▄█ █▀▄  █  █▄█ █ ▀█ █  █  █ ██▄ ▄█
 
-+	
-+	
-+	
+https://sims.fandom.com/wiki/Opportunity/Gardening

@@ -10,4 +10,6 @@
 	+	notes
 + 	recipes, bait
 
+band = skill ? https://sims.fandom.com/wiki/Opportunity/Band
+
 §
