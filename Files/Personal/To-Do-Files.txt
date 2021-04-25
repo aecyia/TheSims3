@@ -9,6 +9,9 @@
 	+	list
 	+	notes
 + 	recipes, bait
++	moodlets
++	lifetime rewards
++	traits
 
 band = skill ? https://sims.fandom.com/wiki/Opportunity/Band
 
