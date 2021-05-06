@@ -12,7 +12,6 @@ skill journal for Aeria Ai
 	+	100 experiments -- 4
 +	30 paintings  --- 16
 +	5 masterpieces -- 2
-+	25 sims finder -- 1
 +	photography
 	+	75 subjects -- 42
 	+	50 unique sims -- 22
@@ -41,86 +40,86 @@ skill journal for Aeria Ai
 	+	all fireflies
 ======================================================================
 INSECTS
-Late Night
-	Green Will-O'-The-Wisp
-	Blue Will-O'-The-Wisp
-	Pink Will-O'-The-Wisp
-Showtime
-	Firefly albus 		White
-	Firefly pratinus	Green
-	Firefly fulvus		Yellow
-	Firefly luteus		Orange
-	Firefly caeruleus	Blue
-	Firefly ruber		Red
-	Firefly roseus		Pink
-	Firefly purpureus	Purple
-Late Night
-	Termite
-	Spider
-Into the Future
-	Neutron
-	Caustic
-	Quantum
-	Scalar
-	Lite
-	Lepton
-	Tribble
-	Heisenberg
-	Condensor
-	Tunnelling
-	Torque
-	Induction
-	Polar
-	Thermo
-	Dispersion
-	Entropic
-	Optic
-	Damping	
-	Prismatic
-	Uber
+	Late Night
+		Green Will-O'-The-Wisp
+		Blue Will-O'-The-Wisp
+		Pink Will-O'-The-Wisp
+	Showtime
+		Firefly albus 		White
+		Firefly pratinus	Green
+		Firefly fulvus		Yellow
+		Firefly luteus		Orange
+		Firefly caeruleus	Blue
+		Firefly ruber		Red
+		Firefly roseus		Pink
+		Firefly purpureus	Purple
+	Late Night
+		Termite
+		Spider
+	Into the Future
+		Neutron
+		Caustic
+		Quantum
+		Scalar
+		Lite
+		Lepton
+		Tribble
+		Heisenberg
+		Condensor
+		Tunnelling
+		Torque
+		Induction
+		Polar
+		Thermo
+		Dispersion
+		Entropic
+		Optic
+		Damping	
+		Prismatic
+		Uber
 ======================================================================
 fishing
-Base Game
-	Blowfish
-	Piranha
-	Tragic Clownfish
-	Tuna
-	Vampire Fish
-World Adventures
-	Frog
-	Doitsu Koi
-	Kawarimono Koi
-	Snails
-	Crocodile
-	Ochiba Koi
-	Crawfish
-	Tancho Koi
-	Mummy Fish
-	Dragon Fish
-Late Night
-	Sea Sludge
-	Kissing Gourami
-	Sewer Trilobite
-Showtime
-	Sea Bat Starfish
-	Linckia Starfish
-	Ninja Starfish
-Supernatural
-	Toad
-	Luminous Salamander
-	Fairy Damsel
-Island Paradise
-	Sea Urchin
-	Anemone
-	Sea Polyp
-	Hermit Crab
-	Octopus
-	Squid
-	Eel
-	Seahorse
-Into the Future
-	Three Eyed Fish
-	Rainbow Snail
+	Base Game
+		Blowfish
+		Piranha
+		Tragic Clownfish
+		Tuna
+		Vampire Fish
+	World Adventures
+		Frog
+		Doitsu Koi
+		Kawarimono Koi
+		Snails
+		Crocodile
+		Ochiba Koi
+		Crawfish
+		Tancho Koi
+		Mummy Fish
+		Dragon Fish
+	Late Night
+		Sea Sludge
+		Kissing Gourami
+		Sewer Trilobite
+	Showtime
+		Sea Bat Starfish
+		Linckia Starfish
+		Ninja Starfish
+	Supernatural
+		Toad
+		Luminous Salamander
+		Fairy Damsel
+	Island Paradise
+		Sea Urchin
+		Anemone
+		Sea Polyp
+		Hermit Crab
+		Octopus
+		Squid
+		Eel
+		Seahorse
+	Into the Future
+		Three Eyed Fish
+		Rainbow Snail
 ======================================================================
 Married Christopher Steel
 Triplets: Brooklyn, Blossom, Bellatrix
