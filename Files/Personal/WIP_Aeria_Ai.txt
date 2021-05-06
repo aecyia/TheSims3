@@ -24,7 +24,6 @@ skill journal for Aeria Ai
 	+	tournament 5 -- 1
 	+	meditate 150 hours -- 10
 	+	75 sparring matches -- 7
-	+	break 150 boards -- 10
 +	nectar
 	+	200 bottles made -- 168
 	+	turn 400 homegrown grapes into nectar
