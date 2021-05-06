@@ -336,9 +336,13 @@ Riding Skill
 
 █▀ █ █ █▀█ █ █ █ ▀█▀ █ █▀▄▀█ █▀▀
 ▄█ █▀█ █▄█ ▀▄▀▄▀  █  █ █ ▀ █ ██▄
-	Blue [ 1; Level 3 ]
-	Red [ 2; Level 5 ]
-	Green [ 2; Levels 8 – 9 ]
+
+Recipes
+	3	Vegetarian Fish and Chips
+	5	Fried Peanut Butter & Banana Sandwich
+	5	Cheese Tofu Steak
+	8	Tri-Tip Tofu Steak
+	9	Stuffed Tursoykey
 
 █▀ █ █ █▀█ █▀▀ █▀█ █▄ █ ▄▀█ ▀█▀ █ █ █▀█ ▄▀█ █  
 ▄█ █▄█ █▀▀ ██▄ █▀▄ █ ▀█ █▀█  █  █▄█ █▀▄ █▀█ █▄▄
