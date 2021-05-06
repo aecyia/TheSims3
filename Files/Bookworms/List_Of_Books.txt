@@ -10,7 +10,10 @@ https://sims.fandom.com/wiki/List_of_books_in_The_Sims_3
 +	Similar to Books.txt but with less notes
 +	A full list of books for collectors
 +	Titles only
-
++	Skill books #s are of the Volume number, not the level number
+	+	1 is Level 0
+	+	2 is Level 3
+	+	3 is Level 6
 
 █▄▄ ▄▀█ █▀ █▀▀   █▀▀ ▄▀█ █▀▄▀█ █▀▀
 █▄█ █▀█ ▄█ ██▄   █▄█ █▀█ █ ▀ █ ██▄
@@ -55,116 +58,115 @@ Trashy
 	A Magnetic Attraction
 Vaudeville
 	Not Expecting Much
-Opportunity Books
-	Business
-		0	The Wright Papers
-		0	The Goth Account
-		0	Landgraab Financial	
-		1	Caffeine Culture
-		2	Going Paperless
-		3	Bloviation on Hyper Inflation
-		4	You Are Special
-		5	Limiting Liability
-		6	Woes of Whistleblowing
-		7	Yay Tax Shelters!
-		8	ABC's of Downsizing
-	Criminal
-		1	Dos and Don'ts of the Dons
-		2	Adapting to the Wallet Environment
-		3	From Goon to Guido: Thuggery Evolved
-		4	Make Em' Pay
-		5	Losing the Huckster Label
-		6	Snake Oil and Other Sound Investment Strategies
-		7	Advanced Combinatorials
-		8	Making Yourself Indispensable
-		9	The Mythical Hot Tin Roof
-		10	Hostile Takeover: When to Make the Move
-	Culinary
-		0	Secrets of The Master Chef
-	Journalism
-		1	Street or Sidewalk?, A Cautionary Tale
-		2	Faster Checking Through the Power of Word Processing!
-		3	Avoiding Plagiarism
-		4	From Notepad to Laptop
-		5	101 Ways to Be Vague
-		6	The Finer Points of Yellow Journalism
-		7	Fronts and Barometrics: Excellence Through Jargon
-		8	(sic) and Its Use In Important Stories
-		9	How To Fix It When News Breaks
-	Law Enforcement
-		1	How to Avoid Concrete Shoes
-		2	More Out Than In: Maintaining Proper Desk Environment
-		3	Advanced Whistle Techniques
-		4	Protect, Serve And Look Good Doing It
-		5	Free Donuts and Other Great Leadership Tips
-		5	How Not to Be Seen
-		6	Keep 'Em Guessing
-		7	Effective Luminol Spraying Techniques
-		8	Avoiding Squint Jargon for Better Communication
-	Medical
-		1	The Gift of Life
-		2	Better Out Than In
-		3	Respecting the Ambulance
-		4	Blood Is Not Blue
-		5	The 36 Hour Shift And You
-		6	The Golden Hour
-		7	The ATGCs of Genetics
-		8	The Simmania Pandemic
-		9	Grey Matters
-	Military
-		1	Getting Out of the Pit
-		2	Advanced Elbow Lubricant Techniques
-		3	Learning to Speak Officer
-		4	Learn to Fly In 21 Days	
-		5	Dealing With Whining From Engines and Pilots
-		6	How to Take the Ugly for the Team
-		7	Beyond the Aviator Glasses
-		8	Herding Cats
-		9	Coping With Geese and Vipers
+Business Opportunity
+	0	The Wright Papers
+	0	The Goth Account
+	0	Landgraab Financial	
+	1	Caffeine Culture
+	2	Going Paperless
+	3	Bloviation on Hyper Inflation
+	4	You Are Special
+	5	Limiting Liability
+	6	Woes of Whistleblowing
+	7	Yay Tax Shelters!
+	8	ABC's of Downsizing
+Criminal Opportunity
+	1	Dos and Don'ts of the Dons
+	2	Adapting to the Wallet Environment
+	3	From Goon to Guido: Thuggery Evolved
+	4	Make Em' Pay
+	5	Losing the Huckster Label
+	6	Snake Oil and Other Sound Investment Strategies
+	7	Advanced Combinatorials
+	8	Making Yourself Indispensable
+	9	The Mythical Hot Tin Roof
+	10	Hostile Takeover: When to Make the Move
+Culinary Opportunity
+	0	Secrets of The Master Chef
+Journalism Opportunity
+	1	Street or Sidewalk?, A Cautionary Tale
+	2	Faster Checking Through the Power of Word Processing!
+	3	Avoiding Plagiarism
+	4	From Notepad to Laptop
+	5	101 Ways to Be Vague
+	6	The Finer Points of Yellow Journalism
+	7	Fronts and Barometrics: Excellence Through Jargon
+	8	(sic) and Its Use In Important Stories
+	9	How To Fix It When News Breaks
+Law Enforcement Opportunity
+	1	How to Avoid Concrete Shoes
+	2	More Out Than In: Maintaining Proper Desk Environment
+	3	Advanced Whistle Techniques
+	4	Protect, Serve And Look Good Doing It
+	5	Free Donuts and Other Great Leadership Tips
+	5	How Not to Be Seen
+	6	Keep 'Em Guessing
+	7	Effective Luminol Spraying Techniques
+	8	Avoiding Squint Jargon for Better Communication
+Medical Opportunity
+	1	The Gift of Life
+	2	Better Out Than In
+	3	Respecting the Ambulance
+	4	Blood Is Not Blue
+	5	The 36 Hour Shift And You
+	6	The Golden Hour
+	7	The ATGCs of Genetics
+	8	The Simmania Pandemic
+	9	Grey Matters
+Military Opportunity
+	1	Getting Out of the Pit
+	2	Advanced Elbow Lubricant Techniques
+	3	Learning to Speak Officer
+	4	Learn to Fly In 21 Days	
+	5	Dealing With Whining From Engines and Pilots
+	6	How to Take the Ugly for the Team
+	7	Beyond the Aviator Glasses
+	8	Herding Cats
+	9	Coping With Geese and Vipers
+Music Opportunity
 	Music
-		Music
-			1	Getting Noticed in a Sea of Fans
-			2	Life on the Hard Rocky Road
-			3	Don't Upstage the Band
-			4	Herding Cats: Music Edition
-			5	Diamonds in the Rough
-		Electronic Rock !
-			6	It’s More than Rhyme Books	Music
-			8	Developing Good Rock Habits	Music
-			9	Legends Of Rock	Music
-		Symphonic
-			6	True Symphonic Synergy
-			9	Improving Conductivity Between Brass and Woodwinds
-	Politics
-		1	Wax Until There's No More
-		2	Cheating With Chads
-		3	The Joy of Smear Campaigning
-		4	There Is No "No"
-		5	Taze Gently	Politics
-		6	An Earmark Economy
-		7	Yay Pork Barrels!
-		8	Gerrymandapalooza!
-		9	A Free Free Free World
-	Professional Sports
-		1	When to Rave And When to Riot
-		2	Making the Sale: From Hot Dogs to Foam Fingers
-		2	Dealing With Difficult Players
-		4	Bus Cramps: A Cautionary Tale
-		5	Getting Past the Draft
-		6	Name Positioning: Starting Your Brand
-		7	It's More Than Good Moves
-		9	Making Better Shoe Deals
-		10	Avoiding the Downward Spiral
-	Science
-		1	Living With Mutation
-		2	Dangerous Device Disposal
-		3	Practical Science From Boast to Beaker
-		4	Nitrates: They're Not Just for Bombs Anymore
-		5	Strange Correlations of Little Shops and Venus
-		6	When Pigs Fly, Going Too Far?
-		7	Goldfish, Piranha and Other Friendly Creatures
-		8	Advanced Deniability Procedures
-		9	The Evolution of the Robo-Llama
+		1	Getting Noticed in a Sea of Fans
+		2	Life on the Hard Rocky Road
+		3	Don't Upstage the Band
+		4	Herding Cats: Music Edition
+		5	Diamonds in the Rough
+	Electronic Rock !
+		6	It’s More than Rhyme Books	Music
+		8	Developing Good Rock Habits	Music
+		9	Legends Of Rock	Music
+	Symphonic
+		6	True Symphonic Synergy
+		9	Improving Conductivity Between Brass and Woodwinds
+Politics Opportunity
+	1	Wax Until There's No More
+	2	Cheating With Chads
+	3	The Joy of Smear Campaigning
+	4	There Is No "No"
+	5	Taze Gently	Politics
+	6	An Earmark Economy
+	7	Yay Pork Barrels!
+	8	Gerrymandapalooza!
+	9	A Free Free Free World
+Professional Sports Opportunity
+	1	When to Rave And When to Riot
+	2	Making the Sale: From Hot Dogs to Foam Fingers
+	2	Dealing With Difficult Players
+	4	Bus Cramps: A Cautionary Tale
+	5	Getting Past the Draft
+	6	Name Positioning: Starting Your Brand
+	7	It's More Than Good Moves
+	9	Making Better Shoe Deals
+	10	Avoiding the Downward Spiral
+Science Opportunity
+	1	Living With Mutation
+	2	Dangerous Device Disposal
+	3	Practical Science From Boast to Beaker
+	4	Nitrates: They're Not Just for Bombs Anymore
+	5	Strange Correlations of Little Shops and Venus
+	6	When Pigs Fly, Going Too Far?
+	7	Goldfish, Piranha and Other Friendly Creatures
+	8	Advanced Deniability Procedures
+	9	The Evolution of the Robo-Llama
 Charisma Skill
 	1	Fixing the Friend Problem
 	2	Talking to Anyone
@@ -205,7 +207,7 @@ Childhood Development Books
 Pregnancy Books [ Non-Fiction ]
 	Totally Preggers: An Expecting Mother's Tale
 	Baby Incoming: Preparing with Vigilance
-Guitar Compositions [ Levels 5 – 9 ]
+Guitar Compositions
 	5	Yes Ma'am, I Do
 	6	Flamenco Fever
 	7	Perfect Moment
@@ -346,33 +348,75 @@ Recipes
 
 █▀ █ █ █▀█ █▀▀ █▀█ █▄ █ ▄▀█ ▀█▀ █ █ █▀█ ▄▀█ █  
 ▄█ █▄█ █▀▀ ██▄ █▀▄ █ ▀█ █▀█  █  █▄█ █▀▄ █▀█ █▄▄
-	General ( 14 )
-		Biography
-		Children's
-		Drama
-		Fantasy
-		Fiction
-		Historical
-		Horror
-		Humor
-		Mystery
-		Non-Fiction
-		Poetry
-		Romance
-		Science Fiction
-		Trashy
-	Skill Books
-		Alchemy
-	Recipes
-		Blue [ 4; Levels 1 – 3 ]
-		Red [ 4; Levels 5 – 7 ]
-		Green [ 2; Levels 9 – 10 ]
-	Alchemy Recipes
-		Red [ 3; Levels 5 – 7 ]
-		Green [ 4; Levels 8 – 10 ]
-	Bait
-		Toads, Salamanders, and Beyond: A Guide to Magical Fish
-			Level 0
+Biography
+	Baron Graff Van Gould
+Children's
+	One Wolf, Two Wolves. Where Wolf? There Wolf!
+	True Fairy Tales
+Drama
+	The Wight Wail
+Fantasy
+	Under Siege and Ogre Powered
+Fiction
+	Spellslinger: Have Wand, Will Travel
+Historical
+	The Secret History of Lost Lemuria
+Horror
+	The Sandwich Horror
+	The Silence of the Llamas
+	Hotel Diavolo: Hell's Bellhops
+	Loel and Lola
+Humor
+	Breaking Wind
+Mystery
+	Inappropriate Manor
+Non-Fiction
+	Catch A Magic Fish, Cook a Magic Meal
+	Why Do Vampires Suck?
+	Logical Fallacies You Can Really Believe
+	Germ Warfare
+	Things That Go Bump In The Night
+	Accumulating Orgone With The Wind
+	Predictions Of The Future
+	Compendium of Curses
+	How To Win At Videogames Without Really Trying
+Poetry
+	Ballard's Ballads
+	White Mountain Haikus
+	Loafing, Whining, and Thou
+	The Epic of the Tattered Trousers
+Romance
+	Seances and Sixth Sense Abilities
+Science Fiction
+	Plan 8 from Lunar Lakes
+Trashy
+	Haute Knights
+	More Bawdy Tales
+Alchemy Skill
+	1	Alchemy Basic
+	2	Secret Motions and Super Potions
+	3	Omnimustericon: The Ultimate Book of Shadows
+Recipes
+	1	Chili Con Carne
+	1	Vegetarian Chili
+	2	Mushroom Omelette
+	3	Hot and Sour Soup
+	5	Firecracker Shrimp
+	5	Firecracker Tofu
+	6	Aloo Masala Curry
+	7	Porcini Risotto
+	9	Potato and truffle Torte
+	10	Ceviche
+Alchemy Recipes
+	5	Procreation Elixir
+	6	Liquid Job Booster
+	7	Potent Enlightenment
+	8	Potent Personality Adjuster
+	9	Fountain of Youth Elixir
+	9	Potent Zombification
+	10	Origin of the Tragic Clown
+Bait
+	0	Toads, Salamanders, and Beyond: A Guide to Magical Fish
 
 █ █ █▄ █ █ █ █ █▀▀ █▀█ █▀ █ ▀█▀ █▄█   █   █ █▀▀ █▀▀
 █▄█ █ ▀█ █ ▀▄▀ ██▄ █▀▄ ▄█ █  █   █    █▄▄ █ █▀  ██▄
