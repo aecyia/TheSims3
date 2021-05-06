@@ -22,7 +22,7 @@ Peg Box
 Xylophone
 	Max Level: 3
 	Toddlers Only
-	When they age into a teen, they will start their Guitar skill at the same level as the skill level they acquired. If the Late Night expansion pack is installed, then the Bass, Piano, and Drum skills will also be raised. In addition, if Into the Future is installed, Laser Rhythm-a-con skill will be raised.
+	When they age into a teen, they will start their Guitar skill at the same level as the skill level they acquired. If the Late Night expansion pack is installed, then the Bass, Piano, and Drum skills will also be raised. In addition, if Into the Future is installed, Laser Rhythm-A-Con skill will be raised.
 Blocks
 	Max Level: 3
 	Children Only

@@ -276,10 +276,10 @@ Inventing Skill
 
 █ █▄ █ ▀█▀ █▀█   ▀█▀ █ █ █▀▀   █▀▀ █ █ ▀█▀ █ █ █▀█ █▀▀
 █ █ ▀█  █  █▄█    █  █▀█ ██▄   █▀  █▄█  █  █▄█ █▀▄ ██▄
-	Skill Books
-		Bot Building
-	Compositions [ Levels 5 – 9 ]
-		Laser Rhythm-a-con
+Bot Building Skill
+
+Laser Rhythm-A-Con Compositions [ Levels 5 – 9 ]
+		
 Late Night
 	Opportunity
 		Film
@@ -458,7 +458,7 @@ Compositions
 	Base Game
 		Guitar
 	Into the Future
-		Laser Rhythm-a-con
+		Laser Rhythm-A-Con
 	Late Night
 		Bass
 		Drums
