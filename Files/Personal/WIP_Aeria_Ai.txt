@@ -9,7 +9,6 @@ skill journal for Aeria Ai
 	+	10 parties and venues -- 3 ?
 	+	25,000 tips -- 1248
 +	science & logic
-	+	chess rank 5 -- 4
 	+	tutor 20 hrs children -- 5
 	+	100 experiments -- 4
 +	30 paintings  --- 16
