@@ -206,23 +206,26 @@ Childhood Development Books
 Pregnancy Books [ Non-Fiction ]
 	Totally Preggers: An Expecting Mother's Tale
 	Baby Incoming: Preparing with Vigilance
-Compositions [ Levels 5 – 9 ]
-	Guitar
+Guitar Compositions [ Levels 5 – 9 ]
+	5	Yes Ma'am, I Do
+	6	Flamenco Fever
+	7	Perfect Moment
+	8	Improvise Here and Now
+	9	Dream Escape
 Bait
-	+	The cover pictures for the following are different levels and do not align with the other cover pictures
-		1	All that Glitters is Goldfish
-		2	Glitter Tragedy: Trout and Clownfish Baiting Technique
-	+	Generally, the order from lowest fishing skill to highest is: Purple, Green, Blue 
-		1	The Wee Swimmers: Reeling Anchovy and Minnow
-		1	The Wiskered Deep: Catfish and You
-		1	All that Glitters is Goldfish
-		2	Gilled Tragedy: Trout and Clownfish Baiting Technique
-		3	Sushi Swimmers: How to Catch Tuna, Salmon and Blowfish
-		5	Predators of the Deep: Piranha, Shark and Swordfish Tips
-		5	Heavenly Delicacies: Hooking the Angelfish and Lobster
-		6	Binary Fishing and Analog Bait for Robofish
-		7	Fishing for the Dead: Deathfish and Vampirefish on the Line
-Ambitions
+	1	All that Glitters is Goldfish
+	1	The Wee Swimmers: Reeling Anchovy and Minnow
+	1	The Wiskered Deep: Catfish and You
+	2	Gilled Tragedy: Trout and Clownfish Baiting Technique
+	3	Sushi Swimmers: How to Catch Tuna, Salmon and Blowfish
+	5	Heavenly Delicacies: Hooking the Angelfish and Lobster
+	5	Predators of the Deep: Piranha, Shark and Swordfish Tips
+	6	Binary Fishing and Analog Bait for Robofish
+	7	Fishing for the Dead: Deathfish and Vampirefish on the Line
+
+▄▀█ █▀▄▀█ █▄▄ █ ▀█▀ █ █▀█ █▄ █ █▀
+█▀█ █ ▀ █ █▄█ █  █  █ █▄█ █ ▀█ ▄█
+
 	Opportunity
 		11 Education Books
 	Past
