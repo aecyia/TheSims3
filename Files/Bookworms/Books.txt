@@ -64,9 +64,15 @@ Base Game
 			1	All that Glitters is Goldfish
 			2	Glitter Tragedy: Trout and Clownfish Baiting Technique
 		+	Generally, the order from lowest fishing skill to highest is: Purple, Green, Blue 
-		Level 1: 		3 books
-		Levels 2 – 5: 	3 books
-		Levels 5 – 7: 	3 books
+			1	The Wee Swimmers: Reeling Anchovy and Minnow
+			1	The Wiskered Deep: Catfish and You
+			1	All that Glitters is Goldfish
+			2	Gilled Tragedy: Trout and Clownfish Baiting Technique
+			3	Sushi Swimmers: How to Catch Tuna, Salmon and Blowfish
+			5	Predators of the Deep: Piranha, Shark and Swordfish Tips
+			5	Heavenly Delicacies: Hooking the Angelfish and Lobster
+			6	Binary Fishing and Analog Bait for Robofish
+			7	Fishing for the Dead: Deathfish and Vampirefish on the Line
 Ambitions
 	Opportunity
 		11 Education Books
