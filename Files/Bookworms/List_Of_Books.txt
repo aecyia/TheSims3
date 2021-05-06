@@ -327,18 +327,21 @@ Piano Compositions
 	9	Roland Forebearance
 
 █▀█ █▀▀ ▀█▀ █▀
-█▀▀ ██▄ ░█░ ▄█
-	Skill Books
-		Riding
+█▀▀ ██▄  █  ▄█
 
-█▀ █░█ █▀█ █░█░█ ▀█▀ █ █▀▄▀█ █▀▀
-▄█ █▀█ █▄█ ▀▄▀▄▀ ░█░ █ █░▀░█ ██▄
+Riding Skill
+	1	Zen and the Art of Not Falling Off a Horse
+	2	The Galloping Guru
+	3	Sunsets and Other Fun Things to Ride Into
+
+█▀ █ █ █▀█ █ █ █ ▀█▀ █ █▀▄▀█ █▀▀
+▄█ █▀█ █▄█ ▀▄▀▄▀  █  █ █ ▀ █ ██▄
 	Blue [ 1; Level 3 ]
 	Red [ 2; Level 5 ]
 	Green [ 2; Levels 8 – 9 ]
 
-█▀ █░█ █▀█ █▀▀ █▀█ █▄░█ ▄▀█ ▀█▀ █░█ █▀█ ▄▀█ █░░
-▄█ █▄█ █▀▀ ██▄ █▀▄ █░▀█ █▀█ ░█░ █▄█ █▀▄ █▀█ █▄▄
+█▀ █ █ █▀█ █▀▀ █▀█ █▄ █ ▄▀█ ▀█▀ █ █ █▀█ ▄▀█ █  
+▄█ █▄█ █▀▀ ██▄ █▀▄ █ ▀█ █▀█  █  █▄█ █▀▄ █▀█ █▄▄
 	General ( 14 )
 		Biography
 		Children's
@@ -367,8 +370,8 @@ Piano Compositions
 		Toads, Salamanders, and Beyond: A Guide to Magical Fish
 			Level 0
 
-█░█ █▄░█ █ █░█ █▀▀ █▀█ █▀ █ ▀█▀ █▄█   █░░ █ █▀▀ █▀▀
-█▄█ █░▀█ █ ▀▄▀ ██▄ █▀▄ ▄█ █ ░█░ ░█░   █▄▄ █ █▀░ ██▄
+█ █ █▄ █ █ █ █ █▀▀ █▀█ █▀ █ ▀█▀ █▄█   █   █ █▀▀ █▀▀
+█▄█ █ ▀█ █ ▀▄▀ ██▄ █▀▄ ▄█ █  █   █    █▄▄ █ █▀  ██▄
 	General
 		Fantasy
 		Historical
@@ -396,8 +399,8 @@ Piano Compositions
 		Advice: Regular Bookshop prices are lower than Nerd Shop prices
 			35 books
 
-█░█░█ █▀█ █▀█ █░░ █▀▄   ▄▀█ █▀▄ █░█ █▀▀ █▄░█ ▀█▀ █░█ █▀█ █▀▀ █▀
-▀▄▀▄▀ █▄█ █▀▄ █▄▄ █▄▀   █▀█ █▄▀ ▀▄▀ ██▄ █░▀█ ░█░ █▄█ █▀▄ ██▄ ▄█
+█ █ █ █▀█ █▀█ █   █▀▄   ▄▀█ █▀▄ █ █ █▀▀ █▄ █ ▀█▀ █ █ █▀█ █▀▀ █▀
+▀▄▀▄▀ █▄█ █▀▄ █▄▄ █▄▀   █▀█ █▄▀ ▀▄▀ ██▄ █ ▀█  █  █▄█ █▀▄ ██▄ ▄█
 	+	Personal Preference: Location-based rooms with their books, artifacts, and collections.
 	General
 		Children's
