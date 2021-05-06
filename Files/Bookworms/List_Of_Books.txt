@@ -11,79 +11,217 @@ https://sims.fandom.com/wiki/List_of_books_in_The_Sims_3
 +	A full list of books for collectors
 +	Titles only
 
-█▄▄ █▀█ █▀█ █▄▀ █▀
-█▄█ █▄█ █▄█ █ █ ▄█
 
-Base Game
-	General
-		Autobiography
-			Point Farmer: The Story of Grant Rodiek
-			The Noble History of Socks
-		Children's
-			Where's Bella?
-		Drama
-		Fantasy
-		Fiction
-		Historical
-		Humor
-		Mystery
-		Non-Fiction
-		Political Memoir
-		Romance
-		Satire
-		Science Fiction
-		Trashy
-		Vaudeville
-	Opportunity Books ( 11 )
-		Business
-		Criminal
-		Culinary
-		Journalism
-		Law Enforcement
-		Medical
-		Military
+█▄▄ ▄▀█ █▀ █▀▀   █▀▀ ▄▀█ █▀▄▀█ █▀▀
+█▄█ █▀█ ▄█ ██▄   █▄█ █▀█ █ ▀ █ ██▄
+
+Autobiography
+	Point Farmer: The Story of Grant Rodiek
+	The Noble History of Socks
+Children's
+	Where's Bella?
+	The Adventures Of Raymundo
+Drama
+	Commitment Issues
+Fantasy
+	The Warlock of Palladia
+	Unicorns for Audrey
+Fiction
+	Abstract with Turkey
+	Thunking
+Historical
+	The Crumplebottom Legacy: A Tale
+	Llama Rights
+Humor
+	Stragedy and Other Messterpieces
+	I'm Still Cool
+Mystery
+	Murder in Pleasantview
+	Game of Thorns
+Non-Fiction
+	How to Spin Plates
+	The Point of Pointilism
+Political Memoir
+	The Economy
+Romance
+	Special Snowflake
+Satire
+	Exit at Powell
+	On the Margins
+Science Fiction
+	Zombies? Zombies!
+	GPod
+Trashy
+	A Magnetic Attraction
+Vaudeville
+	Not Expecting Much
+Opportunity Books
+	Business
+		0	The Wright Papers
+		0	The Goth Account
+		0	Landgraab Financial	
+		1	Caffeine Culture
+		2	Going Paperless
+		3	Bloviation on Hyper Inflation
+		4	You Are Special
+		5	Limiting Liability
+		6	Woes of Whistleblowing
+		7	Yay Tax Shelters!
+		8	ABC's of Downsizing
+	Criminal
+		1	Dos and Don'ts of the Dons
+		2	Adapting to the Wallet Environment
+		3	From Goon to Guido: Thuggery Evolved
+		4	Make Em' Pay
+		5	Losing the Huckster Label
+		6	Snake Oil and Other Sound Investment Strategies
+		7	Advanced Combinatorials
+		8	Making Yourself Indispensable
+		9	The Mythical Hot Tin Roof
+		10	Hostile Takeover: When to Make the Move
+	Culinary
+		0	Secrets of The Master Chef
+	Journalism
+		1	Street or Sidewalk?, A Cautionary Tale
+		2	Faster Checking Through the Power of Word Processing!
+		3	Avoiding Plagiarism
+		4	From Notepad to Laptop
+		5	101 Ways to Be Vague
+		6	The Finer Points of Yellow Journalism
+		7	Fronts and Barometrics: Excellence Through Jargon
+		8	(sic) and Its Use In Important Stories
+		9	How To Fix It When News Breaks
+	Law Enforcement
+		1	How to Avoid Concrete Shoes
+		2	More Out Than In: Maintaining Proper Desk Environment
+		3	Advanced Whistle Techniques
+		4	Protect, Serve And Look Good Doing It
+		5	Free Donuts and Other Great Leadership Tips
+		5	How Not to Be Seen
+		6	Keep 'Em Guessing
+		7	Effective Luminol Spraying Techniques
+		8	Avoiding Squint Jargon for Better Communication
+	Medical
+		1	The Gift of Life
+		2	Better Out Than In
+		3	Respecting the Ambulance
+		4	Blood Is Not Blue
+		5	The 36 Hour Shift And You
+		6	The Golden Hour
+		7	The ATGCs of Genetics
+		8	The Simmania Pandemic
+		9	Grey Matters
+	Military
+		1	Getting Out of the Pit
+		2	Advanced Elbow Lubricant Techniques
+		3	Learning to Speak Officer
+		4	Learn to Fly In 21 Days	
+		5	Dealing With Whining From Engines and Pilots
+		6	How to Take the Ugly for the Team
+		7	Beyond the Aviator Glasses
+		8	Herding Cats
+		9	Coping With Geese and Vipers
+	Music
 		Music
-			Music
-			Electronic Rock !
-			Symphonic
-		Politics
-		Professional Sports
-		Science
-	Skill Books
-		Charisma
-		Cooking
-		Gardening
-		Handiness
-		Logic
-	Childhood Development Books
-		None
-			Jimmy Sprocket series
-				Bright Pink
-		Logic
-			White + Pink + Green
-		Painting
-			Black + Yellow + White
-		Writing
-			Green + White + Red
-	Pregnancy Books [ Non-Fiction ]
-		Totally Preggers: An Expecting Mother's Tale
-		Baby Incoming: Preparing with Vigilance
-	Compositions [ Levels 5 – 9 ]
-		Guitar
-	Bait
-		+	The cover pictures for the following are different levels and do not align with the other cover pictures
-			1	All that Glitters is Goldfish
-			2	Glitter Tragedy: Trout and Clownfish Baiting Technique
-		+	Generally, the order from lowest fishing skill to highest is: Purple, Green, Blue 
-			1	The Wee Swimmers: Reeling Anchovy and Minnow
-			1	The Wiskered Deep: Catfish and You
-			1	All that Glitters is Goldfish
-			2	Gilled Tragedy: Trout and Clownfish Baiting Technique
-			3	Sushi Swimmers: How to Catch Tuna, Salmon and Blowfish
-			5	Predators of the Deep: Piranha, Shark and Swordfish Tips
-			5	Heavenly Delicacies: Hooking the Angelfish and Lobster
-			6	Binary Fishing and Analog Bait for Robofish
-			7	Fishing for the Dead: Deathfish and Vampirefish on the Line
+			1	Getting Noticed in a Sea of Fans
+			2	Life on the Hard Rocky Road
+			3	Don't Upstage the Band
+			4	Herding Cats: Music Edition
+			5	Diamonds in the Rough
+		Electronic Rock !
+			6	It’s More than Rhyme Books	Music
+			8	Developing Good Rock Habits	Music
+			9	Legends Of Rock	Music
+		Symphonic
+			6	True Symphonic Synergy
+			9	Improving Conductivity Between Brass and Woodwinds
+	Politics
+		1	Wax Until There's No More
+		2	Cheating With Chads
+		3	The Joy of Smear Campaigning
+		4	There Is No "No"
+		5	Taze Gently	Politics
+		6	An Earmark Economy
+		7	Yay Pork Barrels!
+		8	Gerrymandapalooza!
+		9	A Free Free Free World
+	Professional Sports
+		1	When to Rave And When to Riot
+		2	Making the Sale: From Hot Dogs to Foam Fingers
+		2	Dealing With Difficult Players
+		4	Bus Cramps: A Cautionary Tale
+		5	Getting Past the Draft
+		6	Name Positioning: Starting Your Brand
+		7	It's More Than Good Moves
+		9	Making Better Shoe Deals
+		10	Avoiding the Downward Spiral
+	Science
+		1	Living With Mutation
+		2	Dangerous Device Disposal
+		3	Practical Science From Boast to Beaker
+		4	Nitrates: They're Not Just for Bombs Anymore
+		5	Strange Correlations of Little Shops and Venus
+		6	When Pigs Fly, Going Too Far?
+		7	Goldfish, Piranha and Other Friendly Creatures
+		8	Advanced Deniability Procedures
+		9	The Evolution of the Robo-Llama
+Skill Books
+	Charisma
+		1	Fixing the Friend Problem
+		2	Talking to Anyone
+		3	Becoming Irresistible
+	Cooking
+		1	Too much Salt!
+		2	Why You Need Baking Soda
+		3	Yummy and Delicious
+	Gardening
+		1	The Watercan Chronicles
+		2	Odor Free Fertilizer
+		3	Gardening to Riches
+	Handiness
+		1	Unplug It First!
+		2	Turn off the Water!
+		3	Puddles and Electricity Don't Mix
+	Logic
+		1	Knight vs. Bishops
+		2	To Xor or Not Xor
+		3	3.14159265
+Childhood Development Books
+	None: Bright Pink
+		Jimmy Sprocket and the Chalice of Lichens
+		Jimmy Sprocket and the Squishy Stone
+		Jimmy Sprocket the Escape from Funland
+	Logic: White + Pink + Green
+		Being Smart for Fun and Profit
+		Counting for Those Who Cannot
+		Squares are Not Triangles
+	Painting: Black + Yellow + White
+		Don't Stay Within the Lines
+		Finger Painting 101
+		Handprints of the Masters
+	Writing: Green + White + Red
+		Bluish Eggs with Side of Pastrami
+		Frank I'm Not
+		Oh the Destinations You'll Briefly Visit
+Pregnancy Books [ Non-Fiction ]
+	Totally Preggers: An Expecting Mother's Tale
+	Baby Incoming: Preparing with Vigilance
+Compositions [ Levels 5 – 9 ]
+	Guitar
+Bait
+	+	The cover pictures for the following are different levels and do not align with the other cover pictures
+		1	All that Glitters is Goldfish
+		2	Glitter Tragedy: Trout and Clownfish Baiting Technique
+	+	Generally, the order from lowest fishing skill to highest is: Purple, Green, Blue 
+		1	The Wee Swimmers: Reeling Anchovy and Minnow
+		1	The Wiskered Deep: Catfish and You
+		1	All that Glitters is Goldfish
+		2	Gilled Tragedy: Trout and Clownfish Baiting Technique
+		3	Sushi Swimmers: How to Catch Tuna, Salmon and Blowfish
+		5	Predators of the Deep: Piranha, Shark and Swordfish Tips
+		5	Heavenly Delicacies: Hooking the Angelfish and Lobster
+		6	Binary Fishing and Analog Bait for Robofish
+		7	Fishing for the Dead: Deathfish and Vampirefish on the Line
 Ambitions
 	Opportunity
 		11 Education Books
