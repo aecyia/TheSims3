@@ -161,10 +161,6 @@ University Life
 		Science
 		Social Networking
 		Street Art
-	Recipes
-		Blue [ 4; Levels 1 – 4 ]
-		Red [ 3; Levels 5 – 7 ]
-		Green [ 4; Levels 8 – 10 ]
 	Comics
 		Advice: Regular Bookshop prices are lower than Nerd Shop prices
 			35 books

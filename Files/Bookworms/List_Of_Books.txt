@@ -420,32 +420,84 @@ Bait
 
 █ █ █▄ █ █ █ █ █▀▀ █▀█ █▀ █ ▀█▀ █▄█   █   █ █▀▀ █▀▀
 █▄█ █ ▀█ █ ▀▄▀ ██▄ █▀▄ ▄█ █  █   █    █▄▄ █ █▀  ██▄
-	General
-		Fantasy
-		Historical
-		Horror
-		Non-Fiction
-		Poetry
-		Sports
-		Trashy
-	General Textbooks
-		Business [ Brown ]
-		Communication [ Red + White ]
-		Fine Arts [ Grey ]
-		Science [ Blue + White ]
-		Sports [ Green ]
-		Technology [ Green Blue ]
-	Skill Books
-		Science
-		Social Networking
-		Street Art
-	Recipes
-		Blue [ 4; Levels 1 – 4 ]
-		Red [ 3; Levels 5 – 7 ]
-		Green [ 4; Levels 8 – 10 ]
-	Comics
-		Advice: Regular Bookshop prices are lower than Nerd Shop prices
-			35 books
+
+Fantasy
+	Zombies Ate My Plants
+Historical
+	I Found This University
+Horror
+	Day of the Plantsims
+Non-Fiction
+	AutoBiology: Know Your Body
+	Business Law
+	Fine Arts Course Materials
+	Physically Fit To Be Tied
+	Technology for Luddites
+	What Do You Mean By Communication?
+Poetry
+	Peace, Protest and Herbs
+	Odes to Science
+	Hymn of Festive Stone
+Sports
+	Passive Plays that Play
+	The Player's Journey
+	Sports Almanac of the Century
+	Swish, Dribble, Swish
+	Taking the Ball Home
+	The Dreams of Jerome
+	Training in the Rain
+	Preparation for Professional Sports
+Trashy
+	Core Coed Curriculum
+General Textbooks
+	Business [ Light Brown ]
+		Money Suits For Money Business
+		The Principles Of Avoiding Expenditures
+		Criminalology: Best Practices Of Competitive Economics
+		The Business of Building A Better Business Building
+	Communication [ Red + White ]
+		The Ultimate Guide To Overhyping Sensationalism
+		Spinning Mass Hysteria
+		Understanding The Power of Print
+		Exposology: Introduction to Denouement
+		It's Not What You Say, It's How You Say It
+	Fine Arts [ Grey ]
+		Grafittiology: The Rhythm and Poetry of Art
+		Which is Better, Pen or Pencil? It's a Draw!
+		Humanities: Form, Fashion, and Function
+		Trash is Treasure: Finding Art and Keeping Art
+	Science [ Blue + White ]
+		Green Genes: Planting Information
+		Discovering Your Own Intelligence
+		Exploring The Microscopic World
+		Cosmology: The Universe Is A Really Really Big Place
+	Sports [ Green ]
+		Basic Body Types and The Sports That Love Them
+		Reflexology: Training More Than Muscle Memories
+		Play Smarter: Diet And Exercise is for Wimps
+	Technology [ Green Blue ]
+		Computer Short Cuts and Circuit Boards
+		Motorology: Get Your Engine Running
+		A Blueprint of Modern Technology
+		Forensic Models: Learning From Simulations
+Science Skill
+	1	Chew The Fact
+	2	Quantum Genetics
+	3	Replicating Nature Artificially
+Social Networking Skill
+	1	The Zen Of Blogging
+	2	Cyber-stalking And You
+	3	Strictly Online Relationships
+Street Art Skill
+	1	The Word On The Street
+	2	Don't Say It, Spray It!
+	3	Urban Makeovers
+Comics
+	Advice: Regular Bookshop prices are lower than Nerd Shop prices
+		35 books
+UNLISTED GENRE
+	Sci-Fi
+		The Vampire Blogs
 
 █ █ █ █▀█ █▀█ █   █▀▄   ▄▀█ █▀▄ █ █ █▀▀ █▄ █ ▀█▀ █ █ █▀█ █▀▀ █▀
 ▀▄▀▄▀ █▄█ █▀▄ █▄▄ █▄▀   █▀█ █▄▀ ▀▄▀ ██▄ █ ▀█  █  █▄█ █▀▄ ██▄ ▄█
