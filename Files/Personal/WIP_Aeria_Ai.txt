@@ -1,7 +1,6 @@
 06 may 2021
 
 skill journal for Aeria Ai
-+	100 jokes -- 93
 +	fishing
 	+	catch 20 types of fish -- 53%
 	+	catch 350 fish -- 147
