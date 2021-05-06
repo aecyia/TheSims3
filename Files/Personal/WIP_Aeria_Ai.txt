@@ -84,15 +84,8 @@ Into the Future
 ======================================================================
 fishing
 Base Game
-	Anchovy
 	Blowfish
-	Deathfish
-	Jellyfish
-	Lobster
 	Piranha
-	Robot Fish
-	Shark
-	Swordfish
 	Tragic Clownfish
 	Tuna
 	Vampire Fish
@@ -134,3 +127,4 @@ Into the Future
 ======================================================================
 Married Christopher Steel
 Triplets: Brooklyn, Blossom, Bellatrix
+Triplets: 
