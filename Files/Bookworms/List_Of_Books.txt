@@ -2,14 +2,25 @@
 █▀▄ ██▄ ▄█ █▄█ █▄█ █▀▄ █▄▄ ██▄ ▄█
 
 https://sims.fandom.com/wiki/Writing_(The_Sims_3)
+https://sims.fandom.com/wiki/List_of_books_in_The_Sims_3
+
+█▄ █ █▀█ ▀█▀ █▀▀ █▀
+█ ▀█ █▄█  █  ██▄ ▄█
+
++	Similar to Books.txt but with less notes
++	A full list of books for collectors
++	Titles only
 
 █▄▄ █▀█ █▀█ █▄▀ █▀
 █▄█ █▄█ █▄█ █ █ ▄█
 
 Base Game
-	General ( 15 )
+	General
 		Autobiography
-		Children’s
+			Point Farmer: The Story of Grant Rodiek
+			The Noble History of Socks
+		Children's
+			Where's Bella?
 		Drama
 		Fantasy
 		Fiction
@@ -55,7 +66,7 @@ Base Game
 		Writing
 			Green + White + Red
 	Pregnancy Books [ Non-Fiction ]
-		Totally Preggers: An Expecting Mother’s Tale
+		Totally Preggers: An Expecting Mother's Tale
 		Baby Incoming: Preparing with Vigilance
 	Compositions [ Levels 5 – 9 ]
 		Guitar
@@ -77,14 +88,14 @@ Ambitions
 	Opportunity
 		11 Education Books
 	Past
-		Children’s
+		Children's
 		Fiction
 		Historical
 		Humor
 		Non-Fiction
 		Satire
 	Future
-		Children’s
+		Children's
 		Fantasy
 		Fiction
 		Non-Fiction
@@ -116,7 +127,7 @@ Showtime
 Supernatural
 	General ( 14 )
 		Biography
-		Children’s
+		Children's
 		Drama
 		Fantasy
 		Fiction
@@ -171,7 +182,7 @@ University Life
 World Adventures
 	+	Personal Preference: Location-based rooms with their books, artifacts, and collections.
 	General
-		Children’s
+		Children's
 		Drama
 		Fantasy
 		Fiction
@@ -218,7 +229,7 @@ World Adventures
 Article ( Story / Review )
 Autobiography
 Biography
-Children’s
+Children's
 Comic [ UNIVERSITY LIFE ]
 Drama
 Fantasy
@@ -259,7 +270,7 @@ Biography
 	Supernatural
 Childhood Development ( Toddlers )
 	Base Game
-Children’s
+Children's
 	Base Game
 	Ambitions Future
 	Ambitions Past

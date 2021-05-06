@@ -1,7 +1,7 @@
 █▀█ █▀▀ █▀ █▀█ █ █ █▀█ █▀▀ █▀▀ █▀
 █▀▄ ██▄ ▄█ █▄█ █▄█ █▀▄ █▄▄ ██▄ ▄█
 
-Carl’s Sims 3 Guide				https://www.carls-sims-3-guide.com/skills/writing/book-type-list.php
+Carl's Sims 3 Guide				https://www.carls-sims-3-guide.com/skills/writing/book-type-list.php
 Sims Wiki Fandom: Books			https://sims.fandom.com/wiki/List_of_books_in_The_Sims_3
 Sims Wiki Fandom: Writing		https://sims.fandom.com/wiki/Writing_(The_Sims_3)
 and my personal experience		(:
@@ -68,8 +68,8 @@ https://sims.fandom.com/wiki/Writing_(The_Sims_3)#Opportunities
 Toddler Skill Books ( for an early start )
 [ These are the green books ]
 +	Bluish Eggs With a Side of Pastrami
-+	Frank I’m Not
-+ 	Oh the Destinations You’ll Briefly Visit
++	Frank I'm Not
++ 	Oh the Destinations You'll Briefly Visit
 
 Writing Class
 +	Offered at the Business building
@@ -168,7 +168,7 @@ All Books You Can Write ( 23 )
 Article ( Story / Review )
 Autobiography
 Biography
-Children’s
+Children's
 Comic [ UNIVERSITY LIFE ]
 Drama
 Fantasy
