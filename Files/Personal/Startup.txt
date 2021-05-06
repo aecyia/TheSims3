@@ -1,11 +1,11 @@
 PACKAGES DIALOG showing up
-13april.package
+	13april.package
 
 LOGGED IN TO THE SIMS 3
 
 CTRL + SHIFT + C
-testingcheatsenabled true
+	testingcheatsenabled true
 
 SHIFT + L-CLICK + MAILBOX
-MAKE ALL HAPPY
-MAKE NEEDS STATIC
+	MAKE ALL HAPPY
+	MAKE NEEDS STATIC
