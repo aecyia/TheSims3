@@ -165,27 +165,26 @@ Opportunity Books
 		7	Goldfish, Piranha and Other Friendly Creatures
 		8	Advanced Deniability Procedures
 		9	The Evolution of the Robo-Llama
-Skill Books
-	Charisma
-		1	Fixing the Friend Problem
-		2	Talking to Anyone
-		3	Becoming Irresistible
-	Cooking
-		1	Too much Salt!
-		2	Why You Need Baking Soda
-		3	Yummy and Delicious
-	Gardening
-		1	The Watercan Chronicles
-		2	Odor Free Fertilizer
-		3	Gardening to Riches
-	Handiness
-		1	Unplug It First!
-		2	Turn off the Water!
-		3	Puddles and Electricity Don't Mix
-	Logic
-		1	Knight vs. Bishops
-		2	To Xor or Not Xor
-		3	3.14159265
+Charisma Skill
+	1	Fixing the Friend Problem
+	2	Talking to Anyone
+	3	Becoming Irresistible
+Cooking Skill
+	1	Too much Salt!
+	2	Why You Need Baking Soda
+	3	Yummy and Delicious
+Gardening Skill
+	1	The Watercan Chronicles
+	2	Odor Free Fertilizer
+	3	Gardening to Riches
+Handiness Skill
+	1	Unplug It First!
+	2	Turn off the Water!
+	3	Puddles and Electricity Don't Mix
+Logic Skill
+	1	Knight vs. Bishops
+	2	To Xor or Not Xor
+	3	3.14159265
 Childhood Development Books
 	None: Bright Pink
 		Jimmy Sprocket and the Chalice of Lichens
@@ -225,6 +224,7 @@ Bait
 
 ▄▀█ █▀▄▀█ █▄▄ █ ▀█▀ █ █▀█ █▄ █ █▀
 █▀█ █ ▀ █ █▄█ █  █  █ █▄█ █ ▀█ ▄█
+
 Education Opportunity
 	1	How to Run Recess
 	2	The ABCDFs of Grading
@@ -276,8 +276,11 @@ Inventing Skill
 
 █ █▄ █ ▀█▀ █▀█   ▀█▀ █ █ █▀▀   █▀▀ █ █ ▀█▀ █ █ █▀█ █▀▀
 █ █ ▀█  █  █▄█    █  █▀█ ██▄   █▀  █▄█  █  █▄█ █▀▄ ██▄
-Bot Building Skill
 
+Bot Building Skill
+	1	Integrated Circuits and You
+	2	A.I. for Dummies
+	3	In Case of Uprising
 Laser Rhythm-A-Con Compositions [ Levels 5 – 9 ]
 		
 Late Night
@@ -396,220 +399,3 @@ World Adventures
 		France
 			Level 0
 			1 Book
-
-▄▀█ █   █     █▄▄ █▀█ █▀█ █▄▀ █▀   █▄█ █▀█ █ █   █▀▀ ▄▀█ █▄ █   █ █ █ █▀█ █ ▀█▀ █▀▀
-█▀█ █▄▄ █▄▄   █▄█ █▄█ █▄█ █ █ ▄█    █  █▄█ █▄█   █▄▄ █▀█ █ ▀█   ▀▄▀▄▀ █▀▄ █  █  ██▄
-
-Article ( Story / Review )
-Autobiography
-Biography
-Children's
-Comic [ UNIVERSITY LIFE ]
-Drama
-Fantasy
-Fiction
-Historical
-Horror [ SUPERNATURAL ]
-Humor
-Life Story
-Masterpiece
-Mystery
-Non-Fiction
-Poetry [ SUPERNATURAL ]
-Political Memoir ( Political Life Story )
-Romance
-Satire
-Science Fiction
-Sports [ UNIVERSITY LIFE ]
-Trashy
-Vaudeville
-
-▄▀█ █   █     █▄▄ █▀█ █▀█ █▄▀ █▀   █▀▀ █▀▀ █▄ █ █▀█ █▀▀ █▀
-█▀█ █▄▄ █▄▄   █▄█ █▄█ █▄█ █ █ ▄█   █▄█ ██▄ █ ▀█ █▀▄ ██▄ ▄█
-
-+	World Adventures' locations ( China, Egypt, France ) are separated
-
-Article ( Story / Review )
-	Base Game
-Autobiography
-	Base Game
-Bait
-	Base Game
-	China
-	Egypt
-	France
-	Supernatural
-Biography
-	Base Game
-	Supernatural
-Childhood Development ( Toddlers )
-	Base Game
-Children's
-	Base Game
-	Ambitions Future
-	Ambitions Past
-	China
-	Egypt
-	France
-	Supernatural
-Comic
-	University Life
-Compositions
-	Base Game
-		Guitar
-	Into the Future
-		Laser Rhythm-A-Con
-	Late Night
-		Bass
-		Drums
-		Piano
-Drama
-	Base Game
-	Egypt
-	Supernatural
-Fantasy
-	Base Game
-	Ambitions Future
-	China
-	Supernatural
-	University Life
-Fiction
-	Base Game
-	Ambitions Future
-	Ambitions Past
-	China
-	Egypt
-	France
-	Supernatural
-Historical
-	Base Game
-	Ambitions Past
-	China
-	Egypt
-	France
-	Supernatural
-	University Life
-Horror
-	Supernatural
-	University Life
-Humor
-	Base Game
-	Ambitions Past
-	Egypt
-	France
-Life Story
-	Base Game
-Masterpiece
-	Base Game
-Mystery
-	Base Game
-	Egypt
-	France
-	Supernatural
-Non-Fiction
-	Base Game
-	Ambitions Future
-	Ambitions Past
-	China
-	Egypt
-	France
-	Supernatural
-	University Life
-Opportunity
-	Base Game
-		Business
-		Criminal
-		Culinary
-		Journalism
-		Law Enforcement
-		Medical
-		Military
-		Music
-			Music: Electronic Rock !
-			Music: Symphonic
-		Politics
-		Professional Sports
-		Science
-	Ambitions
-		Education
-	Late Night
-		Film
-		Film: Acting
-		Film: Directing
-	World Adventures
-		Questionable Romantic Foods
-		The Saga of the Three Relics
-Poetry
-	Supernatural
-	University Life
-Political Memoir ( Political Life Story )
-	Base Game
-Pregnancy
-	Base Game
-Recipes
-	Base Game
-	China
-	Egypt
-	France
-	Showtime
-	Supernatural
-	Supernatural Alchemy
-Romance
-	Base Game
-	China
-	Egypt
-Satire
-	Base Game
-	Ambitions Past
-	Egypt
-	France
-Science Fiction
-	Base Game
-	China
-	Supernatural
-Skills
-	Base Game
-		Charisma
-		Cooking
-		Gardening
-		Handiness
-		Logic
-	Ambitions
-		Inventing
-	Into the Future
-		Bot Building
-	Late Night
-		Mixology
-	Pets
-		Riding
-	Supernatural
-		Alchemy
-	University Life
-		Science
-		Social Networking
-		Street Art
-	Worlds Adventures
-		Martial Arts
-		Photography
-		Nectar Making
-Sports
-	University Life
-		Textbooks
-			Business
-			Communication
-			Fine Arts
-			Science
-			Sports
-			Technology
-Trashy
-	Base Game
-	Supernatural
-	University Life
-Vaudeville
-	Base Game
-
-
-█▀█ █▀▀ █▀█ █▀ █▀█ █▄ █ ▄▀█ █     █▀▀ █▀█ █▀█ █ █ █▀█ █ █▄ █ █▀▀ █▀
-█▀▀ ██▄ █▀▄ ▄█ █▄█ █ ▀█ █▀█ █▄▄   █▄█ █▀▄ █▄█ █▄█ █▀▀ █ █ ▀█ █▄█ ▄█
-
-https://i.imgur.com/GX4lYph.png
