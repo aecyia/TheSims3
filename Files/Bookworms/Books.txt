@@ -45,10 +45,15 @@ Base Game
 		Handiness
 		Logic
 	Childhood Development Books
-		None [ Jimmy Sprocket series; Bright Pink ]
-		Logic [ White + Pink + Green ]
-		Painting [ Black + Yellow + White ]
-		Writing [ Green + White + Red ]
+		None
+			Jimmy Sprocket series
+				Bright Pink
+		Logic
+			White + Pink + Green
+		Painting
+			Black + Yellow + White
+		Writing
+			Green + White + Red
 	Pregnancy Books [ Non-Fiction ]
 		Totally Preggers: An Expecting Mother’s Tale
 		Baby Incoming: Preparing with Vigilance
@@ -59,9 +64,9 @@ Base Game
 			1	All that Glitters is Goldfish
 			2	Glitter Tragedy: Trout and Clownfish Baiting Technique
 		+	Generally, the order from lowest fishing skill to highest is: Purple, Green, Blue 
-		Level 1: 3 books
-		Levels 2 – 5: 3 books
-		Levels 5 – 7: 3 books
+		Level 1: 		3 books
+		Levels 2 – 5: 	3 books
+		Levels 5 – 7: 	3 books
 Ambitions
 	Opportunity
 		11 Education Books
