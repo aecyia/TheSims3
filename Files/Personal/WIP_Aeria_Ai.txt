@@ -84,27 +84,18 @@ Into the Future
 ======================================================================
 fishing
 Base Game
-	Minnow
 	Anchovy
-	Goldfish
-	Alley Commonfish
-	Jellyfish
-	Rainbow Trout
-	Red Herring
-	Tuna
-	Tragic Clownfish
-	Siamese Clownfish
-	Piranha
 	Blowfish
-	Salmon
-	Black Goldfish
-	Swordfish
-	Shark
-	Angelfish
-	Vampire Fish
-	Lobster
-	Robot Fish
 	Deathfish
+	Jellyfish
+	Lobster
+	Piranha
+	Robot Fish
+	Shark
+	Swordfish
+	Tragic Clownfish
+	Tuna
+	Vampire Fish
 World Adventures
 	Frog
 	Doitsu Koi

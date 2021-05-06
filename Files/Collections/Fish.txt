@@ -8,7 +8,7 @@ Base Game
 	Minnow
 	Anchovy
 	Goldfish
-	Alley Commonfish
+	Alley Catfish
 	Jellyfish
 	Rainbow Trout
 	Red Herring
