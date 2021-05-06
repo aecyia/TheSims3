@@ -57,11 +57,6 @@ Showtime
 	Firefly ruber		Red
 	Firefly roseus		Pink
 	Firefly purpureus	Purple
-Base Game
-	Light Beetle
-	Stag Beetle Beetle
-	Spotted Beetle
-	Trilobite Beetle
 Late Night
 	Termite
 	Spider
