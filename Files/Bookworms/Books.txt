@@ -185,16 +185,16 @@ World Adventures
 		Nectar Vol. 1 – 3
 	Recipes
 		China [ Red ]
-			Egg Rolls [ 2 ]
-			Stir Fry [ 6 ]
+			2	Egg Rolls
+			6	Stir Fry
 		Egypt
-			Shwarma [ 1 ]
-			Falafel  [ 5 ]
+			1	Shwarma
+			5	Falafel
 		France
-			Cheese Plate [ 1 ]
-			Bouillabaisse [ 3 ]
-			Frogs Legs [ 3 ]
-			Crepes [ 8 ]
+			1	Cheese Plate
+			3	Bouillabaisse
+			3	Frogs Legs
+			8	Crepes
 	Bait
 		China
 			Levels 0, 3, 7
