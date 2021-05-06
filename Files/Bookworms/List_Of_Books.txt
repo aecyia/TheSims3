@@ -225,24 +225,57 @@ Bait
 
 ▄▀█ █▀▄▀█ █▄▄ █ ▀█▀ █ █▀█ █▄ █ █▀
 █▀█ █ ▀ █ █▄█ █  █  █ █▄█ █ ▀█ ▄█
+Education Opportunity
+	1	How to Run Recess
+	2	The ABCDFs of Grading
+	3	Substitutes - There is no Substitute
+	4	Molding Young Minds
+	5	Teenage Rebellion and You
+	6	Standardized Test Standards
+	7	Designing the Perfect Syllabus
+	8	The Principles of Principals
+	0	Book Reports
+	0	Tests
+	0	College Essays
+Past Opportunity
+	Children's
+		To Hunt or to Gather?
+	Fiction
+		Plague and Pestilence
+		1000 Ways to Stew Brontosaurus
+		War and More War
+	Historical
+		The Fall of Atlantis.
+	Humor
+		The Four Corners of the Earth
+	Non-Fiction
+		Fire: Terrifying but Essential
+		Men are From Tar Pits, Women from Sabertooth Den
+		Lady Veronica Farfleton and the Magical Harpsichord
+	Satire
+		Sul Sul: Trapped in Tar	Satire
+Future Opportunity
+	Children's
+		Mars Real Estate Dos and Don'ts
+	Fantasy
+		So Hot in Binary
+		The New Ice Age
+	Fiction
+		Gone with the Solar Wind
+	Non-Fiction
+		Blips and Bloops: A Thesis on Mechanics
+		Don't Tread on Me: A Robot Manifesto for Freedom
+		Farmed: A Legacy of Eight Billion Points
+		Remembering the Internet: How the World was Changed
+		Signs You're a Clone
+		SimCity 7940 Tips and Tricks
+Inventing Skill
+	1	Nuts and Bolts
+	2	Create & Dominate
+	3	Inside the Robot Mind
 
-	Opportunity
-		11 Education Books
-	Past
-		Children's
-		Fiction
-		Historical
-		Humor
-		Non-Fiction
-		Satire
-	Future
-		Children's
-		Fantasy
-		Fiction
-		Non-Fiction
-	Skill Books
-		Inventing
-Into the Future
+█ █▄ █ ▀█▀ █▀█   ▀█▀ █ █ █▀▀   █▀▀ █ █ ▀█▀ █ █ █▀█ █▀▀
+█ █ ▀█  █  █▄█    █  █▀█ ██▄   █▀  █▄█  █  █▄█ █▀▄ ██▄
 	Skill Books
 		Bot Building
 	Compositions [ Levels 5 – 9 ]
