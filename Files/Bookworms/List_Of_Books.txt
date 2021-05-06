@@ -288,29 +288,57 @@ Laser Rhythm-A-Con Compositions [ Levels 5 – 9 ]
 	8	Ghost on the Moors
 	9	Whistle while you Twerk
 
-
 █   ▄▀█ ▀█▀ █▀▀   █▄ █ █ █▀▀ █ █ ▀█▀
 █▄▄ █▀█  █  ██▄   █ ▀█ █ █▄█ █▀█  █ 
 
-Opportunity
-	Film
-	Acting
-	Directing
-Skill Books
-	Mixology
-Compositions [ Levels 5 – 9 ]
-	Bass
-	Drums
-	Piano
+Film Opportunity
+	1	How To Get Noticed by Not Being Seen
+	2	Film's Most Mysterious Crew Member
+	3	The Key to Being a Key Grip
+	4	Dealing With Divas
+	5	What To Do When Your Set Catches Fire
+Acting Opportunity
+	6	Looking Into the Camera: Don't Do It
+	8	How to Steal Scenes from the Lead Without Even Trying
+Directing Opportunity
+	6	Panel By Panel: The Art of Storyboarding
+	9	Fade To Black and Other Overused Devices
+Mixology Skill
+	1	It's All in the Pour
+	2	Shaken or Stirred? That is the question!
+	3	Stategic drink mixing for professionals
+Bass Compositions
+	5	In My Truck	Book
+	6	Cha Cha Cha Ching
+	7	Subway Glances
+	8	Feeling Cheated
+	9	Gobo Trance
+Drums Compositions
+	5	Howdy! Means Hello
+	6	Dancing Duel
+	7	If Only I Had Known
+	8	Be Bob Blues
+	9	The Awesome Song
+Piano Compositions
+	5	Summer Hayrides
+	6	Nicholas's Fresco Impromptu
+	7	Wilkinson's Bay Sonata
+	8	Peanut Butter and Jelly Blues
+	9	Roland Forebearance
 
-Pets
+█▀█ █▀▀ ▀█▀ █▀
+█▀▀ ██▄ ░█░ ▄█
 	Skill Books
 		Riding
-Showtime
+
+█▀ █░█ █▀█ █░█░█ ▀█▀ █ █▀▄▀█ █▀▀
+▄█ █▀█ █▄█ ▀▄▀▄▀ ░█░ █ █░▀░█ ██▄
 	Blue [ 1; Level 3 ]
 	Red [ 2; Level 5 ]
 	Green [ 2; Levels 8 – 9 ]
-Supernatural
+
+█▀ █░█ █▀█ █▀▀ █▀█ █▄░█ ▄▀█ ▀█▀ █░█ █▀█ ▄▀█ █░░
+▄█ █▄█ █▀▀ ██▄ █▀▄ █░▀█ █▀█ ░█░ █▄█ █▀▄ █▀█ █▄▄
 	General ( 14 )
 		Biography
 		Children's
@@ -338,7 +366,9 @@ Supernatural
 	Bait
 		Toads, Salamanders, and Beyond: A Guide to Magical Fish
 			Level 0
-University Life
+
+█░█ █▄░█ █ █░█ █▀▀ █▀█ █▀ █ ▀█▀ █▄█   █░░ █ █▀▀ █▀▀
+█▄█ █░▀█ █ ▀▄▀ ██▄ █▀▄ ▄█ █ ░█░ ░█░   █▄▄ █ █▀░ ██▄
 	General
 		Fantasy
 		Historical
@@ -365,7 +395,9 @@ University Life
 	Comics
 		Advice: Regular Bookshop prices are lower than Nerd Shop prices
 			35 books
-World Adventures
+
+█░█░█ █▀█ █▀█ █░░ █▀▄   ▄▀█ █▀▄ █░█ █▀▀ █▄░█ ▀█▀ █░█ █▀█ █▀▀ █▀
+▀▄▀▄▀ █▄█ █▀▄ █▄▄ █▄▀   █▀█ █▄▀ ▀▄▀ ██▄ █░▀█ ░█░ █▄█ █▀▄ ██▄ ▄█
 	+	Personal Preference: Location-based rooms with their books, artifacts, and collections.
 	General
 		Children's
