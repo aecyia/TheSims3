@@ -282,18 +282,27 @@ Bot Building Skill
 	2	A.I. for Dummies
 	3	In Case of Uprising
 Laser Rhythm-A-Con Compositions [ Levels 5 – 9 ]
-		
-Late Night
-	Opportunity
-		Film
-		Acting
-		Directing
-	Skill Books
-		Mixology
-	Compositions [ Levels 5 – 9 ]
-		Bass
-		Drums
-		Piano
+	5	Better Plucky Than Good
+	6	Dungeon Crawler
+	7	The Chattering Classes
+	8	Ghost on the Moors
+	9	Whistle while you Twerk
+
+
+█   ▄▀█ ▀█▀ █▀▀   █▄ █ █ █▀▀ █ █ ▀█▀
+█▄▄ █▀█  █  ██▄   █ ▀█ █ █▄█ █▀█  █ 
+
+Opportunity
+	Film
+	Acting
+	Directing
+Skill Books
+	Mixology
+Compositions [ Levels 5 – 9 ]
+	Bass
+	Drums
+	Piano
+
 Pets
 	Skill Books
 		Riding
