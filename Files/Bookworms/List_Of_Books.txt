@@ -348,6 +348,7 @@ Recipes
 
 █▀ █ █ █▀█ █▀▀ █▀█ █▄ █ ▄▀█ ▀█▀ █ █ █▀█ ▄▀█ █  
 ▄█ █▄█ █▀▀ ██▄ █▀▄ █ ▀█ █▀█  █  █▄█ █▀▄ █▀█ █▄▄
+
 Biography
 	Baron Graff Van Gould
 Children's
@@ -362,29 +363,29 @@ Fiction
 Historical
 	The Secret History of Lost Lemuria
 Horror
-	The Sandwich Horror
-	The Silence of the Llamas
 	Hotel Diavolo: Hell's Bellhops
 	Loel and Lola
+	The Sandwich Horror
+	The Silence of the Llamas
 Humor
 	Breaking Wind
 Mystery
 	Inappropriate Manor
 Non-Fiction
-	Catch A Magic Fish, Cook a Magic Meal
-	Why Do Vampires Suck?
-	Logical Fallacies You Can Really Believe
-	Germ Warfare
-	Things That Go Bump In The Night
 	Accumulating Orgone With The Wind
-	Predictions Of The Future
+	Catch A Magic Fish, Cook a Magic Meal
 	Compendium of Curses
+	Germ Warfare
 	How To Win At Videogames Without Really Trying
+	Logical Fallacies You Can Really Believe
+	Predictions Of The Future
+	Things That Go Bump In The Night
+	Why Do Vampires Suck?
 Poetry
 	Ballard's Ballads
-	White Mountain Haikus
 	Loafing, Whining, and Thou
 	The Epic of the Tattered Trousers
+	White Mountain Haikus
 Romance
 	Seances and Sixth Sense Abilities
 Science Fiction
@@ -435,51 +436,51 @@ Non-Fiction
 	Technology for Luddites
 	What Do You Mean By Communication?
 Poetry
-	Peace, Protest and Herbs
-	Odes to Science
 	Hymn of Festive Stone
+	Odes to Science
+	Peace, Protest and Herbs
 Sports
 	Passive Plays that Play
-	The Player's Journey
+	Preparation for Professional Sports
 	Sports Almanac of the Century
 	Swish, Dribble, Swish
 	Taking the Ball Home
 	The Dreams of Jerome
+	The Player's Journey
 	Training in the Rain
-	Preparation for Professional Sports
 Trashy
 	Core Coed Curriculum
 General Textbooks
 	Business [ Light Brown ]
-		Money Suits For Money Business
-		The Principles Of Avoiding Expenditures
 		Criminalology: Best Practices Of Competitive Economics
+		Money Suits For Money Business
 		The Business of Building A Better Business Building
+		The Principles Of Avoiding Expenditures
 	Communication [ Red + White ]
-		The Ultimate Guide To Overhyping Sensationalism
-		Spinning Mass Hysteria
-		Understanding The Power of Print
 		Exposology: Introduction to Denouement
 		It's Not What You Say, It's How You Say It
+		Spinning Mass Hysteria
+		The Ultimate Guide To Overhyping Sensationalism
+		Understanding The Power of Print
 	Fine Arts [ Grey ]
 		Grafittiology: The Rhythm and Poetry of Art
-		Which is Better, Pen or Pencil? It's a Draw!
 		Humanities: Form, Fashion, and Function
 		Trash is Treasure: Finding Art and Keeping Art
+		Which is Better, Pen or Pencil? It's a Draw!
 	Science [ Blue + White ]
-		Green Genes: Planting Information
+		Cosmology: The Universe Is A Really Really Big Place
 		Discovering Your Own Intelligence
 		Exploring The Microscopic World
-		Cosmology: The Universe Is A Really Really Big Place
+		Green Genes: Planting Information
 	Sports [ Green ]
 		Basic Body Types and The Sports That Love Them
-		Reflexology: Training More Than Muscle Memories
 		Play Smarter: Diet And Exercise is for Wimps
+		Reflexology: Training More Than Muscle Memories
 	Technology [ Green Blue ]
-		Computer Short Cuts and Circuit Boards
-		Motorology: Get Your Engine Running
 		A Blueprint of Modern Technology
+		Computer Short Cuts and Circuit Boards
 		Forensic Models: Learning From Simulations
+		Motorology: Get Your Engine Running
 Science Skill
 	1	Chew The Fact
 	2	Quantum Genetics
