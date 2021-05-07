@@ -55,14 +55,14 @@ University Life
 ▄▀█ █▄▄ █ █   █ ▀█▀ █ █▀▀ █▀
 █▀█ █▄█ █ █▄▄ █  █  █ ██▄ ▄█
 
-1	Don't Break a Sweat		Stops the Sim's hygiene from depleting.
-1	Jog						Allows the Sim to jog to any location.
-3	Good Pacing				Allows the Sim work out longer before getting fatigued.
-3	Pumped					Sim gains the "Pumped Up" moodlet when working out long enough.
-5	Push Self				Allows the Sim to work out longer and harder at the cost of being more sore.
-5	Run Faster				Run faster when using 'Go Here' interaction.
-6	Train					Allows the Sim to train another Sim. This will boost the Athletic skill gain rate of the trainee.
-7	Quick Burst				Sim Works Out much faster and experiences the gains, hygiene decay and fatigue much sooner.
+1	Don't Break a Sweat		Stops the Sim's hygiene from depleting
+1	Jog						Allows the Sim to jog to any location
+3	Good Pacing				Allows the Sim work out longer before getting fatigued
+3	Pumped					Sim gains the "Pumped Up" moodlet when working out long enough
+5	Push Self				Allows the Sim to work out longer and harder at the cost of being more sore
+5	Run Faster				Run faster when using 'Go Here' interaction
+6	Train					Allows the Sim to train another Sim. This will boost the Athletic skill gain rate of the trainee
+7	Quick Burst				Sim Works Out much faster and experiences the gains, hygiene decay and fatigue much sooner
 
 █▀█ █▀█ █▀█ █▀█ █▀█ ▀█▀ █ █ █▄ █ █ ▀█▀ █ █▀▀ █▀
 █▄█ █▀▀ █▀▀ █▄█ █▀▄  █  █▄█ █ ▀█ █  █  █ ██▄ ▄█

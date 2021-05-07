@@ -1,44 +1,32 @@
-14 april 2021
+06 may 2021
 
 skill journal for Aeria Ai
-+	100 jokes -- 69
 +	fishing
 	+	catch 20 types of fish -- 53%
 	+	catch 350 fish -- 147
 +	guitar
-	+	10 parties and venues -- 1
+	+	10 parties and venues -- 3 ?
 	+	25,000 tips -- 1248
 +	science & logic
-	+	chess rank 5 -- 4
-	+	tutor 20 hrs children -- 3
-	+	analyze 100 -- 1-0-21-21
+	+	tutor 20 hrs children -- 5
 	+	100 experiments -- 4
-+	30 paintings  --- 14
-+	5 masterpieces -- 1
-+	25 sims finder -- 0
++	30 paintings  --- 16
++	5 masterpieces -- 2
 +	photography
-	+	75 subjects -- 40
-	+	50 unique sims -- 21
+	+	75 subjects -- 42
+	+	50 unique sims -- 22
 	+	60 strangers -- 0
 	+	5 photo collections -- 0
 +	martial arts
-	+	tournament 5 -- 0
-	+	meditate 150 hours -- 0
-	+	75 sparring matches -- 0
-	+	break 150 boards -- 0
+	+	tournament 5 -- 1
+	+	meditate 150 hours -- 10
+	+	75 sparring matches -- 7
 +	nectar
 	+	200 bottles made -- 168
 	+	turn 400 homegrown grapes into nectar
 	+	15 combinations -- 5
 +	sculpting
-	+	35 made -- 6
-	+	5 each material
-		clay	1
-		stone	1
-		wood	0
-		ice		3 	need 25
-		metal 	0
-		topiary	1
+	+	ice 25 -- 13
 +	inventing
 	+	250 widgets -- 2
 	+	detonated 150 objects -- 0
@@ -47,116 +35,92 @@ skill journal for Aeria Ai
 	+	30 street art projects
 	+	10 murals
 	+	5 street art masterpieces
-+	consignment
-	+	impressive rep
-	+	sell 150 items -- 84
-	+	25,000 -- 15607
 +	collections
 	+	all space rocks
 	+	all fireflies
 ======================================================================
 INSECTS
-Late Night
-	Green Will-O'-The-Wisp
-	Blue Will-O'-The-Wisp
-	Pink Will-O'-The-Wisp
-Showtime
-	Firefly albus 		White
-	Firefly pratinus	Green
-	Firefly fulvus		Yellow
-	Firefly luteus		Orange
-	Firefly caeruleus	Blue
-	Firefly ruber		Red
-	Firefly roseus		Pink
-	Firefly purpureus	Purple
-Base Game
-	Light Beetle
-	Stag Beetle Beetle
-	Spotted Beetle
-	Trilobite Beetle
-Late Night
-	Termite
-	Spider
-Into the Future
-	Neutron
-	Caustic
-	Quantum
-	Scalar
-	Lite
-	Lepton
-	Tribble
-	Heisenberg
-	Condensor
-	Tunnelling
-	Torque
-	Induction
-	Polar
-	Thermo
-	Dispersion
-	Entropic
-	Optic
-	Damping	
-	Prismatic
-	Uber
+	Late Night
+		Green Will-O'-The-Wisp
+		Blue Will-O'-The-Wisp
+		Pink Will-O'-The-Wisp
+	Showtime
+		Firefly albus 		White
+		Firefly pratinus	Green
+		Firefly fulvus		Yellow
+		Firefly luteus		Orange
+		Firefly caeruleus	Blue
+		Firefly ruber		Red
+		Firefly roseus		Pink
+		Firefly purpureus	Purple
+	Late Night
+		Termite
+		Spider
+	Into the Future
+		Neutron
+		Caustic
+		Quantum
+		Scalar
+		Lite
+		Lepton
+		Tribble
+		Heisenberg
+		Condensor
+		Tunnelling
+		Torque
+		Induction
+		Polar
+		Thermo
+		Dispersion
+		Entropic
+		Optic
+		Damping	
+		Prismatic
+		Uber
 ======================================================================
 fishing
-Base Game
-	Minnow
-	Anchovy
-	Goldfish
-	Alley Commonfish
-	Jellyfish
-	Rainbow Trout
-	Red Herring
-	Tuna
-	Tragic Clownfish
-	Siamese Clownfish
-	Piranha
-	Blowfish
-	Salmon
-	Black Goldfish
-	Swordfish
-	Shark
-	Angelfish
-	Vampire Fish
-	Lobster
-	Robot Fish
-	Deathfish
-World Adventures
-	Frog
-	Doitsu Koi
-	Kawarimono Koi
-	Snails
-	Crocodile
-	Ochiba Koi
-	Crawfish
-	Tancho Koi
-	Mummy Fish
-	Dragon Fish
-Late Night
-	Sea Sludge
-	Kissing Gourami
-	Sewer Trilobite
-Showtime
-	Sea Bat Starfish
-	Linckia Starfish
-	Ninja Starfish
-Supernatural
-	Toad
-	Luminous Salamander
-	Fairy Damsel
-Island Paradise
-	Sea Urchin
-	Anemone
-	Sea Polyp
-	Hermit Crab
-	Octopus
-	Squid
-	Eel
-	Seahorse
-Into the Future
-	Three Eyed Fish
-	Rainbow Snail
+	Base Game
+		Blowfish
+		Piranha
+		Tragic Clownfish
+		Tuna
+		Vampire Fish
+	World Adventures
+		Frog
+		Doitsu Koi
+		Kawarimono Koi
+		Snails
+		Crocodile
+		Ochiba Koi
+		Crawfish
+		Tancho Koi
+		Mummy Fish
+		Dragon Fish
+	Late Night
+		Sea Sludge
+		Kissing Gourami
+		Sewer Trilobite
+	Showtime
+		Sea Bat Starfish
+		Linckia Starfish
+		Ninja Starfish
+	Supernatural
+		Toad
+		Luminous Salamander
+		Fairy Damsel
+	Island Paradise
+		Sea Urchin
+		Anemone
+		Sea Polyp
+		Hermit Crab
+		Octopus
+		Squid
+		Eel
+		Seahorse
+	Into the Future
+		Three Eyed Fish
+		Rainbow Snail
 ======================================================================
 Married Christopher Steel
 Triplets: Brooklyn, Blossom, Bellatrix
+Triplets: Brandon, Bryant, Bubbles

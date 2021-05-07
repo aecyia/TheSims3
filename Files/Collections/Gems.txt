@@ -29,7 +29,7 @@ Sunstone			Rare		Supernatural
 Tanzanite			Uncommon	Base Game
 Tiberium			Rare		World Adventures
 Turquoise			Uncommon	World Adventures: Egypt
-Vampire’s Eye		Rare		Late Night
+Vampire's Eye		Rare		Late Night
 Yellow Sapphire		Uncommon	Base Game
 
 █▀▀ █ █ ▀█▀ █▀
@@ -46,7 +46,7 @@ Polished Split		Geode + Septarian Nodules only
 Spire				Tiberium only
 Skull				Transfiguration ( World Adventures )
 Star				75 cuts total; +15
-Sculptor’s Egg		Sculpting Skill Level 5 ( Ambitions )
+Sculptor's Egg		Sculpting Skill Level 5 ( Ambitions )
 Dust				Gem cutter byproduct ( Supernatural )
 Sun					100 cuts total; +25
 Moon				100 cuts total; +25
@@ -84,7 +84,7 @@ Sunstone
 Tanzanite
 Tiberium
 Turquoise
-Vampire’s Eye
+Vampire's Eye
 Yellow Sapphire
 
 
@@ -102,7 +102,7 @@ Alabaster
 	Heart-Shaped
 	Skull
 	Star
-	Sculptor’s Egg
+	Sculptor's Egg
 	Dust
 	Sun	
 	Moon
@@ -117,7 +117,7 @@ Amethyst
 	Heart-Shaped
 	Skull
 	Star
-	Sculptor’s Egg
+	Sculptor's Egg
 	Dust
 	Sun	
 	Moon
@@ -132,7 +132,7 @@ Bloodstone
 	Heart-Shaped
 	Skull
 	Star
-	Sculptor’s Egg
+	Sculptor's Egg
 	Dust
 	Sun	
 	Moon
@@ -147,7 +147,7 @@ Blue Topaz
 	Heart-Shaped
 	Skull
 	Star
-	Sculptor’s Egg
+	Sculptor's Egg
 	Dust
 	Sun	
 	Moon
@@ -162,7 +162,7 @@ Citrine
 	Heart-Shaped
 	Skull
 	Star
-	Sculptor’s Egg
+	Sculptor's Egg
 	Dust
 	Sun	
 	Moon
@@ -177,7 +177,7 @@ Diamond
 	Heart-Shaped
 	Skull
 	Star
-	Sculptor’s Egg
+	Sculptor's Egg
 	Dust
 	Sun	
 	Moon
@@ -192,7 +192,7 @@ Emerald
 	Heart-Shaped
 	Skull
 	Star
-	Sculptor’s Egg
+	Sculptor's Egg
 	Dust
 	Sun	
 	Moon
@@ -207,7 +207,7 @@ Fluorite
 	Heart-Shaped
 	Skull
 	Star
-	Sculptor’s Egg
+	Sculptor's Egg
 	Dust
 	Sun	
 	Moon
@@ -225,7 +225,7 @@ Jade
 	Heart-Shaped
 	Skull
 	Star
-	Sculptor’s Egg
+	Sculptor's Egg
 	Dust
 	Sun	
 	Moon
@@ -240,7 +240,7 @@ Lapis Lazuli
 	Heart-Shaped
 	Skull
 	Star
-	Sculptor’s Egg
+	Sculptor's Egg
 	Dust
 	Sun	
 	Moon
@@ -255,7 +255,7 @@ Luminorious
 	Heart-Shaped
 	Skull
 	Star
-	Sculptor’s Egg
+	Sculptor's Egg
 	Dust
 	Sun	
 	Moon
@@ -270,7 +270,7 @@ Moonstone
 	Heart-Shaped
 	Skull
 	Star
-	Sculptor’s Egg
+	Sculptor's Egg
 	Dust
 	Sun	
 	Moon
@@ -285,7 +285,7 @@ Opal
 	Heart-Shaped
 	Skull
 	Star
-	Sculptor’s Egg
+	Sculptor's Egg
 	Dust
 	Sun	
 	Moon
@@ -300,7 +300,7 @@ Pink Diamond
 	Heart-Shaped
 	Skull
 	Star
-	Sculptor’s Egg
+	Sculptor's Egg
 	Dust
 	Sun	
 	Moon
@@ -315,7 +315,7 @@ Quartz
 	Heart-Shaped
 	Skull
 	Star
-	Sculptor’s Egg
+	Sculptor's Egg
 	Dust
 	Sun	
 	Moon
@@ -330,7 +330,7 @@ Rainbow
 	Heart-Shaped
 	Skull
 	Star
-	Sculptor’s Egg
+	Sculptor's Egg
 	Dust
 	Sun	
 	Moon
@@ -345,7 +345,7 @@ Ruby
 	Heart-Shaped
 	Skull
 	Star
-	Sculptor’s Egg
+	Sculptor's Egg
 	Dust
 	Sun	
 	Moon
@@ -363,7 +363,7 @@ Smithsonite
 	Heart-Shaped
 	Skull
 	Star
-	Sculptor’s Egg
+	Sculptor's Egg
 	Dust
 	Sun	
 	Moon
@@ -378,7 +378,7 @@ Smoky Quartz
 	Heart-Shaped
 	Skull
 	Star
-	Sculptor’s Egg
+	Sculptor's Egg
 	Dust
 	Sun	
 	Moon
@@ -393,7 +393,7 @@ Soulpeace
 	Heart-Shaped
 	Skull
 	Star
-	Sculptor’s Egg
+	Sculptor's Egg
 	Dust
 	Sun	
 	Moon
@@ -408,7 +408,7 @@ Sunstone
 	Heart-Shaped
 	Skull
 	Star
-	Sculptor’s Egg
+	Sculptor's Egg
 	Dust
 	Sun	
 	Moon
@@ -423,7 +423,7 @@ Tanzanite
 	Heart-Shaped
 	Skull
 	Star
-	Sculptor’s Egg
+	Sculptor's Egg
 	Dust
 	Sun	
 	Moon
@@ -441,11 +441,11 @@ Turquoise
 	Heart-Shaped
 	Skull
 	Star
-	Sculptor’s Egg
+	Sculptor's Egg
 	Dust
 	Sun	
 	Moon
-Vampire’s Eye
+Vampire's Eye
 	Emerald
 	Oval
 	Pear
@@ -456,7 +456,7 @@ Vampire’s Eye
 	Heart-Shaped
 	Skull
 	Star
-	Sculptor’s Egg
+	Sculptor's Egg
 	Dust
 	Sun	
 	Moon
@@ -471,7 +471,7 @@ Yellow Sapphire
 	Heart-Shaped
 	Skull
 	Star
-	Sculptor’s Egg
+	Sculptor's Egg
 	Dust
 	Sun	
 	Moon

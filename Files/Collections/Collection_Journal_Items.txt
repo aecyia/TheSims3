@@ -1,12 +1,12 @@
-This is a sample text file for everything to collect
-	Insects
-		Butterflies
-		Fireflies
-		Beetles
-		Nanites
-	Gems
-	Metals
-	Space Rocks
+This is a sample text file for everything to collect:
+Insects
+	Butterflies
+	Fireflies
+	Beetles
+	Nanites
+Gems
+Metals
+Space Rocks
 
 █▄▄ █ █ ▀█▀ ▀█▀ █▀▀ █▀█ █▀▀ █   █ █▀▀ █▀
 █▄█ █▄█  █   █  ██▄ █▀▄ █▀  █▄▄ █ ██▄ ▄█
@@ -124,7 +124,7 @@ Sunstone
 Tanzanite
 Tiberium
 Turquoise
-Vampire’s Eye
+Vampire's Eye
 Yellow Sapphire
 
 █▀▄▀█ █▀▀ ▀█▀ ▄▀█ █   █▀
