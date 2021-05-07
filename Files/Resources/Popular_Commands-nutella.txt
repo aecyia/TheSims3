@@ -1,0 +1,67 @@
+Additional Resources
+	https://www.ign.com/wikis/the-sims-3/PC_Cheats
+	https://www.carls-sims-3-guide.com/cheats.php
+	https://www.gamesradar.com/the-sims-3-cheats/
+
+CTRL + SHIFT + C		opens the command console
+testingcheatsenabled	enables testing cheats; recommended to
+
+quit					Quit the game
+help					Lists all available commands
+fps [on/off]			Toggles frames per second in upper right of HUD
+fullscreen [on/off]		Toggles windowed mode
+
+kaching					While on the lot, this gives you $1,000
+motherlode				While on the lot, this gives you $50,000
+familyFunds [x][y]		Give money to a family, where [x] is the family's last name and [y] is the amount
+
+shazaam					The active Sim receives +2,500 lifetime happiness points
+unlockOutfits [on/off]	Unlocks outfits in CAS (Create a Sim) mode. Note: Must be enabled before entering CAS
+resetSim [x]			Resets the named Sim with neutral motives, no moodlets, and teleports Sim back home where [x] is first and last name
+
+freerealestate			Purchasing the desired lot costs nothing
+
+constrainFloorElevation [true/false]	Force terrain adjustments regardless of objects, Sims, and other structures
+disableSnappingToSlotsOnAlt [on/off]	Hold Alt to avoid object snap when toggled
+hideHeadlineEffects [on/off]			Hide all meters and effects
+
+fadeObjects [on/off]	Toggles object fade when camera zooms
+moveobjects on/off		Move anything (including Sims) in your Buy/Build mode
+slowMotionViz [x]		Slow motion, where [x] is 0-8 (0 is normal)
+
+jokePlease				Summon a joke
+enableLlamas			Enables llamas, obviously
+
+SHIFT + CLICK + [object]
+	Mailbox	
+		+	produce options that affect your ability to make friends, or to spread happiness among various Sims.
+	Workplace
+		+	advance your career, by making additional assignments available or by triggering events.
+	Sim
+		+	modify various traits
+	Non-Household Sims
+		+	add him or her to your household
+	Ground
+		+	teleport to that location
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

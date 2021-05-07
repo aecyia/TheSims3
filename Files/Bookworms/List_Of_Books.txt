@@ -1,0 +1,637 @@
+█▀█ █▀▀ █▀ █▀█ █ █ █▀█ █▀▀ █▀▀ █▀
+█▀▄ ██▄ ▄█ █▄█ █▄█ █▀▄ █▄▄ ██▄ ▄█
+
+https://sims.fandom.com/wiki/Writing_(The_Sims_3)
+https://sims.fandom.com/wiki/List_of_books_in_The_Sims_3
+
+█▄ █ █▀█ ▀█▀ █▀▀ █▀
+█ ▀█ █▄█  █  ██▄ ▄█
+
++	Similar to Books.txt but with less notes
++	A full list of books for collectors
++	Titles only
++	Skill books #s are of the Volume number, not the level number
+	+	1 is Level 0
+	+	2 is Level 3
+	+	3 is Level 6
+
+█▄▄ ▄▀█ █▀ █▀▀   █▀▀ ▄▀█ █▀▄▀█ █▀▀
+█▄█ █▀█ ▄█ ██▄   █▄█ █▀█ █ ▀ █ ██▄
+
+Autobiography
+	Point Farmer: The Story of Grant Rodiek
+	The Noble History of Socks
+Children's
+	The Adventures Of Raymundo
+	Where's Bella?
+Drama
+	Commitment Issues
+Fantasy
+	The Warlock of Palladia
+	Unicorns for Audrey
+Fiction
+	Abstract with Turkey
+	Thunking
+Historical
+	Llama Rights
+	The Crumplebottom Legacy: A Tale
+Humor
+	I'm Still Cool
+	Stragedy and Other Messterpieces
+Mystery
+	Game of Thorns
+	Murder in Pleasantview
+Non-Fiction
+	How to Spin Plates
+	The Point of Pointilism
+Political Memoir
+	The Economy
+Romance
+	Special Snowflake
+Satire
+	Exit at Powell
+	On the Margins
+Science Fiction
+	GPod
+	Zombies? Zombies!
+Trashy
+	A Magnetic Attraction
+Vaudeville
+	Not Expecting Much
+Business Opportunity
+	0	The Wright Papers
+	0	The Goth Account
+	0	Landgraab Financial	
+	1	Caffeine Culture
+	2	Going Paperless
+	3	Bloviation on Hyper Inflation
+	4	You Are Special
+	5	Limiting Liability
+	6	Woes of Whistleblowing
+	7	Yay Tax Shelters!
+	8	ABC's of Downsizing
+Criminal Opportunity
+	1	Dos and Don'ts of the Dons
+	2	Adapting to the Wallet Environment
+	3	From Goon to Guido: Thuggery Evolved
+	4	Make Em' Pay
+	5	Losing the Huckster Label
+	6	Snake Oil and Other Sound Investment Strategies
+	7	Advanced Combinatorials
+	8	Making Yourself Indispensable
+	9	The Mythical Hot Tin Roof
+	10	Hostile Takeover: When to Make the Move
+Culinary Opportunity
+	0	Secrets of The Master Chef
+Journalism Opportunity
+	1	Street or Sidewalk?, A Cautionary Tale
+	2	Faster Checking Through the Power of Word Processing!
+	3	Avoiding Plagiarism
+	4	From Notepad to Laptop
+	5	101 Ways to Be Vague
+	6	The Finer Points of Yellow Journalism
+	7	Fronts and Barometrics: Excellence Through Jargon
+	8	(sic) and Its Use In Important Stories
+	9	How To Fix It When News Breaks
+Law Enforcement Opportunity
+	1	How to Avoid Concrete Shoes
+	2	More Out Than In: Maintaining Proper Desk Environment
+	3	Advanced Whistle Techniques
+	4	Protect, Serve And Look Good Doing It
+	5	Free Donuts and Other Great Leadership Tips
+	5	How Not to Be Seen
+	6	Keep 'Em Guessing
+	7	Effective Luminol Spraying Techniques
+	8	Avoiding Squint Jargon for Better Communication
+Medical Opportunity
+	1	The Gift of Life
+	2	Better Out Than In
+	3	Respecting the Ambulance
+	4	Blood Is Not Blue
+	5	The 36 Hour Shift And You
+	6	The Golden Hour
+	7	The ATGCs of Genetics
+	8	The Simmania Pandemic
+	9	Grey Matters
+Military Opportunity
+	1	Getting Out of the Pit
+	2	Advanced Elbow Lubricant Techniques
+	3	Learning to Speak Officer
+	4	Learn to Fly In 21 Days	
+	5	Dealing With Whining From Engines and Pilots
+	6	How to Take the Ugly for the Team
+	7	Beyond the Aviator Glasses
+	8	Herding Cats
+	9	Coping With Geese and Vipers
+Music Opportunity
+	Music
+		1	Getting Noticed in a Sea of Fans
+		2	Life on the Hard Rocky Road
+		3	Don't Upstage the Band
+		4	Herding Cats: Music Edition
+		5	Diamonds in the Rough
+	Electronic Rock !
+		6	It’s More than Rhyme Books	Music
+		8	Developing Good Rock Habits	Music
+		9	Legends Of Rock	Music
+	Symphonic
+		6	True Symphonic Synergy
+		9	Improving Conductivity Between Brass and Woodwinds
+Politics Opportunity
+	1	Wax Until There's No More
+	2	Cheating With Chads
+	3	The Joy of Smear Campaigning
+	4	There Is No "No"
+	5	Taze Gently	Politics
+	6	An Earmark Economy
+	7	Yay Pork Barrels!
+	8	Gerrymandapalooza!
+	9	A Free Free Free World
+Professional Sports Opportunity
+	1	When to Rave And When to Riot
+	2	Making the Sale: From Hot Dogs to Foam Fingers
+	2	Dealing With Difficult Players
+	4	Bus Cramps: A Cautionary Tale
+	5	Getting Past the Draft
+	6	Name Positioning: Starting Your Brand
+	7	It's More Than Good Moves
+	9	Making Better Shoe Deals
+	10	Avoiding the Downward Spiral
+Science Opportunity
+	1	Living With Mutation
+	2	Dangerous Device Disposal
+	3	Practical Science From Boast to Beaker
+	4	Nitrates: They're Not Just for Bombs Anymore
+	5	Strange Correlations of Little Shops and Venus
+	6	When Pigs Fly, Going Too Far?
+	7	Goldfish, Piranha and Other Friendly Creatures
+	8	Advanced Deniability Procedures
+	9	The Evolution of the Robo-Llama
+Charisma Skill
+	1	Fixing the Friend Problem
+	2	Talking to Anyone
+	3	Becoming Irresistible
+Cooking Skill
+	1	Too much Salt!
+	2	Why You Need Baking Soda
+	3	Yummy and Delicious
+Gardening Skill
+	1	The Watercan Chronicles
+	2	Odor Free Fertilizer
+	3	Gardening to Riches
+Handiness Skill
+	1	Unplug It First!
+	2	Turn off the Water!
+	3	Puddles and Electricity Don't Mix
+Logic Skill
+	1	Knight vs. Bishops
+	2	To Xor or Not Xor
+	3	3.14159265
+Childhood Development Books
+	None: Bright Pink
+		Jimmy Sprocket and the Chalice of Lichens
+		Jimmy Sprocket and the Squishy Stone
+		Jimmy Sprocket the Escape from Funland
+	Logic: White + Pink + Green
+		Being Smart for Fun and Profit
+		Counting for Those Who Cannot
+		Squares are Not Triangles
+	Painting: Black + Yellow + White
+		Don't Stay Within the Lines
+		Finger Painting 101
+		Handprints of the Masters
+	Writing: Green + White + Red
+		Bluish Eggs with Side of Pastrami
+		Frank I'm Not
+		Oh the Destinations You'll Briefly Visit
+Pregnancy Books [ Non-Fiction ]
+	Baby Incoming: Preparing with Vigilance
+	Totally Preggers: An Expecting Mother's Tale
+Guitar Compositions
+	5	Yes Ma'am, I Do
+	6	Flamenco Fever
+	7	Perfect Moment
+	8	Improvise Here and Now
+	9	Dream Escape
+Bait
+	1	All that Glitters is Goldfish
+	1	The Wee Swimmers: Reeling Anchovy and Minnow
+	1	The Wiskered Deep: Catfish and You
+	2	Gilled Tragedy: Trout and Clownfish Baiting Technique
+	3	Sushi Swimmers: How to Catch Tuna, Salmon and Blowfish
+	5	Heavenly Delicacies: Hooking the Angelfish and Lobster
+	5	Predators of the Deep: Piranha, Shark and Swordfish Tips
+	6	Binary Fishing and Analog Bait for Robofish
+	7	Fishing for the Dead: Deathfish and Vampirefish on the Line
+
+▄▀█ █▀▄▀█ █▄▄ █ ▀█▀ █ █▀█ █▄ █ █▀
+█▀█ █ ▀ █ █▄█ █  █  █ █▄█ █ ▀█ ▄█
+
+Education Opportunity
+	1	How to Run Recess
+	2	The ABCDFs of Grading
+	3	Substitutes - There is no Substitute
+	4	Molding Young Minds
+	5	Teenage Rebellion and You
+	6	Standardized Test Standards
+	7	Designing the Perfect Syllabus
+	8	The Principles of Principals
+	0	Book Reports
+	0	Tests
+	0	College Essays
+Past Opportunity
+	Children's
+		To Hunt or to Gather?
+	Fiction
+		1000 Ways to Stew Brontosaurus
+		Plague and Pestilence
+		War and More War
+	Historical
+		The Fall of Atlantis.
+	Humor
+		The Four Corners of the Earth
+	Non-Fiction
+		Fire: Terrifying but Essential
+		Lady Veronica Farfleton and the Magical Harpsichord
+		Men are From Tar Pits, Women from Sabertooth Den
+	Satire
+		Sul Sul: Trapped in Tar	Satire
+Future Opportunity
+	Children's
+		Mars Real Estate Dos and Don'ts
+	Fantasy
+		So Hot in Binary
+		The New Ice Age
+	Fiction
+		Gone with the Solar Wind
+	Non-Fiction
+		Blips and Bloops: A Thesis on Mechanics
+		Don't Tread on Me: A Robot Manifesto for Freedom
+		Farmed: A Legacy of Eight Billion Points
+		Remembering the Internet: How the World was Changed
+		Signs You're a Clone
+		SimCity 7940 Tips and Tricks
+Inventing Skill
+	1	Nuts and Bolts
+	2	Create & Dominate
+	3	Inside the Robot Mind
+
+█ █▄ █ ▀█▀ █▀█   ▀█▀ █ █ █▀▀   █▀▀ █ █ ▀█▀ █ █ █▀█ █▀▀
+█ █ ▀█  █  █▄█    █  █▀█ ██▄   █▀  █▄█  █  █▄█ █▀▄ ██▄
+
+Bot Building Skill
+	1	Integrated Circuits and You
+	2	A.I. for Dummies
+	3	In Case of Uprising
+Laser Rhythm-A-Con Compositions
+	5	Better Plucky Than Good
+	6	Dungeon Crawler
+	7	The Chattering Classes
+	8	Ghost on the Moors
+	9	Whistle while you Twerk
+
+█   ▄▀█ ▀█▀ █▀▀   █▄ █ █ █▀▀ █ █ ▀█▀
+█▄▄ █▀█  █  ██▄   █ ▀█ █ █▄█ █▀█  █ 
+
+Film Opportunity
+	1	How To Get Noticed by Not Being Seen
+	2	Film's Most Mysterious Crew Member
+	3	The Key to Being a Key Grip
+	4	Dealing With Divas
+	5	What To Do When Your Set Catches Fire
+Acting Opportunity
+	6	Looking Into the Camera: Don't Do It
+	8	How to Steal Scenes from the Lead Without Even Trying
+Directing Opportunity
+	6	Panel By Panel: The Art of Storyboarding
+	9	Fade To Black and Other Overused Devices
+Mixology Skill
+	1	It's All in the Pour
+	2	Shaken or Stirred? That is the question!
+	3	Stategic drink mixing for professionals
+Bass Compositions
+	5	In My Truck	Book
+	6	Cha Cha Cha Ching
+	7	Subway Glances
+	8	Feeling Cheated
+	9	Gobo Trance
+Drums Compositions
+	5	Howdy! Means Hello
+	6	Dancing Duel
+	7	If Only I Had Known
+	8	Be Bob Blues
+	9	The Awesome Song
+Piano Compositions
+	5	Summer Hayrides
+	6	Nicholas's Fresco Impromptu
+	7	Wilkinson's Bay Sonata
+	8	Peanut Butter and Jelly Blues
+	9	Roland Forebearance
+
+█▀█ █▀▀ ▀█▀ █▀
+█▀▀ ██▄  █  ▄█
+
+Riding Skill
+	1	Zen and the Art of Not Falling Off a Horse
+	2	The Galloping Guru
+	3	Sunsets and Other Fun Things to Ride Into
+
+█▀ █ █ █▀█ █ █ █ ▀█▀ █ █▀▄▀█ █▀▀
+▄█ █▀█ █▄█ ▀▄▀▄▀  █  █ █ ▀ █ ██▄
+
+Recipes
+	3	Vegetarian Fish and Chips
+	5	Fried Peanut Butter & Banana Sandwich
+	5	Cheese Tofu Steak
+	8	Tri-Tip Tofu Steak
+	9	Stuffed Tursoykey
+
+█▀ █ █ █▀█ █▀▀ █▀█ █▄ █ ▄▀█ ▀█▀ █ █ █▀█ ▄▀█ █  
+▄█ █▄█ █▀▀ ██▄ █▀▄ █ ▀█ █▀█  █  █▄█ █▀▄ █▀█ █▄▄
+
+Biography
+	Baron Graff Van Gould
+Children's
+	One Wolf, Two Wolves. Where Wolf? There Wolf!
+	True Fairy Tales
+Drama
+	The Wight Wail
+Fantasy
+	Under Siege and Ogre Powered
+Fiction
+	Spellslinger: Have Wand, Will Travel
+Historical
+	The Secret History of Lost Lemuria
+Horror
+	Hotel Diavolo: Hell's Bellhops
+	Loel and Lola
+	The Sandwich Horror
+	The Silence of the Llamas
+Humor
+	Breaking Wind
+Mystery
+	Inappropriate Manor
+Non-Fiction
+	Accumulating Orgone With The Wind
+	Catch A Magic Fish, Cook a Magic Meal
+	Compendium of Curses
+	Germ Warfare
+	How To Win At Videogames Without Really Trying
+	Logical Fallacies You Can Really Believe
+	Predictions Of The Future
+	Things That Go Bump In The Night
+	Why Do Vampires Suck?
+Poetry
+	Ballard's Ballads
+	Loafing, Whining, and Thou
+	The Epic of the Tattered Trousers
+	White Mountain Haikus
+Romance
+	Seances and Sixth Sense Abilities
+Science Fiction
+	Plan 8 from Lunar Lakes
+Trashy
+	Haute Knights
+	More Bawdy Tales
+Alchemy Skill
+	1	Alchemy Basic
+	2	Secret Motions and Super Potions
+	3	Omnimustericon: The Ultimate Book of Shadows
+Recipes
+	1	Chili Con Carne
+	1	Vegetarian Chili
+	2	Mushroom Omelette
+	3	Hot and Sour Soup
+	5	Firecracker Shrimp
+	5	Firecracker Tofu
+	6	Aloo Masala Curry
+	7	Porcini Risotto
+	9	Potato and truffle Torte
+	10	Ceviche
+Alchemy Recipes
+	5	Procreation Elixir
+	6	Liquid Job Booster
+	7	Potent Enlightenment
+	8	Potent Personality Adjuster
+	9	Fountain of Youth Elixir
+	9	Potent Zombification
+	10	Origin of the Tragic Clown
+Bait
+	0	Toads, Salamanders, and Beyond: A Guide to Magical Fish
+
+█ █ █▄ █ █ █ █ █▀▀ █▀█ █▀ █ ▀█▀ █▄█   █   █ █▀▀ █▀▀
+█▄█ █ ▀█ █ ▀▄▀ ██▄ █▀▄ ▄█ █  █   █    █▄▄ █ █▀  ██▄
+
+Fantasy
+	Zombies Ate My Plants
+Historical
+	I Found This University
+Horror
+	Day of the Plantsims
+Non-Fiction
+	AutoBiology: Know Your Body
+	Business Law
+	Fine Arts Course Materials
+	Physically Fit To Be Tied
+	Technology for Luddites
+	What Do You Mean By Communication?
+Poetry
+	Hymn of Festive Stone
+	Odes to Science
+	Peace, Protest and Herbs
+Sports
+	Passive Plays that Play
+	Preparation for Professional Sports
+	Sports Almanac of the Century
+	Swish, Dribble, Swish
+	Taking the Ball Home
+	The Dreams of Jerome
+	The Player's Journey
+	Training in the Rain
+Trashy
+	Core Coed Curriculum
+General Textbooks
+	Business [ Light Brown ]
+		Criminalology: Best Practices Of Competitive Economics
+		Money Suits For Money Business
+		The Business of Building A Better Business Building
+		The Principles Of Avoiding Expenditures
+	Communication [ Red + White ]
+		Exposology: Introduction to Denouement
+		It's Not What You Say, It's How You Say It
+		Spinning Mass Hysteria
+		The Ultimate Guide To Overhyping Sensationalism
+		Understanding The Power of Print
+	Fine Arts [ Grey ]
+		Grafittiology: The Rhythm and Poetry of Art
+		Humanities: Form, Fashion, and Function
+		Trash is Treasure: Finding Art and Keeping Art
+		Which is Better, Pen or Pencil? It's a Draw!
+	Science [ Blue + White ]
+		Cosmology: The Universe Is A Really Really Big Place
+		Discovering Your Own Intelligence
+		Exploring The Microscopic World
+		Green Genes: Planting Information
+	Sports [ Green ]
+		Basic Body Types and The Sports That Love Them
+		Play Smarter: Diet And Exercise is for Wimps
+		Reflexology: Training More Than Muscle Memories
+	Technology [ Green Blue ]
+		A Blueprint of Modern Technology
+		Computer Short Cuts and Circuit Boards
+		Forensic Models: Learning From Simulations
+		Motorology: Get Your Engine Running
+Science Skill
+	1	Chew The Fact
+	2	Quantum Genetics
+	3	Replicating Nature Artificially
+Social Networking Skill
+	1	The Zen Of Blogging
+	2	Cyber-stalking And You
+	3	Strictly Online Relationships
+Street Art Skill
+	1	The Word On The Street
+	2	Don't Say It, Spray It!
+	3	Urban Makeovers
+Comics
+	Altruistic Squad International
+	Archie Archer
+	Avenging Belas
+	Awesome Woman
+	Barney Aardvark
+	Bridgeport Ghost
+	Cyber Skateboarder
+	Doctor Macabre
+	Fish Master
+	Flamingo Dancer
+	Freedom Family
+	Freezer Bunny Stories
+	Gumshoe Samurai
+	Horror Oracle
+	Juice Pulp Romance
+	Llama Man
+	Major Patriot
+	Mighty Mutants
+	Mystery Man
+	Neo-Knight Noir
+	Outrageous Adventure	
+	Plasma Bug
+	Quickfoot
+	Ratticator	
+	Sagebrush and Sixguns
+	Shinjuku Baseball Kata	
+	Sports Team Extreme
+	Supercute Magical Girl Maya	
+	Tales From The Mine
+	The Inedible Bulk
+	Toadsim Ninjas
+	Upperclass Man
+	Volcanic Mechanic
+	Werecat and Womrat	
+	Xenophobic Travelogue
+UNLISTED GENRE
+	Science Fiction
+		The Vampire Blogs
+
+█ █ █ █▀█ █▀█ █   █▀▄   ▄▀█ █▀▄ █ █ █▀▀ █▄ █ ▀█▀ █ █ █▀█ █▀▀ █▀		China	France
+▀▄▀▄▀ █▄█ █▀▄ █▄▄ █▄▀   █▀█ █▄▀ ▀▄▀ ██▄ █ ▀█  █  █▄█ █▀▄ ██▄ ▄█		Egypt	<3
+
+Children's
+	C	Jimmy Sprocket and the Cave of the Dragon
+	C	Toddlers and Chopsticks
+	E	Jimmy Sprocket and the Mummy's Curse
+	F	Jimmy Sprocket and the Chalice of Nectar
+Drama
+	E 	The Legend of Queen Nosylla and King Nayr
+Fantasy
+	C	The Dragon's Age
+	C 	Raymundo the Dragon
+	C 	The Dragon Ripple
+Fiction
+	C	Li Bing and the King's Daughter
+	C	Terracotta Bodyguard II
+	E	The Keystone's Countertpart
+	E 	Ra! Ra! Ra!
+	F	Avant-garde Literature for the Masses
+	F	Field of Sims
+	F	Flo and Her Kenspa
+	F	Le Velo de Tate
+Historical
+	C 	How Rain Built the World
+	C 	The Life and Times of Mr. Chan
+	C 	The Memoirs of Chin Han
+	E	From Dead to Mummy: The History of Healing
+	F	Mr. McKay's Photographics
+	F	Phillipe's Monuments
+	F	The White Flag of Victory
+Humor
+	E	A Good Shawarma
+	E	Are You My Mummy?
+	F	Fashion Advice for Hermits
+	F	Where's the Soup
+Mystery
+	E	The Price of Treasure
+	F	Shadow of the Tower
+	F	The Case of the Red Bicycle
+	F	The Curator's Lost Museum
+Non-Fiction
+	C	Imperial Military Tactics
+	C	The Year of the Llama
+	C 	Fishing for the Moon
+	C 	How to Handle Fireworks: Lessons from a Man with No Fingers
+	C 	Noodles! And Sauerkraut!
+	C 	Sim Fu: Jumping Kicks
+	C 	The International Reader of Fried Rice
+	C 	The Rice Tourist's Companion
+	E	A Guide to Desert Stick Pokey
+	E	Advanced Facial Expressions
+	E	Free Kicks, Hard Tackles, and Red Cards
+	E	Thats a Wrap!: The True Life Story of the First Mummy Film Director
+	E	The River that Sustains Us
+	E	The Sand Mirage
+	E	Thread Count
+	E	Tomb Raiding for Toddlers: What to Know
+	E 	South of The Simhara
+	F	Crepes et Cidres
+	F	Film Noir or Just Black and White?
+	F	For the Love of Nectar
+	F	Gibson's Delight
+	F	Une Historie de Champs Les Sims
+Romance
+	C 	A Wall Between Us
+	E 	The Mummy in Love
+Satire
+	E	Do I Exist?
+	F	French Toast, French Fries, and French Kissing
+Science Fiction
+	C	Planet Beeboz
+Opportunity
+	Questionable Romantic Foods
+	The Saga of the Three Relics
+Martial Arts Skill 	-- China
+	1	Wax on Philosophic
+Photography Skill 	-- Egypt
+	1	Taking off the Lens Cap
+Nectar Skill 		-- France
+	1	L'amour de Nectar: An Introductory Reader
+	2	Nectar Making: The Culture, The Lifestyle
+	3	Advanced Nectarology
+China Recipes [ Red ]
+	2	Egg Rolls
+	6	Stir Fry
+Egypt Recipes [ Yellow ]
+	1	Shwarma
+	5	Falafel
+France Recipes [ Purple ]
+	1	Cheese Plate
+	3	Bouillabaisse
+	3	Frogs Legs
+	8	Crepes
+China Bait
+	0	Delicate Decorations: Katching Kawarimono Koi (and Doitsu)
+	3	The Art of Koi Ponds: Ochiba and Tancho
+	7	Mythical Fish Volume 1: Discovering Dragons
+Egypt Bait
+	2	Dead-ly Delights: Catching Crocodiles and Mummyfish
+France Bait
+	0	French Delicacies: Capturing Frogs, Snails and Crawfish

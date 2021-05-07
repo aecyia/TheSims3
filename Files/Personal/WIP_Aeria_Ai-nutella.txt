@@ -1,0 +1,126 @@
+06 may 2021
+
+skill journal for Aeria Ai
++	fishing
+	+	catch 20 types of fish -- 53%
+	+	catch 350 fish -- 147
++	guitar
+	+	10 parties and venues -- 3 ?
+	+	25,000 tips -- 1248
++	science & logic
+	+	tutor 20 hrs children -- 5
+	+	100 experiments -- 4
++	30 paintings  --- 16
++	5 masterpieces -- 2
++	photography
+	+	75 subjects -- 42
+	+	50 unique sims -- 22
+	+	60 strangers -- 0
+	+	5 photo collections -- 0
++	martial arts
+	+	tournament 5 -- 1
+	+	meditate 150 hours -- 10
+	+	75 sparring matches -- 7
++	nectar
+	+	200 bottles made -- 168
+	+	turn 400 homegrown grapes into nectar
+	+	15 combinations -- 5
++	sculpting
+	+	ice 25 -- 13
++	inventing
+	+	250 widgets -- 2
+	+	detonated 150 objects -- 0
+	+	100 Big Inventions -- 3
++	street art
+	+	30 street art projects
+	+	10 murals
+	+	5 street art masterpieces
++	collections
+	+	all space rocks
+	+	all fireflies
+======================================================================
+INSECTS
+	Late Night
+		Green Will-O'-The-Wisp
+		Blue Will-O'-The-Wisp
+		Pink Will-O'-The-Wisp
+	Showtime
+		Firefly albus 		White
+		Firefly pratinus	Green
+		Firefly fulvus		Yellow
+		Firefly luteus		Orange
+		Firefly caeruleus	Blue
+		Firefly ruber		Red
+		Firefly roseus		Pink
+		Firefly purpureus	Purple
+	Late Night
+		Termite
+		Spider
+	Into the Future
+		Neutron
+		Caustic
+		Quantum
+		Scalar
+		Lite
+		Lepton
+		Tribble
+		Heisenberg
+		Condensor
+		Tunnelling
+		Torque
+		Induction
+		Polar
+		Thermo
+		Dispersion
+		Entropic
+		Optic
+		Damping	
+		Prismatic
+		Uber
+======================================================================
+fishing
+	Base Game
+		Blowfish
+		Piranha
+		Tragic Clownfish
+		Tuna
+		Vampire Fish
+	World Adventures
+		Frog
+		Doitsu Koi
+		Kawarimono Koi
+		Snails
+		Crocodile
+		Ochiba Koi
+		Crawfish
+		Tancho Koi
+		Mummy Fish
+		Dragon Fish
+	Late Night
+		Sea Sludge
+		Kissing Gourami
+		Sewer Trilobite
+	Showtime
+		Sea Bat Starfish
+		Linckia Starfish
+		Ninja Starfish
+	Supernatural
+		Toad
+		Luminous Salamander
+		Fairy Damsel
+	Island Paradise
+		Sea Urchin
+		Anemone
+		Sea Polyp
+		Hermit Crab
+		Octopus
+		Squid
+		Eel
+		Seahorse
+	Into the Future
+		Three Eyed Fish
+		Rainbow Snail
+======================================================================
+Married Christopher Steel
+Triplets: Brooklyn, Blossom, Bellatrix
+Triplets: Brandon, Bryant, Bubbles

@@ -1,0 +1,41 @@
+█▀█ █▀▀ █▀ █▀█ █ █ █▀█ █▀▀ █▀▀ █▀ 	https://www.carls-sims-3-guide.com/lifetimerewards/
+█▀▄ ██▄ ▄█ █▄█ █▄█ █▀▄ █▄▄ ██▄ ▄█ 	https://sims.fandom.com/wiki/Lifetime_reward
+
++	Shortened Version
+
+
+█▄▄ ▄▀█ █▀ █▀▀   █▀▀ ▄▀█ █▀▄▀█ █▀▀
+█▄█ █▀█ ▄█ ██▄   █▄█ █▀█ █ ▀ █ ██▄
+
+Lifetime Reward				Cost	Start At	Bonus / Reward
+Fast Metabolism				5,000	Child		Sims lose weight and gain muscle faster, lowers weight gain from overeating
+Speedy Cleaner				5,000	Child		Sims clean messes faster. When combined with the Neat trait, the Sim will clean up messes very fast.
+Discount Diner				5,000	Child		Eating at the Diner or Bistro will be free
+Professional Slacker		5,000	Teen		No risk of demotion. When slacking off, your performance increases. The chance of getting caught from getting a replacement for a lecture is slightly reduced
+Observant					5,000	Child		Learn 3 traits upon meeting
+Office Hero					5,000	Young Adult	Relationships with co-workers increase faster  (does not work outside the job )
+Legendary Host				5,000	Teen		Guests have a 100% chance of coming to a Sim's party and being positive higher than the party's level of fun
+Complimentary Entertainment	5,000	Child		Your rewarded Sim no longer has to pay any fees in the community theatre.
+Bookshop Bargainer			10,000	Child		Merchandise from the bookstore is now cheaper, combined with the weekly discount notice makes it even cheaper.
+Fertility Treatment			10,000	Young Adult	If both parents have this reward, the chance of having triplets are very high.
+Opportunistic				10,000	Child		The rewards of an opportunity are increased by 200%.
+Multi-Tasker				10,000	Child		Helps Sims finish homework/earn a promotion without always working hard. A teen with a part-time job will be seen as "Working Overtime" at school while "Working" at work, improving both school performance and work performance at the same time.
+Steel Bladder				10,000	Child		The Bladder Need is always full green and will never decay, bladder will be completely erased from the rewarded Sim's life.
+Never Dull					10,000	Child		Other Sims won't get bored for repeating the same social interactions many times. Doesn't work for the following social interactions: Enthuse About Comic Books, High Five
+Change Lifetime Wish		10,000	Child		Disappears as an option once a lifetime wish is achieved.
+Attractive					15,000	Teen		Increases starting relationship bonus and rate of relationship increase. When combined with the Celebrity Charisma Challenge, Sims become their friend as soon as they meet them! Helpful for the Charisma Challenge called Super Friendly. The icon has been replaced as of patch 42.
+Vacationer					15,000	Teen		When Sims with this Lifetime Reward take days off, their work performance bar will go down much slower than usual. When they are home, they will not get paid for doing their job.
+Haggler						15,000	Teen		Any Sim that has this reward will be given a very good discount at convenience stores (combined with the weekly discount message makes store merchandise incredibly cheaper).
+Fast Learner				15,000	Child		Learn skills faster. (combined with certain traits and the Sim's mood at elated makes learning faster than ever)
+Dirt Defiant				15,000	Child		Slows hygiene decay to a quarter of its usual speed. Squeaky Clean lasts 28 hours instead of 7. Objects and activities that decay hygiene still do so, however.
+Long Distance Friend		20,000	Child		The relationship bar will never decay through means of neglect. (This reward is useless if your Sim is charismatic and has the "Super Friendly" charisma skill challenges).
+Mid-Life Crisis				20,000	Young Adult	Reselect a Sim's traits without using testingcheatsenabled.
+Super Green Thumb			20,000	Teen		Plants become one quality level higher than the seed or produce it was planted from. Harvestables are also automatically one quality level higher than the plant they were harvested from.
+Hardly Hungry				25,000	Child		Cuts the decay rate of hunger to a quarter of the usual rate.
+Body Sculptor				30,000	Teen		Object: Allows a Sim to become heavier, leaner, more muscular, or less muscular. There is a chance it will malfunction and they will come out obese. Note: This reward can be sold for up to §6,000.
+Acclaimed Author			30,000	Teen		Earn more royalties from writing books.
+Extra Creative				30,000	Teen		Paintings will be worth more money, and increase the chances of obtaining a Master-Piece.
+Collection Helper			40,000	Child		The Collection Helper appears in the personal inventory with the icon of a butterfly (be careful not to sell). It may be used to locate Rocks and Gems, Insects, Seeds, and Fish. The exact locations of collectables are marked with map tags on map view, and when zoomed in the selected objects glow with a giant sparkle and beam of light. Sparkles don't start when paused. Note: This reward can be sold for up to §8,000.
+Food Replicator				50,000	Child		See details here. Note: This reward can be sold for up to §10,000.
+Moodlet Manager				60,000	Child		The Moodlet Manager has a "Cure" function which removes all negative and neutral moodlets, allowing the targeted Sim(s) (even unplayable ones) to repeatedly explore the mausoleum, search the town for collectibles or work out, however it may occasionally fail and result in a "Zap" instead, where a random negative moodlet is given (normally exhausted) . However, it can just be used again to remove it. Considering the fact that this can completely restore a Sim's needs up to maximum when they become low enough to produce a negative or neutral moodlet, this is probably one of the best rewards. The Moodlet Manager does NOT "cure" the "Sore" moodlet from sleeping after a rigorous workout. The "Cure" function will instantly complete a Sim's transformation to a Vampire. Can be passed down through generations of Sims. Note: This reward can be sold for up to §12,000.
+Teleportation Pad			75,000	Child		The Teleportation Pad lets Sims instantly teleport to any location on the map, and use their mobile phone to teleport back. Occasionally, the teleporter malfunctions and teleports them to the wrong place, but it's a simple matter of teleporting back with the phone and retrying. Can be upgraded with "Perfect Teleportation", which prevents it from ever malfunctioning. This reward can be sold for up to §15,000.

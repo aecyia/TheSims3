@@ -1,0 +1,77 @@
+█▀█ █▀▀ █▀ █▀█ █ █ █▀█ █▀▀ █▀▀ █▀ 	https://www.carls-sims-3-guide.com/skills/charisma/
+█▀▄ ██▄ ▄█ █▄█ █▄█ █▀▄ █▄▄ ██▄ ▄█ 	https://sims.fandom.com/wiki/Charisma
+
+█▀ ▀█▀ ▄▀█ ▀█▀ █ █▀ ▀█▀ █ █▀▀ █▀
+▄█  █  █▀█  █  █ ▄█  █  █ █▄▄ ▄█
+
++	Sims Known: 0
++	Friendships Made: 0
++	Best Friends Made: 0
++	Traits Learned: 0
++	Smooth Recoveries Made: 0
++	Funny Jokes Told: 0
+
+Challenges				Requirement				Bonus / Reward
+Celebrity				25 local acquaintances	Build relationships quicker
+Personable				learned 50 traits		Learn traits quicker
+Super Friendly			at least 20 friends		Friendships never decay
+Everybody's Best Friend 10 best friends 		Friends skip Good Friend and goes to Best Friends
+Comedian				100 jokes told			Jokes rarely fall flat
+
+█▀█ █▀█ █▀█ █▀▀ █▀▀ █▀ █▀ █ █▀█ █▄ █ █▀
+█▀▀ █▀▄ █▄█ █▀  ██▄ ▄█ ▄█ █ █▄█ █ ▀█ ▄█
+
++	Political Track
++	Musicians
+
+█ █ █▀█ █ █ █   ▀█▀ █▀█   █ █▀▄▀█ █▀█ █▀█ █▀█ █ █ █▀▀
+█▀█ █▄█ ▀▄▀▄▀    █  █▄█   █ █ ▀ █ █▀▀ █▀▄ █▄█ ▀▄▀ ██▄
+
++	Charisma class
++	Charisma book
++	Talking to mirrors
++	Socializing with others
+	+	Popular places around town
+	+	Attend / Host a party
+	+	Calling friends on the phone
+	+	Texting friends
+	+	Chat with someone on the computer
+	+	Socializing with coworkers at work
++	Playing Guitar in public
+	+	Play for tips ( gaining money & friends ! )
++	Lifetime Rewards
+	+	Observant
+	+	Attractive
+
+█ █ █▀ █▀▀ █▀▀ █ █ █     ▀█▀ █▀█ ▄▀█ █ ▀█▀ █▀
+█▄█ ▄█ ██▄ █▀  █▄█ █▄▄    █  █▀▄ █▀█ █  █  ▄█
+
++	Charismatic
++	Friendly
++	Good Sense of Humour
++	Flirty
++	Schmoozer
+
+▄▀█ █▄▄ █ █   █ ▀█▀ █ █▀▀ █▀
+█▀█ █▄█ █ █▄▄ █  █  █ ██▄ ▄█
+
+Lvl	Ability					Type		Notes					Requirements ( Friends-Relationships )
+1	Friendly Greet			Greeting	Friendly greeting				0	0
+	Charming Introduction	Special		Boosted starting relationship	Level 10+ gives instant friendship
+2	Amusing Greet			Greeting	Funny greeting					0	2
+3	Interesting Greet		Greeting	Interesting greeting			1	3
+	Get To Know				Special		Increased ability to find out traits & interests ( no lvl req with the Friendly Trait )
+4	Flirty Greet			Greeting	Romantic greeting				2	4
+5	Affectionate Greet		Greeting	Romantic greeting				3	6
+	Smooth Recovery			Special		Save conversation after awkward turn
+6	Funny Greeting			Greeting	Funny greeting					4	8
+7	Impressive Greet		Greeting	Impressive greeting				5	10
+8	Hilarious Greet			Greeting	Funny greeting					6	15
+9	Loving Greet			Greeting	Romantic greeting				8	20
+10	Irresistible Greet		Greeting	Romantic greeting				10	25
+
+
+█▀█ █▀█ █▀█ █▀█ █▀█ ▀█▀ █ █ █▄ █ █ ▀█▀ █ █▀▀ █▀
+█▄█ █▀▀ █▀▀ █▄█ █▀▄  █  █▄█ █ ▀█ █  █  █ ██▄ ▄█
+
+https://sims.fandom.com/wiki/Opportunity/Charisma

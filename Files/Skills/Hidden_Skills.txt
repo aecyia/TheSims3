@@ -1,0 +1,209 @@
+https://sims.fandom.com/wiki/Secret_skill#The_Sims_3
+
+Learn to Walk
+	Max Level: 1
+	Toddlers Only
+	A teen or older can teach a toddler how to walk
+	Learned: the toddler can walk around instead of crawl
+Potty Training
+	Max Level: 1
+	Toddlers Only
+	A teen or older can teach a toddler how to use the potty
+	Learned: the toddler can use the potty by him or herself
+Learn to Talk
+	Max Level: 1
+	Toddlers Only
+	A teen or older can teach a toddler how to talk
+	Learned: Sims will be able to chat with the toddler. Two toddlers who have both learned to talk can talk with each other when playing at the blocks table or dollhouse, and gradually gain relationship with each other.
+Peg Box
+	Max Level: 3
+	Toddlers Only
+	When the toddler ages into a child, they will start their logic skill at the same level as the skill level they acquired.
+Xylophone
+	Max Level: 3
+	Toddlers Only
+	When they age into a teen, they will start their Guitar skill at the same level as the skill level they acquired. If the Late Night expansion pack is installed, then the Bass, Piano, and Drum skills will also be raised. In addition, if Into the Future is installed, Laser Rhythm-A-Con skill will be raised.
+Blocks
+	Max Level: 3
+	Children Only
+	When they age into a teen, they will start their Handiness skill at the same level as the skill level they acquired. Children gain this skill by playing with the activity table.
+Chess
+	Sims can only build this skill by playing chess on the chess table
+	Playing chess on the computer does not give a Sim chess experience
+	Max Level: 10 with that level determining whether a Sim is more likely to win or lose, and what rank they hold in ranked chess tournaments. This skill is essential for completing the Chess Legend Lifetime Wish.
+Collecting
+	This skill goes up to level 10, with Sims having a better chance when capturing a bug or insect and finding a gem or rock as the level increases.
+Dancing
+	This skill goes up to level 3. Sims can raise this skill by dancing alone when music is on, but not by dancing with someone else. The level a Sim has in this skill determines how well they dance.
+	Another Dancing skill was added as part of premium content from The Sims 3 Store. Unlike this skill, the Dancing skill from the Store is visible and appears in the skill journal. Both Dancing skills are separate skills, which means Sims who have learned the hidden Dancing skill must learn the store skill from the beginning.
+Hacking
+	Sims with the Computer Whiz trait can hack on the computer and earn simoleons. Hacking goes up to a level of 10, with the level determining how much money a sim makes.
+Homework
+	A Teen or child Sim can do Homework. Regularly doing homework increases school performance. This skill goes up to level 10.
+Mooch
+	A Sim with the Mooch trait can mooch off of his or her neighbors or other Sims. This skill goes up to a level of 10. Sims with the Mooch Trait can beg for money and food from Sims around them. The higher the Sim's Mooching skill, the more likely they will be able to mooch large quantities of money. It is harder to mooch from Sims with the Frugal trait. Children can only achieve level 4, and teenagers can only reach level 6.
+Video game
+	A Sim can play video games on a gaming console. This skill does not apply to computer games or VR goggles. Sims can play against each other. The skill goes up to level 10, but only determines whether a Sim is likely to win or lose when playing against other Sims. The level of this skill affects the animations which are used, but there is no other effect.
+Air Guitar
+	The Sim will randomly play air guitar (playing guitar without guitar in hands) and get some fun from it. This skill goes up to level 10. Once a Sim reaches the top of Music career they can do this autonomously, due to the Rocker hidden trait.
+Foosball
+	A Sim or Sims can raise this skill by playing on the Foosball Table. The foosball skill goes up to level 10, but only determines whether a Sim is likely to win or lose when playing against other Sims. The level of this skill affects the animations which are used, but there is no other effect.
+Child Cooking
+	Only child Sims can get this skill. This skill goes up to level 3 and when the child ages into a teen, they will start their Cooking skill at the same level as the skill level they acquired.
+Diving
+	Prior to patch 42, this skill was only available in World Adventures. Sims can increase their skill level by using the dive wells or diving board. Originally, the skill went up to level 5, but with patch 42, it was changed to 2. This caused Sims who already surpassed level 2 to reset whenever they tried to use the diving board in the pool. This glitch was fixed in patch 50.
+
+█░█░█ █▀█ █▀█ █░░ █▀▄   ▄▀█ █▀▄ █░█ █▀▀ █▄░█ ▀█▀ █░█ █▀█ █▀▀ █▀
+▀▄▀▄▀ █▄█ █▀▄ █▄▄ █▄▀   █▀█ █▄▀ ▀▄▀ ██▄ █░▀█ ░█░ █▄█ █▀▄ ██▄ ▄█
+
+Rubble Clearing
+	Sims can progress at clearing rubble in tombs. As their level increases, they are able to clear rubble quicker.
+Snake charming
+	The more a Sim charms snakes, the better they get at it. Eventually, at later levels, the Sim can kiss the snake or make it go into other Sims' clothes. This skill goes up to level 10.
+Ambitions
+Consignment
+	As Sims sell objects in the consignment store their consignment skill also increases, allowing them to sell objects for greater returns. This skill goes up to level 10.
+Tattooing
+	Each time a Sim gives another a tattoo, their tattooing skill increases. It goes up to Level 10. Only Young Adults and above can get this skill.
+Trampoline
+	This skill increases each time a Sim uses the trampoline. It goes up to Level 10, and is available to all Sims who are at least children.
+Gnubb
+	This skill is used whenever Sims use the Sim Gnubb toy. This skill goes up to level 10, and is available to all Sims who are at least children.
+Styling
+	This skill increases every time a stylist gives a makeover, or through the use of the drafting table. It goes up to Level 10 and is only available to Young Adults and above.
+Late Night
+Arcade Machine
+	Sims will get better when playing arcade machine, arcade table, or whack-a-supernatural. This skill goes up to level 10. Higher level Sims are more likely to win games.
+Bubble Blowing
+	The bubbles become figures in various shapes when a Sim uses the Bubbluscious Bubble Bar . This skill goes up to level 10.
+Darts
+	Sims can play darts using dartboards. This skill goes up to level 10. Higher level Sims are more likely to win games.
+Shuffleboard
+	Sims can level up this skill by using the shuffleboard. This skill goes up to level 3, with higher level Sims being more likely to win games.
+Club Dancing
+	Sims gain this skill from dancing in clubs. This skill goes up to level 3, and is available to children and older.
+Rock Band
+	Sims automatically earn this skill once they form band or be asked to join a band. This skill controls whether Sims can receive band skill opportunities, but merely possessing this skill without having a real band will not let Sims to receive such opportunities. This skill only goes up to level 1.
+Generations
+Sandbox
+	Sims build better sandcastles over time. This skill goes up to level 4. When the child ages into a teen, they will start their Sculpting skill at the same level as the skill level they acquired.
+Driving
+	Teens can't drive a car unless an older Sim has taught them to. This skill goes up to level 3, and teens who complete the skill will be sent a framed reward certificate.
+Hopscotch
+	Sims get better at playing hopscotch as their skill increases. This skill goes up to level 10.
+Child Athletic
+	Beginning with Generations, the Athletic skill is no longer available to children. It is replaced by the Child Athletic secret skill, which is earned when children work out. This skill goes up to level 3, and when the child ages into a teen, his or her Athletic skill will start at the same skill level.
+Child Gardening
+	Beginning with Generations, the Gardening skill is no longer available to children. It is replaced by the Child Gardening secret skill. This skill goes up to level 3, and when the child ages into a teen, his or her Gardening skill will start at the same skill level.
+Child Guitar
+	Only children can get this skill, This skill goes up to level 3, and when the child ages into a teen, they will start their Guitar skill at the same level as the skill level they acquired. This skill may only be acquired randomly if the child is sent to LeFromage Art boarding school.
+Child Bass[TS3:LN]
+	Only children can get this skill. This skill goes up to level 3, and when the child ages into a teen, they will start their Bass skill at the same level as the skill level they acquired. This skill may only be acquired randomly if the child is sent to LeFromage Art boarding school.
+Child Drum[TS3:LN]
+	Only children can get this skill. This skill goes up to level 3, and when the child ages into a teen, they will start their Drum skill at the same level as the skill level they acquired. This skill may only be acquired randomly if the child is sent to LeFromage Art boarding school.
+Child Piano[TS3:LN]
+	Only children can get this skill. This skill goes up to level 3, and when the child ages into a teen, they will start their Piano skill at the same level as the skill level they acquired. This skill may only be acquired randomly if the child is sent to LeFromage Art boarding school.
+Ballet
+	Only children can get this skill. This skill goes up to level 3 and is unlocked from afterschool activity. This skill unlocks several ballet move abilities. Sims can also learn this hidden skill by practicing ballet with the ballet barre from The Sims 3 Store. When the child ages into a teen, they will start their Dancing hidden skill at the same level as the skill level they acquired.
+Scouting
+	Only children can get this skill. This skill goes up to level 3 and is unlocked from afterschool activity. This skill unlocks the Salute hidden trait. When the child ages into a teen, they will start their Gardening skill at the same level as the skill level they acquired.
+Pets
+Wildlife
+	The Wildlife hidden skill determines whether befriending interactions with minor pets are successful. This skill goes up to level 6. Wild animals are more likely to accept interactions to Sims with a greater wildlife skill.
+Showtime
+Golfing
+	This skill goes up to level 10. This skill is available to teens and older. Sims gain this skill from playing golf.
+Dominoes
+	This skill goes up to level 10. This skill is available to children and older. The higher the skill, the higher the chance that the Sim will win.
+Karaoke
+	This skill goes up to level 3. This skill is available to teens and older, and is gained from singing karaoke.
+Pool
+	This skill goes up to level 10. Sims gain this skill by playing pool. The higher the skill, the higher the chance that the Sim will win.
+DJ Turntable
+	This skill goes up to level 5. Sims gain this skill from using the DJ booth.
+Magic
+	This skill goes up to level 10. Sims gain a level every time they are promoted in the magician profession. It changes what types of magic acts the Sim can do.
+Entertainer
+	This skill goes up to level 10. Sims gain a level every time they are promoted in the acrobat profession. It changes what stunts the Sim can do.
+Performance Artist
+	This skill goes up to level 10. Sims gain a level every time they are promoted in the singer profession. It changes what songs the Sim can sing, and also makes them better at karaoke.
+Supernatural
+Lycanthropy
+	Lycanthropy is a hidden skill that werewolves only can have and the skill is unique to them. As they level up this skill, they unlock new interactions and benefits for themselves. This skill goes up to level 10.
+	At level 2, werewolves can successfully hunt collectibles around town.
+	At level 3, they can approach any unsuspecting normal Sims and Cursed Bite them. If a werewolf has the Alpha Dog lifetime reward, his Cursed Bite cannot be avoided. The Sim who got bitten will transform into a werewolf two days later.
+	At level 6, they can Hunt For specific collectibles such as metals, gems, insects, etc. This is very useful to Sims who need certain collectables for displaying them or using them as ingredients to mix elixirs.
+	At level 8, they can control when and where they transform. They will be less likely to transform when angered or mood dropped drastically.
+	When a werewolf gets to level 10 of Lycanthropy, they are the "best of their kind". They can find up to four collectables per solo hunt. Their bites and howls during night time will be less likely to fail.
+Broom Riding
+	A skill that increases when your Sim does stunts in the Broom Arena. There are 10 skill levels. The higher this skill the more stunts they do, and possible more tips.
+Spellcasting
+	At level 0, Witches may cast the Conjure Apple spell. Conjure apple allow Witches to create an apple of random quality, as well as the chance to create a poison apple.
+	At level 1, Witches may cast the Conversion spell and Good Luck Charms. Conversion spell allows the said Witch to transfigure a collectible into a random collectible of random quality, while Good Luck Charm, giving the target Sim "Feeling Lucky" moodlet, which gives +5 to mood and lasts for 24 hours.
+	At level 2, Witches may cast the Fire Blast and the Ice Blast. Casting Ice Blast on an appliance will make the said appliance break and casting it on a fire will put the fire out, while casting Fire Blast on a terrain will cause a fire, unless it is on a lot owned by a Sim with the Fireproof Household lifetime reward.
+	At level 3, Witches may cast the Upgrade Appliance. Upgrade Appliance allow Witches to upgrade any appliance without the need of required Handiness skill.
+	At level 4, Witches may cast the Love Charm and Toadification Curse.
+	At level 5, Witches may cast the Haunting Curse, which can cause a targeted Sim to be haunted by a ghost. The experience results in the Sim having the "Scared" and "Haunted" moodlets, which grant a -25 mood for 3 hours and a -20 mood for 2 days respectively.
+	At level 6, Witches may cast the Hunger/Thirst Charm, the Bladder Charm, and the Hygiene Charm. These charms can replenish the corresponding needs bar of either the caster or the targeted Sim.
+	At level 7, Witches may cast the Hunger/Thirst Curse, the Bladder Curse, and the Hygiene Curse. All three deplete the corresponding needs bar of the targeted Sim.
+	At level 8, Witches may cast the Sunlight Charm and the Pestilence Curse. The Sunlight Charm grants the targeted Sim a positive moodlet whilst ridding the Sim of negative moodlets; it can also be used to ward off Vampires and cure Zombies. The Pestilence Curse, as the name suggests, makes the targeted Sim ill.
+	At level 9, Witches may cast the Restoration Ritual, which cleans up the lot it is used in.
+	At level 10, Witches may cast the Reanimation Ritual, allowing Witches to revive the dead as zombies.
+Fairy Magic
+	A hidden skill for fairies that determine what magic spells they can use and how likely is is to succeed.
+	Fairies automatically have access to the self-interaction I Can Fly, which boosts the Fun motive. They can cast the spells Hot Head and Chattering Teeth. Finally, they can project the Aura of Soothing which grants nearby Sims a +20 moodlet.
+	At level 1, fairies unlock the ability to project the Aura of Creativity which enhances performance in Painting, Writing and instrumental skills for nearby Sims. They can also cast the spell Flight of Felicity which grants another Sim the ability to fly like a fairy.
+	At level 2, fairies can Fairy Trap toilets and showers.
+	At level 3, fairies can Fairy Repair broken objects. They also unlock the ability to project the Aura of Body and Mind, which enhances performance in the Athletic, Charisma and Logic skills for nearby Sims.
+	At level 4, fairies can Fairy Trap trash cans. They also unlock the Tummy Twister spell.
+	At level 5, fairies unlock the Bloom spell which can be cast on a garden plant to advance its growth stage. This spell will make mature plants ready for harvest and may even revive a dead plant.
+	At level 6, fairies can Fairy Trap sofas and loveseats. They also unlock the Skivvies spell.
+	At level 7, fairies unlock the Gold and Toads spell.
+	At level 8, fairies can Fairy Trap mailboxes.
+	At level 9, fairies can Fairy Trap LLAMAs.
+	At level 10, fairies can use the Inner Beauty spell.
+Seasons
+Skating
+	Playing ice or roller skating increases the Skating hidden skill. As Sims advance this skill, the interactions to do tricks on a skating rink are unlocked. Sims also get better at skating with higher skill. This skill goes up to level 6, and children and older can learn this skill. Ghosts, mummies, SimBots, vampires, imaginary friends in their toy form, genies, fairies, werewolves in their wolf form, and zombies cannot learn skating skill, as they will hover when using the skating rink or run around instead.
+Snowboarding
+	Sims learn this skill by playing snowboard on the half-pipe. Sims get better at snowboarding as they master this skill. The failure chance gets reduced from 30%, 20%, and 5% for respective skill level. Children and older can learn this skill. This skill goes up to level 3.
+Horseshoes
+	Sims learn this skill by playing horseshoes court. They will have higher chance at winning against other Sims with higher level. Children and older can learn this skill. This skill goes up to level 10.
+Ball Fighting
+	Ball Fighting is a combined skills between snowball and water balloon fighting. Children and older can learn this skill by playing the activity on the lot or with the court. With higher skills, they might be able to dodge snowballs and water balloons and aim at Sims better. This skill goes up to level 3.
+University Life
+Nerd Influence
+	Nerd social group influence is a hidden skill Sims gain as they do nerd activities. Sims earn more influence by doing activities such as reading comic books, playing games, or doing scientific research. There are 10 skill points from this hidden skill, and as Sims gain more skill points, they will receive certain perks.
+	At Level 2, nerds will receive a video game console and ability to play game online.
+	At level 4, nerds can issue a trivia challenge.
+	At level 6, nerds can mind meld with other Sims.
+	At level 8, nerds can pick an additional trait.
+	At level 10, nerds will receive Video Game Developer career offer.
+Rebel Influence
+	Rebel social group influence is a hidden skill Sims gain as they do rebellious activities. Sims earn more influence by doing activities such as protesting, burning herbs, or tagging walls. There are 10 skill points from this hidden skill, and as Sims gain more skill points, they will receive certain perks.
+	At Level 2, rebels will receive a street art bag, a megaphone, and ability to sell test answers at the college.
+	At level 4, rebels can get away from cheating more easily, start a hunger strike, and say what's wrong with the world with the podium.
+	At level 6, rebels unlock an exclusive smartphone skin, start a rowdy protest, and show off new gizmo to other Sims
+	At level 8, rebels can pick an additional trait.
+	At level 10, rebels will receive Art Appraiser career offer.
+Jock Influence
+	Jock social group influence is a hidden skill Sims gain as they do jock activities. Sims earn more influence by doing activities such as playing collegiate sports, playing with flying disc or soccer, and bowling. There are 10 skill points from this hidden skill, and as Sims gain more skill points, they will receive certain perks.
+	At Level 2, jocks will receive the ability to school cheer and throw a juice kegger party.
+	At level 4, jocks can take self portrait and throw a bonfire party.
+	At level 6, jocks can throw a party for charity
+	At level 8, jocks can pick an additional trait.
+	At level 10, jocks will receive Sports Agent career offer.
+Ping Pong
+	Sims learn this skill by playing ping pong or juice pong with the ping pong table. This skill goes up to level 5, and teens and older can learn this skill. As Sims get more skilled in ping pong, they can do smash while playing a game of ping pong.
+Bowling
+	Sims learn this skill by bowling at a bowling lane. Children and older can learn this skill. This skill goes up to level 5.
+Island Paradise
+Firewalking
+	This skill goes up to level 2. Sims build this skill as they firewalk on the firewalking pit. The higher the skill, the more likely Sims will succeed at the pit in a higher difficulty.
+Waterskiing
+	This skill goes up to level 10. Sims learn this skill by waterskiing on the ocean. Sims can waterski in formal wear when they reach level 8 of this skill.
+Windsurfing
+	This skill goes up to level 10. Sims learn this skill by windsurfing with the windsurfboard that can be bought in Buy mode. As Sims get more skilled in this hidden skill, they will have higher chance at making tricks while windsurfing and performing it successfully.
+Into the Future
+	Bug Eating
+	This skill goes up to level 3. Children and older can learn this skill.
