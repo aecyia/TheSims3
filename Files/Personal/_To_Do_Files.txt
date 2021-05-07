@@ -12,6 +12,7 @@
 +	moodlets
 +	lifetime rewards
 +	traits
++	RELIC HUNTER
 
 band = skill ? https://sims.fandom.com/wiki/Opportunity/Band
 

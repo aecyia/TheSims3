@@ -32,10 +32,14 @@ Item Type >> Number Sold >> Value
 
 +	Sellling items / objects
 	+	Items such as
+		+	Books
 		+	Fruit
 		+	Fish
 		+	Inventions
+		+	Nectar
 		+	Paintings
+		+	Photos
+		+	Relics
 		+	Sculptures
 	+	Sell items >> Build reputation >> Profitable Sales
 		+	0	  Reputation = 15% Taken off
@@ -51,15 +55,42 @@ Item Type >> Number Sold >> Value
 		+	5 Days at the shop: Selling price = 100%
 	+	Unsold items returned by day 5
 	+	Selling the same object frequently >> Decreases the price >> Customers are bored of the item
-+	Lifetime Reward: Suave Selling
-	+	Sell goods for more
-+	
++	Lifetime Rewards
+	+	Artisan Crafter
+	+	Suave Selling: Sell goods for more
+	+	Efficient Inventor
+	+	Super Green Thumb
+	+	Acclaimed Author
+	+	Learned Relic Hunter
+	+	No Bills Ever: since expensive items raises your lot value
+	+	More time creating objects with:
+		+	Steel Bladder
+		+	Meditative Trance Sleep
+		+	Hardly Hungry
+		+	Carefree
++	Relationship with the clerk does not matter
++	Easy, Fast Start
+	+	Recommended by https://www.carls-sims-3-guide.com/ambitions/consignment.php
+	1	Have §1000 ? Sale at the Grocery Store ?
+	2	Spend it by buying 99 Lettuce and 99 Apples ( §5 each )
+	3	Sell all in the Consignment store
+	4	Easily gain money back + raise reputation + lower fees
+
 
 █ █ █▀ █▀▀ █▀▀ █ █ █     ▀█▀ █▀█ ▄▀█ █ ▀█▀ █▀
 █▄█ ▄█ ██▄ █▀  █▄█ █▄▄    █  █▀▄ █▀█ █  █  ▄█
 
 +	Born Salesperson: gain reputation faster
-+	
++	For producing these items:
+	+	Books		Artistic
+	+	Fruit		Green Thumb, Loves the Outdoors
+	+	Fish		Angler, Loves the Outdoors
+	+	Inventions	Eccentric
+	+	Nectar		Green Thumb
+	+	Paintings	Artistic
+	+	Photos		Photographic Eye
+	+	Relics		
+	+	Sculptures	Savvy Sculptor
 
 ▄▀█ █▄▄ █ █   █ ▀█▀ █ █▀▀ █▀
 █▀█ █▄█ █ █▄▄ █  █  █ ██▄ ▄█
