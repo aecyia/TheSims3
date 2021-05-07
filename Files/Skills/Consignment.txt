@@ -2,6 +2,7 @@
 █▀▄ ██▄ ▄█ █▄█ █▄█ █▀▄ █▄▄ ██▄ ▄█ 
 
 https://sims.fandom.com/wiki/Consignment_store
+https://sims.fandom.com/wiki/Elixir_consignment_store
 https://www.carls-sims-3-guide.com/ambitions/consignment.php
 
 █▀ ▀█▀ ▄▀█ ▀█▀ █ █▀ ▀█▀ █ █▀▀ █▀
@@ -24,8 +25,15 @@ Item Type >> Number Sold >> Value
 █▀█ █▀█ █▀█ █▀▀ █▀▀ █▀ █▀ █ █▀█ █▄ █ █▀
 █▀▀ █▀▄ █▄█ █▀  ██▄ ▄█ ▄█ █ █▄█ █ ▀█ ▄█
 
-+	
-+	
++	Self-Employed Professions
+	+	Books		Author
+	+	Fruit		Gardener
+	+	Fish		Angler
+	+	Inventions	Inventor
+	+	Nectar		Nectar-Maker
+	+	Paintings	Painter
+	+	Photos		Photographer
+	+	Sculptures	Sculptor
 
 █ █ █▀█ █ █ █   ▀█▀ █▀█   █ █▀▄▀█ █▀█ █▀█ █▀█ █ █ █▀▀
 █▀█ █▄█ ▀▄▀▄▀    █  █▄█   █ █ ▀ █ █▀▀ █▀▄ █▄█ ▀▄▀ ██▄
@@ -75,6 +83,8 @@ Item Type >> Number Sold >> Value
 	2	Spend it by buying 99 Lettuce and 99 Apples ( §5 each )
 	3	Sell all in the Consignment store
 	4	Easily gain money back + raise reputation + lower fees
++	Mod: https://www.nraas.net/community/Consigner
+	+	Allows the sale of more items
 
 
 █ █ █▀ █▀▀ █▀▀ █ █ █     ▀█▀ █▀█ ▄▀█ █ ▀█▀ █▀
@@ -95,20 +105,9 @@ Item Type >> Number Sold >> Value
 ▄▀█ █▄▄ █ █   █ ▀█▀ █ █▀▀ █▀
 █▀█ █▄█ █ █▄▄ █  █  █ ██▄ ▄█
 
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
+None
 
 █▀█ █▀█ █▀█ █▀█ █▀█ ▀█▀ █ █ █▄ █ █ ▀█▀ █ █▀▀ █▀
 █▄█ █▀▀ █▀▀ █▄█ █▀▄  █  █▄█ █ ▀█ █  █  █ ██▄ ▄█
 
-+	
-+	
-+	
+Unknown
