@@ -6,25 +6,37 @@
 
 +	Number of Items Sold: 0
 +	Number of Items Returned Unsold: 0
-+	Most Expensive Item Sold: §0
-+	Total Amount of Money Made: §0
++	Most Expensive Item Sold: § 0
++	Total Amount of Money Made: § 0
 +	Reputation: -
+
+█▀▀ █ █ ▄▀█ █   █   █▀▀ █▄ █ █▀▀ █▀▀ █▀
+█▄▄ █▀█ █▀█ █▄▄ █▄▄ ██▄ █ ▀█ █▄█ ██▄ ▄█
 
 Challenges						Requirement				Bonus / Reward
 Consignment Store Reputation	Impressive reputation	-
 Consignment Store Sales			Sell 150 items			-
 Consignment Profit				Make §25,000			-
 
-Sold Items
-Item Type >> Number Sold >> Value
+█▀ █▀█ █   █▀▄   █ ▀█▀ █▀▀ █▀▄▀█ █▀
+▄█ █▄█ █▄▄ █▄▀   █  █  ██▄ █ ▀ █ ▄█
+
+Item Type	Sold	Value
+Book		0		§ 0
+Fish		0		§ 0
+Fruit		0		§ 0
+Inventions	0		§ 0
+Nectar		0		§ 0
+Painting	0		§ 0
+Sculptures	0		§ 0
 
 █▀█ █▀█ █▀█ █▀▀ █▀▀ █▀ █▀ █ █▀█ █▄ █ █▀
 █▀▀ █▀▄ █▄█ █▀  ██▄ ▄█ ▄█ █ █▄█ █ ▀█ ▄█
 
 +	Self-Employed Professions
 	+	Books		Author
-	+	Fruit		Gardener
 	+	Fish		Angler
+	+	Fruit		Gardener
 	+	Inventions	Inventor
 	+	Nectar		Nectar-Maker
 	+	Paintings	Painter

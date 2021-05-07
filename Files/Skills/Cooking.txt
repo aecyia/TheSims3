@@ -8,15 +8,21 @@
 +	Meal Most Prepared: -
 +	Highest Quality Meal: -
 +	Recipes Prepared: 0
-+	Recipes Known: 0%
-	
++	Recipes Known: 0 %
+
+█▀▀ █ █ ▄▀█ █   █   █▀▀ █▄ █ █▀▀ █▀▀ █▀
+█▄▄ █▀█ █▀█ █▄▄ █▄▄ ██▄ █ ▀█ █▄█ ██▄ ▄█
+
 Challenges			Requirement			Bonus / Reward
 Star Chef			Prepared 50 meals	Prepared dishes are more pleasing to eat
 World-Class Chef	Prepared 75 dishes	Prepare meals slightly faster
 Menu Maven			Learned 28 recipes	Prepare higher quality food
 
-Recipes Known
-Level Number >> Recipe Name >> Best Quality You Cooked At >> Ingredients
+█▀█ █▀▀ █▀▀ █ █▀█ █▀▀ █▀   █▄▀ █▄ █ █▀█ █ █ █ █▄ █
+█▀▄ ██▄ █▄▄ █ █▀▀ ██▄ ▄█   █ █ █ ▀█ █▄█ ▀▄▀▄▀ █ ▀█
+
+Level	Recipe Name		Best Quality You Cooked At	Ingredients
+
 
 █▀█ █▀█ █▀█ █▀▀ █▀▀ █▀ █▀ █ █▀█ █▄ █ █▀
 █▀▀ █▀▄ █▄█ █▀  ██▄ ▄█ ▄█ █ █▄█ █ ▀█ ▄█

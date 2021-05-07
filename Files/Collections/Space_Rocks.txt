@@ -4,36 +4,36 @@
 https://www.carls-sims-3-guide.com/skills/collecting/rocks.php
 https://sims.fandom.com/wiki/Rock_collecting
 
-Acapulcoite
-Angrite
-Ataxite
-Aubrite
-Branchinite
-Carbonaceous Chondrite
-Chassignite
-Diogenite
-Enstratite Chondrite
-Eucrite
-Hexahedrite
-Howardite
-Kamasite
-Londranite
-Lunar
-Mesosiderite
-Nakalite
-Oetahedrite
-Ordinary Chondrite
-Pallasite
-Pearsonite
-Rodiekceous
-Rumuritie
-Shergottite
-Unusual Bellacite
-Unusual Custerous Gossticite
-Unusual Dukedite
-Unusual Holmberic
-Unusual Llamatite
-Unusual Mazzadrayte
-Unusual Sporecite
-Ureilite
-Winonaite
+Acapulcoite						GLT		70%
+Angrite							LT		100%
+Ataxite							GLT		150%
+Aubrite							LT		140%
+Brachinite						LT		120%
+Charbonaceous Chondrite			GLT		500%
+Chassignite						GLT		120%
+Diogenite						LT		90%
+Enstatite Chondrite				GLT		600%
+Eucrite							LT		80%
+Hexahedrite						GLT		160%
+Howardite						LT		70%
+Kamasite						LT		175%
+Lodranite						LT		80%
+Lunar							LT		130%
+Mesosiderite					GLT		1000%
+Nakhlite						LT		110%
+Octahedrite						GLT		180%
+Ordinary Chondrite				LT		50%
+Pallasite						GLT		400%
+Rumurutite						LT		300%
+Shergottite						GLT		100%
+Unusual Bellacite				GLT		160%
+Unusual Custerous Gossticite	GLT		190%
+Unusual Dukeadite				LT		220%
+Unusual Holmberic				LT		180%
+Unusual Llamatite				GLT		200%
+Unusual Mazzadrayte				LT		210%
+Unusual Pearsonite				GLT		210%
+Unusual Rodiekceous				GLT		200%
+Unusual Sporecite				GLT		170%
+Ureilite						GLT		90%
+Winonaite						LT		130%

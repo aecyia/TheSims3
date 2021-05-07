@@ -11,6 +11,9 @@
 +	Smooth Recoveries Made: 0
 +	Funny Jokes Told: 0
 
+█▀▀ █ █ ▄▀█ █   █   █▀▀ █▄ █ █▀▀ █▀▀ █▀
+█▄▄ █▀█ █▀█ █▄▄ █▄▄ ██▄ █ ▀█ █▄█ ██▄ ▄█
+
 Challenges				Requirement				Bonus / Reward
 Celebrity				25 local acquaintances	Build relationships quicker
 Personable				learned 50 traits		Learn traits quicker

@@ -9,7 +9,10 @@
 +	Distance Jogged: 0.0 Kilometers
 +	Soccer Rank: 0 [ Seasons DLC ]
 +	Wins-Losses-Draws: 0 - 0 - 0 [ Seasons DLC ]
-	
+
+█▀▀ █ █ ▄▀█ █   █   █▀▀ █▄ █ █▀▀ █▀▀ █▀
+█▄▄ █▀█ █▀█ █▄▄ █▄▄ ██▄ █ ▀█ █▄█ ██▄ ▄█
+
 Challenges			Requirement				Bonus / Reward
 Body Builder		60 hours of strength	Never fatigued after strength workouts
 Marathon Runner		Ran 500 kilometers		Longer, healthier life
