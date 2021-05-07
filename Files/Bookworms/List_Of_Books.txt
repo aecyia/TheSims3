@@ -549,53 +549,53 @@ Fantasy
 Fiction
 	C	Li Bing and the King's Daughter
 	C	Terracotta Bodyguard II
-	E 	Ra! Ra! Ra!
 	E	The Keystone's Countertpart
-	F	Flo and Her Kenspa
-	F	Field of Sims
-	F	Le Velo de Tate
+	E 	Ra! Ra! Ra!
 	F	Avant-garde Literature for the Masses
+	F	Field of Sims
+	F	Flo and Her Kenspa
+	F	Le Velo de Tate
 Historical
 	C 	How Rain Built the World
 	C 	The Life and Times of Mr. Chan
 	C 	The Memoirs of Chin Han
 	E	From Dead to Mummy: The History of Healing
 	F	Mr. McKay's Photographics
-	F	The White Flag of Victory
 	F	Phillipe's Monuments
+	F	The White Flag of Victory
 Humor
-	E	Are You My Mummy?
 	E	A Good Shawarma
-	F	Where's the Soup
+	E	Are You My Mummy?
 	F	Fashion Advice for Hermits
+	F	Where's the Soup
 Mystery
 	E	The Price of Treasure
 	F	Shadow of the Tower
 	F	The Case of the Red Bicycle
 	F	The Curator's Lost Museum
 Non-Fiction
-	C	The Year of the Llama
 	C	Imperial Military Tactics
-	C 	The Rice Tourist's Companion
+	C	The Year of the Llama
+	C 	Fishing for the Moon
 	C 	How to Handle Fireworks: Lessons from a Man with No Fingers
+	C 	Noodles! And Sauerkraut!
 	C 	Sim Fu: Jumping Kicks
 	C 	The International Reader of Fried Rice
-	C 	Noodles! And Sauerkraut!
-	C 	Fishing for the Moon
-	E 	South of The Simhara
-	E	Thread Count
-	E	Advanced Facial Expressions
-	E	Tomb Raiding for Toddlers: What to Know
-	E	The Sand Mirage
+	C 	The Rice Tourist's Companion
 	E	A Guide to Desert Stick Pokey
+	E	Advanced Facial Expressions
 	E	Free Kicks, Hard Tackles, and Red Cards
 	E	Thats a Wrap!: The True Life Story of the First Mummy Film Director
 	E	The River that Sustains Us
+	E	The Sand Mirage
+	E	Thread Count
+	E	Tomb Raiding for Toddlers: What to Know
+	E 	South of The Simhara
+	F	Crepes et Cidres
+	F	Film Noir or Just Black and White?
+	F	For the Love of Nectar
 	F	Gibson's Delight
 	F	Une Historie de Champs Les Sims
-	F	Film Noir or Just Black and White?
-	F	Crepes et Cidres
-	F	For the Love of Nectar
 Romance
 	C 	A Wall Between Us
 	E 	The Mummy in Love
