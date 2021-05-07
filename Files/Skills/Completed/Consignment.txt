@@ -9,11 +9,11 @@
 +	Most Expensive Item Sold: §0
 +	Total Amount of Money Made: §0
 +	Reputation: -
-	
-Challenges						Requirement
-Consignment Store Reputation	Gain an impressive reputation for sell items at the Consignment Store
-Consignment Store Sales			Sell 150 items at the Consignment Store
-Consignment Profit				Make §25,000 at the Consignment Store
+
+Challenges						Requirement				Bonus / Reward
+Consignment Store Reputation	Impressive reputation	-
+Consignment Store Sales			Sell 150 items			-
+Consignment Profit				Make §25,000			-
 
 Sold Items
 Item Type >> Number Sold >> Value
