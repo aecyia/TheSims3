@@ -1,11 +1,13 @@
-PACKAGES DIALOG showing up
-	13april.package
+Mod Scripts Found DIALOG
++	Packages\13april.package
 
 LOGGED IN TO THE SIMS 3
 
 CTRL + SHIFT + C
-	testingcheatsenabled true
+testingcheatsenabled true
+
+ENTER GAME
 
 SHIFT + L-CLICK + MAILBOX
-	MAKE ALL HAPPY
-	MAKE NEEDS STATIC
++	MAKE ALL HAPPY
++	MAKE NEEDS STATIC

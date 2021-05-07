@@ -11,12 +11,12 @@ Lifetime Reward				Cost	Start At	Bonus / Reward
 Fast Metabolism				5,000	Child		Sims lose weight and gain muscle faster, lowers weight gain from overeating
 Speedy Cleaner				5,000	Child		Sims clean messes faster. When combined with the Neat trait, the Sim will clean up messes very fast.
 Discount Diner				5,000	Child		Eating at the Diner or Bistro will be free
-Professional Slacker		5,000	Teen		No risk of demotion. When slacking off, your performance increases. The chance of getting caught from getting a replacement for a lecture is slightly reduced
+Professional Slacker		5,000	Teen		No risk of demotion. Slacking off = performance increase. Reduced chance of getting caught from getting a replacement for a lecture
 Observant					5,000	Child		Learn 3 traits upon meeting
-Office Hero					5,000	Young Adult	Relationships with co-workers increase faster  (does not work outside the job )
-Legendary Host				5,000	Teen		Guests have a 100% chance of coming to a Sim's party and being positive higher than the party's level of fun
-Complimentary Entertainment	5,000	Child		Your rewarded Sim no longer has to pay any fees in the community theatre.
-Bookshop Bargainer			10,000	Child		Merchandise from the bookstore is now cheaper, combined with the weekly discount notice makes it even cheaper.
+Office Hero					5,000	Young Adult	Relationships with co-workers increase faster  ( does not work outside the job )
+Legendary Host				5,000	Teen		100% chance party guests being positively higher than the party's level of fun
+Complimentary Entertainment	5,000	Child		Free community theatre actions
+Bookshop Bargainer			10,000	Child		Cheaper bookstore merch. Even cheaper when combined with the weekly discount notice
 Fertility Treatment			10,000	Young Adult	If both parents have this reward, the chance of having triplets are very high.
 Opportunistic				10,000	Child		The rewards of an opportunity are increased by 200%.
 Multi-Tasker				10,000	Child		Helps Sims finish homework/earn a promotion without always working hard. A teen with a part-time job will be seen as "Working Overtime" at school while "Working" at work, improving both school performance and work performance at the same time.
