@@ -1,5 +1,8 @@
 █▀█ █▀▀ █▀ █▀█ █ █ █▀█ █▀▀ █▀▀ █▀ 	
-█▀▄ ██▄ ▄█ █▄█ █▄█ █▀▄ █▄▄ ██▄ ▄█ 	
+█▀▄ ██▄ ▄█ █▄█ █▄█ █▀▄ █▄▄ ██▄ ▄█ 
+
+https://sims.fandom.com/wiki/Consignment_store
+https://www.carls-sims-3-guide.com/ambitions/consignment.php
 
 █▀ ▀█▀ ▄▀█ ▀█▀ █ █▀ ▀█▀ █ █▀▀ █▀
 ▄█  █  █▀█  █  █ ▄█  █  █ █▄▄ ▄█
@@ -27,17 +30,35 @@ Item Type >> Number Sold >> Value
 █ █ █▀█ █ █ █   ▀█▀ █▀█   █ █▀▄▀█ █▀█ █▀█ █▀█ █ █ █▀▀
 █▀█ █▄█ ▀▄▀▄▀    █  █▄█   █ █ ▀ █ █▀▀ █▀▄ █▄█ ▀▄▀ ██▄
 
-+	
-+	
-+	
-+	
-+	
++	Sellling items / objects
+	+	Items such as
+		+	Fruit
+		+	Fish
+		+	Inventions
+		+	Paintings
+		+	Sculptures
+	+	Sell items >> Build reputation >> Profitable Sales
+		+	0	  Reputation = 15% Taken off
+		+	200   Reputation = 10% Taken off
+		+	4,000 Reputation = 5% Taken off
+		+	8,000 Reputation = 0% Taken off
+		+	Increase reputation = decrease % that the store will take for having to stock the items
+	+	Longer on sale = Lower sell price
+		+	1 Day  at the shop: Selling price = 200%
+		+	2 Days at the shop: Selling price = 170%
+		+	3 Days at the shop: Selling price = 130%
+		+	4 Days at the shop: Selling price = 110%
+		+	5 Days at the shop: Selling price = 100%
+	+	Unsold items returned by day 5
+	+	Selling the same object frequently >> Decreases the price >> Customers are bored of the item
++	Lifetime Reward: Suave Selling
+	+	Sell goods for more
 +	
 
 █ █ █▀ █▀▀ █▀▀ █ █ █     ▀█▀ █▀█ ▄▀█ █ ▀█▀ █▀
 █▄█ ▄█ ██▄ █▀  █▄█ █▄▄    █  █▀▄ █▀█ █  █  ▄█
 
-+	
++	Born Salesperson: gain reputation faster
 +	
 
 ▄▀█ █▄▄ █ █   █ ▀█▀ █ █▀▀ █▀
