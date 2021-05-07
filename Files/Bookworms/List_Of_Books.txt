@@ -22,8 +22,8 @@ Autobiography
 	Point Farmer: The Story of Grant Rodiek
 	The Noble History of Socks
 Children's
-	Where's Bella?
 	The Adventures Of Raymundo
+	Where's Bella?
 Drama
 	Commitment Issues
 Fantasy
@@ -33,14 +33,14 @@ Fiction
 	Abstract with Turkey
 	Thunking
 Historical
-	The Crumplebottom Legacy: A Tale
 	Llama Rights
+	The Crumplebottom Legacy: A Tale
 Humor
-	Stragedy and Other Messterpieces
 	I'm Still Cool
+	Stragedy and Other Messterpieces
 Mystery
-	Murder in Pleasantview
 	Game of Thorns
+	Murder in Pleasantview
 Non-Fiction
 	How to Spin Plates
 	The Point of Pointilism
@@ -52,8 +52,8 @@ Satire
 	Exit at Powell
 	On the Margins
 Science Fiction
-	Zombies? Zombies!
 	GPod
+	Zombies? Zombies!
 Trashy
 	A Magnetic Attraction
 Vaudeville
@@ -205,8 +205,8 @@ Childhood Development Books
 		Frank I'm Not
 		Oh the Destinations You'll Briefly Visit
 Pregnancy Books [ Non-Fiction ]
-	Totally Preggers: An Expecting Mother's Tale
 	Baby Incoming: Preparing with Vigilance
+	Totally Preggers: An Expecting Mother's Tale
 Guitar Compositions
 	5	Yes Ma'am, I Do
 	6	Flamenco Fever
@@ -243,8 +243,8 @@ Past Opportunity
 	Children's
 		To Hunt or to Gather?
 	Fiction
-		Plague and Pestilence
 		1000 Ways to Stew Brontosaurus
+		Plague and Pestilence
 		War and More War
 	Historical
 		The Fall of Atlantis.
@@ -252,8 +252,8 @@ Past Opportunity
 		The Four Corners of the Earth
 	Non-Fiction
 		Fire: Terrifying but Essential
-		Men are From Tar Pits, Women from Sabertooth Den
 		Lady Veronica Farfleton and the Magical Harpsichord
+		Men are From Tar Pits, Women from Sabertooth Den
 	Satire
 		Sul Sul: Trapped in Tar	Satire
 Future Opportunity
@@ -283,7 +283,7 @@ Bot Building Skill
 	1	Integrated Circuits and You
 	2	A.I. for Dummies
 	3	In Case of Uprising
-Laser Rhythm-A-Con Compositions [ Levels 5 – 9 ]
+Laser Rhythm-A-Con Compositions
 	5	Better Plucky Than Good
 	6	Dungeon Crawler
 	7	The Chattering Classes
