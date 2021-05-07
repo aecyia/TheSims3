@@ -493,53 +493,144 @@ Street Art Skill
 	2	Don't Say It, Spray It!
 	3	Urban Makeovers
 Comics
-	Advice: Regular Bookshop prices are lower than Nerd Shop prices
-		35 books
+	Altruistic Squad International
+	Archie Archer
+	Avenging Belas
+	Awesome Woman
+	Barney Aardvark
+	Bridgeport Ghost
+	Cyber Skateboarder
+	Doctor Macabre
+	Fish Master
+	Flamingo Dancer
+	Freedom Family
+	Freezer Bunny Stories
+	Gumshoe Samurai
+	Horror Oracle
+	Juice Pulp Romance
+	Llama Man
+	Major Patriot
+	Mighty Mutants
+	Mystery Man
+	Neo-Knight Noir
+	Outrageous Adventure	
+	Plasma Bug
+	Quickfoot
+	Ratticator	
+	Sagebrush and Sixguns
+	Shinjuku Baseball Kata	
+	Sports Team Extreme
+	Supercute Magical Girl Maya	
+	Tales From The Mine
+	The Inedible Bulk
+	Toadsim Ninjas
+	Upperclass Man
+	Volcanic Mechanic
+	Werecat and Womrat	
+	Xenophobic Travelogue
 UNLISTED GENRE
-	Sci-Fi
+	Science Fiction
 		The Vampire Blogs
 
-█ █ █ █▀█ █▀█ █   █▀▄   ▄▀█ █▀▄ █ █ █▀▀ █▄ █ ▀█▀ █ █ █▀█ █▀▀ █▀
-▀▄▀▄▀ █▄█ █▀▄ █▄▄ █▄▀   █▀█ █▄▀ ▀▄▀ ██▄ █ ▀█  █  █▄█ █▀▄ ██▄ ▄█
-	+	Personal Preference: Location-based rooms with their books, artifacts, and collections.
-	General
-		Children's
-		Drama
-		Fantasy
-		Fiction
-		Historical
-		Humor
-		Mystery
-		Non-Fiction
-		Romance
-		Satire
-		Science Fiction
-	Opportunity
-		Questionable Romantic Foods
-		The Saga of the Three Relics
-	Skill Books 
-		Martial Arts Vol. 1
-		Photography Vol. 1
-		Nectar Vol. 1 – 3
-	Recipes
-		China [ Red ]
-			2	Egg Rolls
-			6	Stir Fry
-		Egypt
-			1	Shwarma
-			5	Falafel
-		France
-			1	Cheese Plate
-			3	Bouillabaisse
-			3	Frogs Legs
-			8	Crepes
-	Bait
-		China
-			Levels 0, 3, 7
-			3 Books
-		Egypt
-			Level 2
-			1 Book
-		France
-			Level 0
-			1 Book
+█ █ █ █▀█ █▀█ █   █▀▄   ▄▀█ █▀▄ █ █ █▀▀ █▄ █ ▀█▀ █ █ █▀█ █▀▀ █▀		China	France
+▀▄▀▄▀ █▄█ █▀▄ █▄▄ █▄▀   █▀█ █▄▀ ▀▄▀ ██▄ █ ▀█  █  █▄█ █▀▄ ██▄ ▄█		Egypt	<3
+
+Children's
+	C	Jimmy Sprocket and the Cave of the Dragon
+	C	Toddlers and Chopsticks
+	E	Jimmy Sprocket and the Mummy's Curse
+	F	Jimmy Sprocket and the Chalice of Nectar
+Drama
+	E 	The Legend of Queen Nosylla and King Nayr
+Fantasy
+	C	The Dragon's Age
+	C 	Raymundo the Dragon
+	C 	The Dragon Ripple
+Fiction
+	C	Li Bing and the King's Daughter
+	C	Terracotta Bodyguard II
+	E 	Ra! Ra! Ra!
+	E	The Keystone's Countertpart
+	F	Flo and Her Kenspa
+	F	Field of Sims
+	F	Le Velo de Tate
+	F	Avant-garde Literature for the Masses
+Historical
+	C 	How Rain Built the World
+	C 	The Life and Times of Mr. Chan
+	C 	The Memoirs of Chin Han
+	E	From Dead to Mummy: The History of Healing
+	F	Mr. McKay's Photographics
+	F	The White Flag of Victory
+	F	Phillipe's Monuments
+Humor
+	E	Are You My Mummy?
+	E	A Good Shawarma
+	F	Where's the Soup
+	F	Fashion Advice for Hermits
+Mystery
+	E	The Price of Treasure
+	F	Shadow of the Tower
+	F	The Case of the Red Bicycle
+	F	The Curator's Lost Museum
+Non-Fiction
+	C	The Year of the Llama
+	C	Imperial Military Tactics
+	C 	The Rice Tourist's Companion
+	C 	How to Handle Fireworks: Lessons from a Man with No Fingers
+	C 	Sim Fu: Jumping Kicks
+	C 	The International Reader of Fried Rice
+	C 	Noodles! And Sauerkraut!
+	C 	Fishing for the Moon
+	E 	South of The Simhara
+	E	Thread Count
+	E	Advanced Facial Expressions
+	E	Tomb Raiding for Toddlers: What to Know
+	E	The Sand Mirage
+	E	A Guide to Desert Stick Pokey
+	E	Free Kicks, Hard Tackles, and Red Cards
+	E	Thats a Wrap!: The True Life Story of the First Mummy Film Director
+	E	The River that Sustains Us
+	F	Gibson's Delight
+	F	Une Historie de Champs Les Sims
+	F	Film Noir or Just Black and White?
+	F	Crepes et Cidres
+	F	For the Love of Nectar
+Romance
+	C 	A Wall Between Us
+	E 	The Mummy in Love
+Satire
+	E	Do I Exist?
+	F	French Toast, French Fries, and French Kissing
+Science Fiction
+	C	Planet Beeboz
+Opportunity
+	Questionable Romantic Foods
+	The Saga of the Three Relics
+Martial Arts Skill 	-- China
+	1	Wax on Philosophic
+Photography Skill 	-- Egypt
+	1	Taking off the Lens Cap
+Nectar Skill 		-- France
+	1	L'amour de Nectar: An Introductory Reader
+	2	Nectar Making: The Culture, The Lifestyle
+	3	Advanced Nectarology
+China Recipes [ Red ]
+	2	Egg Rolls
+	6	Stir Fry
+Egypt Recipes [ Yellow ]
+	1	Shwarma
+	5	Falafel
+France Recipes [ Purple ]
+	1	Cheese Plate
+	3	Bouillabaisse
+	3	Frogs Legs
+	8	Crepes
+China Bait
+	0	Delicate Decorations: Katching Kawarimono Koi (and Doitsu)
+	3	The Art of Koi Ponds: Ochiba and Tancho
+	7	Mythical Fish Volume 1: Discovering Dragons
+Egypt Bait
+	2	Dead-ly Delights: Catching Crocodiles and Mummyfish
+France Bait
+	0	French Delicacies: Capturing Frogs, Snails and Crawfish
