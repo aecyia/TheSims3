@@ -38,7 +38,6 @@ Dancing
 	Another Dancing skill was added as part of premium content from The Sims 3 Store. Unlike this skill, the Dancing skill from the Store is visible and appears in the skill journal. Both Dancing skills are separate skills, which means Sims who have learned the hidden Dancing skill must learn the store skill from the beginning.
 Hacking
 	Sims with the Computer Whiz trait can hack on the computer and earn simoleons. Hacking goes up to a level of 10, with the level determining how much money a sim makes.
-
 Homework
 	A Teen or child Sim can do Homework. Regularly doing homework increases school performance. This skill goes up to level 10.
 Mooch
@@ -53,7 +52,10 @@ Child Cooking
 	Only child Sims can get this skill. This skill goes up to level 3 and when the child ages into a teen, they will start their Cooking skill at the same level as the skill level they acquired.
 Diving
 	Prior to patch 42, this skill was only available in World Adventures. Sims can increase their skill level by using the dive wells or diving board. Originally, the skill went up to level 5, but with patch 42, it was changed to 2. This caused Sims who already surpassed level 2 to reset whenever they tried to use the diving board in the pool. This glitch was fixed in patch 50.
-World Adventures
+
+█░█░█ █▀█ █▀█ █░░ █▀▄   ▄▀█ █▀▄ █░█ █▀▀ █▄░█ ▀█▀ █░█ █▀█ █▀▀ █▀
+▀▄▀▄▀ █▄█ █▀▄ █▄▄ █▄▀   █▀█ █▄▀ ▀▄▀ ██▄ █░▀█ ░█░ █▄█ █▀▄ ██▄ ▄█
+
 Rubble Clearing
 	Sims can progress at clearing rubble in tombs. As their level increases, they are able to clear rubble quicker.
 Snake charming

@@ -1,9 +1,5 @@
-█▀█ █▀▀ █▀ █▀█ █ █ █▀█ █▀▀ █▀▀ █▀ 	
-█▀▄ ██▄ ▄█ █▄█ █▄█ █▀▄ █▄▄ ██▄ ▄█ 
-
-https://sims.fandom.com/wiki/Consignment_store
-https://sims.fandom.com/wiki/Elixir_consignment_store
-https://www.carls-sims-3-guide.com/ambitions/consignment.php
+█▀█ █▀▀ █▀ █▀█ █ █ █▀█ █▀▀ █▀▀ █▀ 	https://sims.fandom.com/wiki/Consignment_store
+█▀▄ ██▄ ▄█ █▄█ █▄█ █▀▄ █▄▄ ██▄ ▄█ 	https://www.carls-sims-3-guide.com/ambitions/consignment.php
 
 █▀ ▀█▀ ▄▀█ ▀█▀ █ █▀ ▀█▀ █ █▀▀ █▀
 ▄█  █  █▀█  █  █ ▄█  █  █ █▄▄ ▄█
@@ -84,8 +80,7 @@ Item Type >> Number Sold >> Value
 	3	Sell all in the Consignment store
 	4	Easily gain money back + raise reputation + lower fees
 +	Mod: https://www.nraas.net/community/Consigner
-	+	Allows the sale of more items
-
+	+	Allows the sale of more items / objects
 
 █ █ █▀ █▀▀ █▀▀ █ █ █     ▀█▀ █▀█ ▄▀█ █ ▀█▀ █▀
 █▄█ ▄█ ██▄ █▀  █▄█ █▄▄    █  █▀▄ █▀█ █  █  ▄█
@@ -99,7 +94,7 @@ Item Type >> Number Sold >> Value
 	+	Nectar		Green Thumb
 	+	Paintings	Artistic
 	+	Photos		Photographic Eye
-	+	Relics		
+	+	Relics
 	+	Sculptures	Savvy Sculptor
 
 ▄▀█ █▄▄ █ █   █ ▀█▀ █ █▀▀ █▀
