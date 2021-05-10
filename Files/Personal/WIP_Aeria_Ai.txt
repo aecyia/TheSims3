@@ -7,8 +7,6 @@ skill journal for Aeria Ai
 +	science & logic
 	+	tutor 20 hrs children -- 11.93
 	+	100 experiments -- 56
-+	30 paintings  --- 16
-+	5 masterpieces -- 2
 +	photography
 	+	75 subjects -- 42
 	+	50 unique sims -- 22
@@ -25,10 +23,11 @@ skill journal for Aeria Ai
 	+	250 widgets -- 2
 	+	detonated 150 objects -- 0
 	+	100 Big Inventions -- 3
-+	street art
++	street art + painting
 	+	30 street art projects
 	+	10 murals
 	+	5 street art masterpieces
+	+	30 paintings  --- 23
 +	collections
 	+	all space rocks
 	+	all fireflies
