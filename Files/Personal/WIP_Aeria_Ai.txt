@@ -23,11 +23,7 @@ skill journal for Aeria Ai
 	+	250 widgets -- 2
 	+	detonated 150 objects -- 0
 	+	100 Big Inventions -- 3
-+	street art + painting
-	+	30 street art projects
-	+	10 murals
-	+	5 street art masterpieces
-	+	30 paintings  --- 23
++	30 street art projects
 +	collections
 	+	all space rocks
 	+	all fireflies
