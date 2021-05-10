@@ -4,16 +4,20 @@
 █▀ ▀█▀ ▄▀█ ▀█▀ █ █▀ ▀█▀ █ █▀▀ █▀
 ▄█  █  █▀█  █  █ ▄█  █  █ █▄▄ ▄█
 
-+	
-+	
-+	
-+	
++	Highest Number Of Followers: 0
++	Most Followers Gained from a single Blog Post: 0
++	Total Simoleans earned from Blog Donations and Blog Buyouts: § 0
++	Total Number of Five Star Blogs Written: 0
++	Total Number of New Sims Met Via Sim Finder App: 0
++	Most Common Relationship Status set with the Relationship Transmogrifier: -
 
 █▀▀ █ █ ▄▀█ █   █   █▀▀ █▄ █ █▀▀ █▀▀ █▀
 █▄▄ █▀█ █▀█ █▄▄ █▄▄ ██▄ █ ▀█ █▄█ ██▄ ▄█
 
-Challenges			Requirement				Bonus / Reward
-
+Challenges				Requirement													Bonus / Reward
+Blog Baron				Sell 5 blogs												More donations from followers
+Professional Greeter	25 met with Sim Finder App									"Excited" buff everytime a new sim is met via Sim Finder
+Match Maker				Change 30 relationships to Romantic Interests or Partner	"Best Friends Forever" unlocked in Relationship Transmogrifier
 
 █▀█ █▀█ █▀█ █▀▀ █▀▀ █▀ █▀ █ █▀█ █▄ █ █▀
 █▀▀ █▀▄ █▄█ █▀  ██▄ ▄█ ▄█ █ █▄█ █ ▀█ ▄█
