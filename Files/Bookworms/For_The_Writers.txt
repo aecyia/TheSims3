@@ -145,8 +145,8 @@ Writing Class
 █▀▀ █ █ ▄▀█ █▀█ ▀█▀ █▀
 █▄▄ █▀█ █▀█ █▀▄  █  ▄█
 
-https://i.imgur.com/6MC3QN1.png
-https://github.com/aecyia/TheSims3/blob/main/Files/Bookworms/Bookworms.drawio
+Refer to the .png and .drawio files in the same folder
+
 
 █▄ █ ▄▀█ █▀▄▀█ █ █▄ █ █▀▀
 █ ▀█ █▀█ █ ▀ █ █ █ ▀█ █▄█
