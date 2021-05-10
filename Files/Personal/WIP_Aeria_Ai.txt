@@ -1,7 +1,7 @@
 10 may 2021
 
 skill journal for Aeria Ai
-+	fishing catch 350 fish -- 270
++	fishing catch 350 fish -- 282
 +	guitar
 	+	10 parties and venues -- 5 ?
 	+	25,000 tips -- 1330
@@ -75,11 +75,6 @@ INSECTS
 		Uber
 ======================================================================
 fishing
-	World Adventures
-		Crocodile
-		Doitsu Koi
-		Dragon Fish
-		Mummy Fish
 	Late Night
 		Sea Sludge
 		Kissing Gourami
