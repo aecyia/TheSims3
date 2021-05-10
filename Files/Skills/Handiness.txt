@@ -4,13 +4,35 @@
 █▀ ▀█▀ ▄▀█ ▀█▀ █ █▀ ▀█▀ █ █▀▀ █▀
 ▄█  █  █▀█  █  █ ▄█  █  █ █▄▄ ▄█
 
-+	
-+	
-+	
-+	
-	
-Challenges			Requirement				Bonus / Reward
++	Objects Repaired: 0
++	Electrical Objects Repaired: 0
++	Plumbing Objects Repaired: 0
++	Objects Upgraded: 0
++	Unique Upgrades Completed: 0
++	Percent of Unique Upgrades Completed: 0%
++	Times Electrocuted: 0
 
+█▀▀ █ █ ▄▀█ █   █   █▀▀ █▄ █ █▀▀ █▀▀ █▀
+█▄▄ █▀█ █▀█ █▄▄ █▄▄ ██▄ █ ▀█ █▄█ ██▄ ▄█
+
+Challenges		Requirement						Bonus / Reward
+Electrician		Repaired 10 electrical objects	Never electrocuted again
+Plumber			Repaired 10 plumbing objects	Plumbing objects repaired will never break again
+Tinkerer		10 unique upgrades				Never fail when upgrading objects
+
+Upgrades Completed
+Upgrade 					Applicable Objects		Difficulty Rating
+Self-Cleaning				Toilets, Bathubs, Sinks	X
+Cosmic Bowling				Bowling Lane 			X
+Auto Water					Sprinkler				X
+Unbreakable					XXX						Plumbing Objects, Stereo, Teleporter, TV, Computer, Dishwasher, Trash Compactor
+Improved Pressing			Nectar Maker			XXX
+Flavor Enhancement			Nectar Maker			XXX
+Faster Cooking				Microwave				XXX
+Improve Meal Quality		Stove					XXX
+Wire House with Speakers	Stereo					XXXX
+Improved Graphics			Computer				XXXX
+Improved Memory				Food Replicator			XXXXX
 
 █▀█ █▀█ █▀█ █▀▀ █▀▀ █▀ █▀ █ █▀█ █▄ █ █▀
 █▀▀ █▀▄ █▄█ █▀  ██▄ ▄█ ▄█ █ █▄█ █ ▀█ ▄█

@@ -13,6 +13,9 @@
 +	Money Earned: §0
 +	Largest Money Bag Harvested: §0
 
+█▀▀ █ █ ▄▀█ █   █   █▀▀ █▄ █ █▀▀ █▀▀ █▀
+█▄▄ █▀█ █▀█ █▄▄ █▄▄ ██▄ █ ▀█ █▄█ ██▄ ▄█
+
 Challenges			Requirement					Bonus / Reward
 Master Planter		Plant 19 types				Reduce weed growth
 Botanical Boss		Harvest 75 perfect plants	Plants almost never die from neglect
