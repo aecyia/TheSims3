@@ -4,19 +4,19 @@
 █▀ ▀█▀ ▄▀█ ▀█▀ █ █▀ ▀█▀ █ █▀▀ █▀
 ▄█  █  █▀█  █  █ ▄█  █  █ █▄▄ ▄█
 
-+	Total Sculptures: 58
-+	Clay Sculptures: 6
-+	Stone Sculptures: 5
-+	Wood Sculptures: II
-+	Ice Sculptures: 26
-+	Metal Sculptures: 5
-+	Topiary Sculptures: 5
-+	Brilliant Sculptures: 3
-+	Masterpiece Sculptures: 5
-+	Money Made: 569,130
-+	Highest Value Sculpture Sold: 54,729
-+	Favorite Medium: Ice
-+	Number of Sim Sculptures Made: 16
++	Total Sculptures: 0
++	Clay Sculptures: 0
++	Stone Sculptures: 0
++	Wood Sculptures: 0
++	Ice Sculptures: 0
++	Metal Sculptures: 0
++	Topiary Sculptures: 0
++	Brilliant Sculptures: 0
++	Masterpiece Sculptures: 0
++	Money Made: § 0
++	Highest Value Sculpture Sold: § 0
++	Favorite Medium: -
++	Number of Sim Sculptures Made: 0
 
 █▀▀ █ █ ▄▀█ █   █   █▀▀ █▄ █ █▀▀ █▀▀ █▀
 █▄▄ █▀█ █▀█ █▄▄ █▄▄ ██▄ █ ▀█ █▄█ ██▄ ▄█
