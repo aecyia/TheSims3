@@ -78,23 +78,11 @@ INSECTS
 		Uber
 ======================================================================
 fishing
-	Base Game
-		Blowfish
-		Piranha
-		Tragic Clownfish
-		Tuna
-		Vampire Fish
 	World Adventures
-		Frog
-		Doitsu Koi
-		Kawarimono Koi
-		Snails
 		Crocodile
-		Ochiba Koi
-		Crawfish
-		Tancho Koi
-		Mummy Fish
+		Doitsu Koi
 		Dragon Fish
+		Mummy Fish
 	Late Night
 		Sea Sludge
 		Kissing Gourami
