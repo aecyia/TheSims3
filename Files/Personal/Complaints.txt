@@ -17,6 +17,9 @@ In-General
 	+	World Editor
 		+	Already implemented without needing a different application to edit the World
 		+	Not really a high priority but would be cool
+	+	Optimization
+		+	If updated past 2021+, the game would be SO much cleaner, simpler, smaller, faster, efficient, etc.
+		+	The Sims 4 is such a waste
 Base Game
 	+	Skills should have more challenges ( Fishing, etc. )
 Ambitions
