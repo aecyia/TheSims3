@@ -4,16 +4,18 @@
 █▀ ▀█▀ ▄▀█ ▀█▀ █ █▀ ▀█▀ █ █▀▀ █▀
 ▄█  █  █▀█  █  █ ▄█  █  █ █▄▄ ▄█
 
-+	
-+	
-+	
-+	
++	Objects Tagged: 0
++	Murals Created: 0
++	Mural Masterpieces: 0
++	Simoleons Earned from Street Art: § 0
 
 █▀▀ █ █ ▄▀█ █   █   █▀▀ █▄ █ █▀▀ █▀▀ █▀
 █▄▄ █▀█ █▀█ █▄▄ █▄▄ ██▄ █ ▀█ █▄█ ██▄ ▄█
 
 Challenges			Requirement				Bonus / Reward
-
+Always Wanted		5 Masterpieces			Able to create Street Art anywhere without getting into trouble
+Master Muralist		10 Murals				Increases chances of being a Masterpiece
+Precision Sprayer	30 Street Art projects	Increases completion time by 15%
 
 █▀█ █▀█ █▀█ █▀▀ █▀▀ █▀ █▀ █ █▀█ █▄ █ █▀
 █▀▀ █▀▄ █▄█ █▀  ██▄ ▄█ ▄█ █ █▄█ █ ▀█ ▄█
