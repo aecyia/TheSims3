@@ -4,16 +4,26 @@
 █▀ ▀█▀ ▄▀█ ▀█▀ █ █▀ ▀█▀ █ █▀▀ █▀
 ▄█  █  █▀█  █  █ ▄█  █  █ █▄▄ ▄█
 
-+	
-+	
-+	
-+	
++	Number of bottles made: 0
++	Number of glasses had: 0
++	Total made selling nectar: § 0
++	Highest amount single bottle sold for: § 0
++	Number of fruits used to make nectar: 0
++	Number of sims served: 0
++	Number of times squished fruit: 0
++	Number of Different Combinations: 0
 
 █▀▀ █ █ ▄▀█ █   █   █▀▀ █▄ █ █▀▀ █▀▀ █▀
 █▄▄ █▀█ █▀█ █▄▄ █▄▄ ██▄ █ ▀█ █▄█ ██▄ ▄█
 
-Challenges			Requirement				Bonus / Reward
+Challenges					Requirement								Bonus / Reward
+Master of Nectar Making		200 bottles made						More bottles per batch
+Flavorful Feet				40 batches squished						Nectar worth more
+The Vizard of Vine			Use 400 bunches of homegrown grapes		All your grapevine varieties grown will yield more grapes
+Mix Master					15 different Nectar combinations		Able to predict a Nectar recipe's final quality before making it
 
+Most Valuable Nectars
+Name of Nectar		Ingredients		Value
 
 █▀█ █▀█ █▀█ █▀▀ █▀▀ █▀ █▀ █ █▀█ █▄ █ █▀
 █▀▀ █▀▄ █▄█ █▀  ██▄ ▄█ ▄█ █ █▄█ █ ▀█ ▄█

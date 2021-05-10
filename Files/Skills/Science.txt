@@ -4,16 +4,24 @@
 █▀ ▀█▀ ▄▀█ ▀█▀ █ █▀ ▀█▀ █ █▀▀ █▀
 ▄█  █  █▀█  █  █ ▄█  █  █ █▄▄ ▄█
 
-+	
-+	
-+	
-+	
++	Experiments Completed: 0
++	Objects Created: 0
++	Experiment Epic Failures: 0
++	Plants Analyzed: 0
++	Fish Analyzed: 0
++	Insects Analyzed: 0
++	Minerals Analyzed: 0
++	Sims Tested: 0
++	Simoleons Earned from Correlating Scientific Data: § 0
++	Simoleons Earned From Selling Scientific Samples: § 0
 
 █▀▀ █ █ ▄▀█ █   █   █▀▀ █▄ █ █▀▀ █▀▀ █▀
 █▄▄ █▀█ █▀█ █▄▄ █▄▄ ██▄ █ ▀█ █▄█ ██▄ ▄█
 
-Challenges			Requirement				Bonus / Reward
-
+Challenges						Requirement												Bonus / Reward
+Free Range Scientist			Analyze total of 100 Plants, Fish, Insects, and Rocks	Reduce cooldown time on Correlating Scientific Data
+Experienced Experimentalist		100 experiments completed*								Receive an award and cash prize
+	* Using the Science Research Station and/or the Group Science Project
 
 █▀█ █▀█ █▀█ █▀▀ █▀▀ █▀ █▀ █ █▀█ █▄ █ █▀
 █▀▀ █▀▄ █▄█ █▀  ██▄ ▄█ ▄█ █ █▄█ █ ▀█ ▄█

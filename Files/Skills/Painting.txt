@@ -4,16 +4,20 @@
 █▀ ▀█▀ ▄▀█ ▀█▀ █ █▀ ▀█▀ █ █▀▀ █▀
 ▄█  █  █▀█  █  █ ▄█  █  █ █▄▄ ▄█
 
-+	
-+	
-+	
-+	
++	Number of Paintings Created: 0
++	Number of Brilliant Paintings Finished: 0
++	Number of Masterpieces Painted: 0
++	Most Valuable Painting Sold: - for § 0 ( - Quality )
++	Money Earned from Painting: § 0
++	Number of Sketches Created: 0
 
 █▀▀ █ █ ▄▀█ █   █   █▀▀ █▄ █ █▀▀ █▀▀ █▀
 █▄▄ █▀█ █▀█ █▄▄ █▄▄ ██▄ █ ▀█ █▄█ ██▄ ▄█
 
 Challenges			Requirement				Bonus / Reward
-
+Brushmaster			30 paintings			Paint faster
+Proficient Painter	6 Brilliant paintings	Paint more Brillant and Masterpieces
+Master Painter		5 Masterpieces			Every painting sold is worth more
 
 █▀█ █▀█ █▀█ █▀▀ █▀▀ █▀ █▀ █ █▀█ █▄ █ █▀
 █▀▀ █▀▄ █▄█ █▀  ██▄ ▄█ ▄█ █ █▄█ █ ▀█ ▄█

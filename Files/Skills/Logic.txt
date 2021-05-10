@@ -4,16 +4,25 @@
 █▀ ▀█▀ ▄▀█ ▀█▀ █ █▀ ▀█▀ █ █▀▀ █▀
 ▄█  █  █▀█  █  █ ▄█  █  █ █▄▄ ▄█
 
-+	
-+	
-+	
-+	
++	Chess Rank: -- ( Rank 0 )
++	Highest Ranked Opponent Defeated in Chess: -
++	Chess Record: Matches Won: 0, Matches Lost: 0
++	Number Of Celestial Discoveries: 0
++	Number of Sims Tutored: 0
++	Number of Hours Spent Tutoring Children: 0.0
++	Number of Hours Spent Tutoring Sims for Skills: 0.0
 
 █▀▀ █ █ ▄▀█ █   █   █▀▀ █▄ █ █▀▀ █▀▀ █▀
 █▄▄ █▀█ █▀█ █▄▄ █▄▄ ██▄ █ ▀█ █▄█ ██▄ ▄█
 
-Challenges			Requirement				Bonus / Reward
+Challenges				Requirement									Bonus / Reward
+Grand Master			Fifth level of Chess						Quicker improved abilities in logic and chess
+Celestial Explorer		Discovered 20 celestial bodies				Interaction unlocked: Discuss the stars with friends
+Teacher Extraordinaire	20 hours tutoring children and students		More effective when tutoring others
+Skill Professor			30 hours tutoring Sims in Skills			More effective when teaching skills to others
 
+Discovered Celestial Objects
+Star Name	Type	Description
 
 █▀█ █▀█ █▀█ █▀▀ █▀▀ █▀ █▀ █ █▀█ █▄ █ █▀
 █▀▀ █▀▄ █▄█ █▀  ██▄ ▄█ ▄█ █ █▄█ █ ▀█ ▄█

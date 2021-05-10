@@ -4,15 +4,29 @@
 █▀ ▀█▀ ▄▀█ ▀█▀ █ █▀ ▀█▀ █ █▀▀ █▀
 ▄█  █  █▀█  █  █ ▄█  █  █ █▄▄ ▄█
 
-+	
-+	
-+	
-+	
++	Amount of Scrap Collected: 0
++	Number of Widgets Made: 0
++	Number of Toys Made: 0
++	Number of Big Inventions Made: 0
++	Number of Objects Detonated: 0
++	Number of Underground Adventures: 0
++	Number of Travels through Time: 0
++	Percent of Inventions Discovered: 0%
 
 █▀▀ █ █ ▄▀█ █   █   █▀▀ █▄ █ █▀▀ █▀▀ █▀
 █▄▄ █▀█ █▀█ █▄▄ █▄▄ ██▄ █ ▀█ █▄█ ██▄ ▄█
 
-Challenges			Requirement				Bonus / Reward
+Challenges				Requirement					Bonus / Reward
+Widget Wonder			250 widgets created			All widgets will be Improved Widgets + bonus value + creation time shortened
+Diabolical Detonator	Detonated 150 objects		Costs less to detonate stuff + more Scrap given + less likely to get fined
+The Scrap Collector		Collected 1000+ Scrap		Dig through junk piles faster + more Scrap given
+Master Inventor			100 Big Inventions created	All Invention creation times shortened + Scrap costs reduced + All Inventions are Master Inventions with a higher value that will never fail
+The Ultimate Invention	Make a SimBot*				SimBot joins your family (:
+	* 1 Palladium Bar, 1 Heart Cut Pink Diamond, 10 Life Fruits, 100 Pieces of Scrap
+
+Inventions Made
+Level	Invention Name	Scrap	Type	Number Made
+
 
 
 █▀█ █▀█ █▀█ █▀▀ █▀▀ █▀ █▀ █ █▀█ █▄ █ █▀

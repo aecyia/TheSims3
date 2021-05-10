@@ -4,15 +4,31 @@
 █▀ ▀█▀ ▄▀█ ▀█▀ █ █▀ ▀█▀ █ █▀▀ █▀
 ▄█  █  █▀█  █  █ ▄█  █  █ █▄▄ ▄█
 
-+	
-+	
-+	
-+	
++	Photographs Taken: 0
++	Unique Sims Photographed: 0
++	Strangers Photographed: 0
++	Landmarks Photographed: 0
++	Ghosts Photographed: 0
++	Burglars Photographed: 0
++	Money Spent: 0
++	Money Earned: 0
++	Favorite Subject: - ( 0 photos )
++	Favorite Style: - ( 0 photos )
++	Favorite Aspect: - ( 0 photos )
 
 █▀▀ █ █ ▄▀█ █   █   █▀▀ █▄ █ █▀▀ █▀▀ █▀
 █▄▄ █▀█ █▀█ █▄▄ █▄▄ ██▄ █ ▀█ █▄█ ██▄ ▄█
 
 Challenges			Requirement				Bonus / Reward
+Photog				75 unique subjects		Increases base value of all photographs
+Architectural Eye	10 unique Landmarks		Landmarks pics worth more
+Human Form Expert	50 unique Sims			Increase relationship with already known Sims by photographing them
+Paparazzi			60 unique strangers		Stranger pics worth more
+Shutternut			5 unique collections	Free pictures
+
+Photograph collections
+
+?	Subject Name	Difficulty	Number
 
 
 █▀█ █▀█ █▀█ █▀▀ █▀▀ █▀ █▀ █ █▀█ █▄ █ █▀

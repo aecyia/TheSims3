@@ -4,16 +4,23 @@
 █▀ ▀█▀ ▄▀█ ▀█▀ █ █▀ ▀█▀ █ █▀▀ █▀
 ▄█  █  █▀█  █  █ ▄█  █  █ █▄▄ ▄█
 
-+	
-+	
-+	
-+	
++	Tournament Rank: 0
++	Tournament Wins: 0 Losses: O
++	Total Sparring Match Wins: 0
++	Hours of Meditation: 0.0
++	Meditative Focus Attained: 0
++	Strongest Board Broken: -
++	Students Trained: 0
+
 
 █▀▀ █ █ ▄▀█ █   █   █▀▀ █▄ █ █▀▀ █▀▀ █▀
 █▄▄ █▀█ █▀█ █▄▄ █▄▄ ██▄ █ ▀█ █▄█ ██▄ ▄█
 
-Challenges			Requirement				Bonus / Reward
-
+Challenges				Requirement				Bonus / Reward
+Grand Master			Tournament level 5		Help others improve their Martial Arts skills quickly
+Master of Meditation	Meditate 150 hours		Easily Zeniport
+Sim Fu King				75 Sparring Matches		Win most Sparring Matches with ease
+Timber Terminator		Break 150 Oak+ boards	Rarely fail to break boards + Increases chance to find valuable gems when splitting Space Rocks
 
 █▀█ █▀█ █▀█ █▀▀ █▀▀ █▀ █▀ █ █▀█ █▄ █ █▀
 █▀▀ █▀▄ █▄█ █▀  ██▄ ▄█ ▄█ █ █▄█ █ ▀█ ▄█
