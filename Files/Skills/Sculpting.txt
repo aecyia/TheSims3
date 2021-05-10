@@ -4,16 +4,28 @@
 █▀ ▀█▀ ▄▀█ ▀█▀ █ █▀ ▀█▀ █ █▀▀ █▀
 ▄█  █  █▀█  █  █ ▄█  █  █ █▄▄ ▄█
 
-+	
-+	
-+	
-+	
++	Total Sculptures: 58
++	Clay Sculptures: 6
++	Stone Sculptures: 5
++	Wood Sculptures: II
++	Ice Sculptures: 26
++	Metal Sculptures: 5
++	Topiary Sculptures: 5
++	Brilliant Sculptures: 3
++	Masterpiece Sculptures: 5
++	Money Made: 569,130
++	Highest Value Sculpture Sold: 54,729
++	Favorite Medium: Ice
++	Number of Sim Sculptures Made: 16
 
 █▀▀ █ █ ▄▀█ █   █   █▀▀ █▄ █ █▀▀ █▀▀ █▀
 █▄▄ █▀█ █▀█ █▄▄ █▄▄ ██▄ █ ▀█ █▄█ ██▄ ▄█
 
-Challenges			Requirement				Bonus / Reward
-
+Challenges			Requirement			Bonus / Reward
+Chiselmaker			20 Sculptures		Faster Sculptures
+Prolific Sculptor	35 Sculptures		Free materials
+Master Sculptor		5 each material		Greater value
+Ice Personality		25 Ice				Never melt
 
 █▀█ █▀█ █▀█ █▀▀ █▀▀ █▀ █▀ █ █▀█ █▄ █ █▀
 █▀▀ █▀▄ █▄█ █▀  ██▄ ▄█ ▄█ █ █▄█ █ ▀█ ▄█
