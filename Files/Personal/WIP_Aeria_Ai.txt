@@ -16,7 +16,6 @@ skill journal for Aeria Ai
 	+	5 photo collections -- 0
 +	martial arts
 	+	tournament 5 -- 1
-	+	meditate 150 hours -- 10
 	+	75 sparring matches -- 7
 +	nectar
 	+	200 bottles made -- 168
