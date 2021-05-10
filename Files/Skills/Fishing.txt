@@ -17,7 +17,9 @@ Challenges				Requirement				Bonus / Reward
 Amateur Ichthyologist	20 types of fish caught	Able to catch bigger fish
 Commercial Fisherman	350 fish caught			Able to catch more fish in less time
 
-Fishing
+█▀▀ █ █▀ █ █ █ █▄ █ █▀▀
+█▀  █ ▄█ █▀█ █ █ ▀█ █▄█
+
 Level >> Name >> Preferred Habitat >> Bait
 
 

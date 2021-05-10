@@ -115,7 +115,7 @@ Resort Empire			Own a Five-Star Resort and collect 40k Simoleons total in profit
 Seaside Savior			Rescue 50 Sims as a Lifeguard
 
 █▀█ █▀▀ ▀█▀ █▀
-█▀▀ ██▄ ░█░ ▄█
+█▀▀ ██▄  █  ▄█
 
 The Animal Rescuer		Adopt 6 strays
 The Ark Builder			Have 2 each of cats, dogs, horses, birds, lizards, turtles, rodents, snakes, butterfilies, and beetles
