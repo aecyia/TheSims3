@@ -3,13 +3,22 @@ A list of major / minor:
 	annoyances
 	dislikes
 	frustrations
+	suggestions
 	et cetera
 
 In-General
 	+	Skill Journal Tabs
 		+	Overcrowding is an issue because the tabs overlap one another and produces inefficient and difficult access
 		+	Suggestions: Vertical tabs, grid tabs, drop-down menu
+	+	NRaas
+		+	All / Most / Some features should be added to the base game for better
+			+	Custom control + content
+			+	Debugging + Error Traps + Bug Fixes
+	+	World Editor
+		+	Already implemented without needing a different application to edit the World
+		+	Not really a high priority but would be cool
 Base Game
+	+	Skills should have more challenges ( Fishing, etc. )
 Ambitions
 Generations
 Into the Future
