@@ -4,6 +4,7 @@ A list of major / minor:
 	dislikes
 	frustrations
 	suggestions
+	thoughts
 	et cetera
 
 In-General
@@ -18,10 +19,12 @@ In-General
 		+	Already implemented without needing a different application to edit the World
 		+	Not really a high priority but would be cool
 	+	Optimization
-		+	If updated past 2021+, the game would be SO much cleaner, simpler, smaller, faster, efficient, etc.
-		+	The Sims 4 is such a waste
+		+	If the game updated past 2021+, the game would be SO much cleaner, simpler, smaller, faster, efficient, etc.
+		+	Website update: https://mypage.thesims3.com/
+		+	The Sims 4. ew.
+	+	Skills should have more challenges and statistics
+		+	Tracking the entire life statistics is interesting and rewarding
 Base Game
-	+	Skills should have more challenges ( Fishing, etc. )
 Ambitions
 Generations
 Into the Future
