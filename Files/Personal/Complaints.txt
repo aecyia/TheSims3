@@ -5,6 +5,10 @@ A list of major / minor:
 	frustrations
 	et cetera
 
+In-General
+	+	Skill Journal Tabs
+		+	Overcrowding is an issue because the tabs overlap one another and produces inefficient and difficult access
+		+	Suggestions: Vertical tabs, grid tabs, drop-down menu
 Base Game
 Ambitions
 Generations
