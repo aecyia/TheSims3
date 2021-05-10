@@ -25,8 +25,7 @@ skill journal for Aeria Ai
 	+	200 bottles made -- 168
 	+	turn 400 homegrown grapes into nectar
 	+	15 combinations -- 5
-+	sculpting
-	+	ice 25 -- 13
++	sculpting ice 25 -- 15
 +	inventing
 	+	250 widgets -- 2
 	+	detonated 150 objects -- 0
