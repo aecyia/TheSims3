@@ -1,7 +1,6 @@
 10 may 2021
 
 skill journal for Aeria Ai
-+	fishing catch 350 fish -- 282
 +	guitar
 	+	10 parties and venues -- 5 ?
 	+	25,000 tips -- 1330
