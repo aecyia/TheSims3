@@ -21,7 +21,7 @@ Menu Maven			Learned 28 recipes	Prepare higher quality food
 █▀█ █▀▀ █▀▀ █ █▀█ █▀▀ █▀   █▄▀ █▄ █ █▀█ █ █ █ █▄ █
 █▀▄ ██▄ █▄▄ █ █▀▀ ██▄ ▄█   █ █ █ ▀█ █▄█ ▀▄▀▄▀ █ ▀█
 
-Level	Recipe Name		Best Quality You Cooked At	Ingredients
+Level	Recipe Name		Your Best Quality		Ingredients
 
 
 █▀█ █▀█ █▀█ █▀▀ █▀▀ █▀ █▀ █ █▀█ █▄ █ █▀
