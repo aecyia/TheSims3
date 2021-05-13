@@ -1,43 +1,87 @@
-Description: An alphabetized list of names and words that I like. For Sims, Animal Companions, Land, Spaceships ( Endless Sky ), and more.
-Last Updated: 22 February 2021
+Description:
+	+	An alphabetized list of names and words that I like
+	+	Neutral >> Feminine >> Masculine
+		+	in my opinion
+For the following:
+	+	Sims
+	+	Animal Companions
+	+	Land, Areas
+	+	Spaceships ( Endless Sky )
+	+	and more
+Last Updated: 13 May 2021
 
-Acacia, Ace, Acer, Acherion, Acquilae, Acrux, Adonis, Adrian, Aecyia, Aecyion, Aer, Aeria, Aerinus, Aero, Aeryia, Aescolanus, Aeviternitas, Aevum, Ai, Aiden, Albatross, Albion, Albirion, Alcyion, Alcyon, Alcyone, Aldebaran, Aleistar, Alessandra, Alexa, Alexandra, Alexandria, Alexia, Alfred, Alioth, Alix, Ally, Alnyx, Alphecca, Altair, Amazon, Amethyst, Andrea, Andrew, Andy, Anthony, Antonio, Antony, Aoi, Aphelios, Aquilae, Arachne, Arae, Archer, Arcturus, Arculus, Aresepru, Aria, Art, Ascella, Asgard, Aslan, Astelia, Asteria, Asterias, Astor, Astoria, Astra, Astro, Atria, Aura, Aure, Aurelia, Aurelion, Aurelius, Austin, Australia, Australis, Australius, Australus, Autumn, Avalon, Aventine, Avior, Axel, Ayden, Azerion, Azues, Azul, Azuli, Azura, Azure, Azus, Acolyte, Aquilon, Atropos
+Alex, Alphecca, Arae, Asterias, Australis, Australius, Australus, Aventine, Azuli, Asterisk, Asternal, Asteroid, Acquae, Aquae, Acre
+, Acacia, Acquilae, Aecyia, Aeolia, Aeria, Aeria, Aery, Aeryia, Aetnia, Aetolia, Ai, Alessandra, Alessandria, Alexa, Alexandra, Alexandria, Alexia, Ally, Amethyst, Andrea, Aoi, Aquilae, Arachne, Aria, Ascella, Ascella, Astelia, Asteria, Asthenia, Asthenia, Astoria, Astra, Atenia, Athena, Athenia, Atolia, Atria, Aura, Aure, Aurelia, Australia, Autumn, Azulia, Azura, Azure
+, Aatrox, Ace, Acer, Acherion, Acolyte, Acrux, Adonis, Adrian, Aecyion, Aer, Aerinus, Aero, Aescolanus, Aeviternitas, Aevum, Aiden, Albatross, Albion, Albirion, Alcyion, Alcyon, Alcyone, Aldebaran, Aleistar, Alexander, Alfred, Alioth, Alix, Alnyx, Alpha, Altair, Amazon, Andrew, Andy, Anthony, Antonio, Antony, Aphelios, Aquilon, Archer, Arcturus, Arculus, Aresepru, Art, Asgard, Aslan, Astor, Astro, Atropos, Aurelion, Aurelius, Austin, Avalon, Avior, Axel, Ayden, Azerion, Azues, Azul, Azus, Asthenias, Ashton
 
-Baxter, Bellatrix, Benedict, Bernadette, Blake, Blossom, Bradley, Brandon, Brent, Briella, Brielle, Bronx, BrookeLynne, Brooklyn, Bryant, Bryce, Bubbles, Bunnie, Buttercup
+Blake, Brooklyn
+, Bellatrix, Bernadette, Blossom, Briella, Brielle, BrookeLynne, Bubbles, Bunnie, Buttercup
+, Baxter, Benedict, Bradley, Brandon, Brent, Bronx, Bryant, Bryce
 
-Cade, Caeculus, Caelian, Caitlyn, Calypso, Camilla, Camille, Candy, Canyon, Cappuccino, Cardax, Cardrax, CarolLynne, Carolyn, Carolynne, Carter, Casper, Cassio, Cassion, Cassiopeiae, Castor, Cecil, Cedric, Celestia, Celestial, Celestine, Centaur, Centauri, Cerulean, Chance, Cherry, Chip, Chocolate, Ciel, Cinnamon, Cinxia, Cocoa, Cody, Colby, Cooper, Cornelia, Cornucopia, Cosmic, Cosmos, Cove, Crystal, Cyan, Cyprus, Cyra, Cyrus, Czarius
+Centauri, Cerulean
+, Caitlyn, Calypso, Camilla, Camille, Candy, Cappuccino, CarolLynne, Carolyn, Carolynne, Cassiopeiae, Celeste, Celestia, Celestial, Celestine, Cherry, Chocolate, Cinnamon, Cinxia, Cocoa, Cornelia, Cornucopia, Crystal, Cyra
+, Cade, Caeculus, Caelian, Canyon, Cardax, Cardrax, Carter, Casper, Cassio, Cassion, Castor, Cecil, Cedric, Centaur, Chance, Chip, Ciel, Cody, Colby, Cooper, Cosmic, Cosmos, Cove, Cyan, Cyprus, Cyrus, Czarius
 
-Daniella, Danielle, Dante, Darryl, Day, Deep, Destiny, Diana, Diane, Dominic, Dove, Doyle, Draco, Drew, Dune, Dusk
+, Daniella, Danielle, Day, Destiny, Diana, Diane, Dove
+, Dante, Darryl, Deal, Deep, Dominic, Doyle, Draco, Drew, Dune, Dusk
 
-Earl, Echo, Edmund, Edrisa, Edusa, Edward, Edwin, Ei, Elias, Elle, Elliot, Elteria, Elterion, Ember, Emilee, Emmett, Epsilon, Eric, Erik, Estelia, Estelle, Eteron, Ethan, Eva, Evangeline, Eve, Everest, Ezreal
+Ethereal, Ember
+, Edrisa, Edusa, Elle, Elteria, Emilee, Estelia, Estelle, Eva, Evangeline, Eve
+, Earl, Echo, Edmund, Edward, Edwin, Ei, Elias, Elliot, Elterion, Emmett, Epsilon, Eric, Erik, Eteron, Ethan, Everest, Ezreal
 
-Fae, Faith, Fantasia, Fate, Fauna, Faye, Ferb, Finn, Fleur, Flight, Flint, Flood, Flora, Florence, Florencia, Florentine, Floyd, Flynn, Forest, Forever, Forrest, Fox, François, Furnace, Fynn, Fyre
+Florentine, Forever
+, Fae, Faith, Fantasia, Fate, Fauna, Faye, Fleur, Flora, Florence, Florencia
+, Ferb, Finn, Flight, Flint, Flood, Floyd, Flynn, Forest, Forrest, Fox, François, Furnace, Fynn, Fyre
 
-Gaia, Galaxia, Galaxy, Gardenia, Gem, Gemini, Geneva, Geneviere, Genevieve, Genos, Geyser, Glaze, Glenn, Glory, Godric, Gray, Grayson, Grey, Greyson, Grid, Gunner
+Galaxy, Glory
+, Gaia, Galaxia, Gardenia, Gem, Gemini, Geneva, Geneviere, Genevieve
+, Genos, Geyser, Glaze, Glenn, Godric, Gray, Grayson, Grey, Greyson, Grid, Gunner
 
-Halo, Hamilton, Hans, Harley, Harmony, Harmony, Haru, Haven, Hawk, Hayato, Hayden, Haze, Heart, Heath, Hector, Henrietta, Hephaestus, Hera, Hermes, Hermione, Hestia, Hex, Hibiki, Hime, Hippocrates, Hobbes, Holmes, Honour, Honouria, Hope, Host, Hue, Hunter, Hyacinth, Hydra, Hydrangea, Hydrax, Hypatia
+Harley, Haru, Haven, Haze, Honour, Hope, Hue, Hydra
+, Harmony, Heart, Henrietta, Hera, Hermione, Hestia, Hime, Honouria, Hyacinth, Hydrangea, Hypatia
+, Halo, Hamilton, Hans, Hawk, Hayato, Hayden, Heath, Hector, Hephaestus, Hermes, Hex, Hibiki, Hippocrates, Hobbes, Holmes, Host, Hunter, Hydrax
 
-Icarus, Ice, Idris, Ignatius, Ildaria, Indigo, Infinity, Io, Irene, Irina, Iris, Isaac, Isabella, Isabelle, Isla, Isle, Ivan, Ivory, Ivy
+Idris, Indigo, Infinity, Io, Isle, Ivory, Ivy
+, Ildaria, Irene, Irina, Iris, Isabella, Isabelle, Isla
+, Icarus, Ice, Icon, Ignatius, Isaac, Ivan
 
-Jaden, Jarvis, Jason, Jay, Jayden, Joseph, Juliet, July, June, Justice, Justin
+, Juliet, July, June
+, Jaden, Jarvis, Jason, Jay, Jayden, Joseph, Justice, Justin
 
-Kai, Kalista, Kayne, Kendra, Kenneth, Key, King, Kornephoros, Kris, Kyle
+, Kalista, Kendra
+, Kai, Kayne, Kenneth, Key, King, Kornephoros, Kris, Kyle
 
-Lavender, Layla, Leah, Leo, Levi, Leviathan, Levy, Lloyd, Lodestone, London, Lucius, Lyle, Lynne
+Lazuli
+, Lavender, Layla, Leah, Lynne
+, Leo, Levi, Leviathan, Levy, Lloyd, Lodestone, London, Lucius, Lyle
 
-Mae, Mai, Mana, Mars, Mason, Matthew, Max, May, Mei, Memoria, Memory, Midnight, Miles, Mimosa, Monochromia, Mycroft, Mystery
+Max, Memory, Midnight, Mystery
+, Mae, Mai, Mana, Maxine, May, Mei, Memoria, Mimosa, Monochromia
+, Mars, Mason, Matthew, Maximillion, Miles, Mycroft
 
-Naos, Nate, Nathan, Neo, Newt, Nick, Nimbus, Nix, Noah, Noct, Nocte, Nocturne, Noiz, Nova, Nox, Noxus
+Nimbus
+, Nova
+, Naos, Nate, Nathan, Neo, Newt, Nick, Nix, Noah, Noct, Nocte, Nocturne, Noiz, Nox, Noxus
 
-Oasis, Oberon, Oblivion, Ocean, Octavia, Octavius, October, Onyx, Orca, Oreo, Orion, Orvala
+Oasis, Oblivion, Oreo
+, Ocean, Octavia, October, Orca, Orvala
+, Oberon, Octavius, Onyx, Orion
 
-Parker, Pearl, Penelope, Phineas, Phoenix, Pierce, Pilot, Pod, Polaris, Poseidon, Poseidos, Preston, Prime, Prince, Princess, Procyius, Procyon
+Phoenix, Polaris
+, Pearl, Penelope, Princess
+, Parker, Phineas, Pierce, Pilot, Pod, Poseidon, Poseidos, Preston, Prime, Prince, Procyius, Procyon, Python, Pythos
 
-Quartz, Queen, Quentin, Quest, Quincy, Quinne, Quinton
+Quartz, Quest, Quincy
+, Queen, Quinne
+, Quentin, Quinton
 
-Ray, Reese, Regulus, Rei, Reid, Relic, Remnant, Remote, Reunion, Ricky, Riven, River, Robin, Romeo, Rosalia, Rose, Roselia, Rufus, Rust, Rutilicus, Ryan, Rye
+Relic, Remnant, Remote, Reunion, Rivendale, Robin, Rye
+, Riven, River, Rosalia, Rose, Roselia
+, Ray, Reese, Regulus, Rei, Reid, Ricky, Romeo, Rufus, Rust, Rutilicus, Ryan
 
-Sapphire, Saya, Scotch, Sean, Sebastian, Secret, Seginus, Serenity, Serpens, Seth, Shadow, Sherlock, Shiver, Silver, Sirius, Sky, Skye, Skylar, Snow, Sol, Solace, Space, Spencer, Star, Steel, Summer, Sun, Swift, Syo
+Secret, Shiver, Silver, Sky, Skye, Skylar, Solace, Sun, Swift, Syo
+, Sapphire, Saya, Serendipity, Serenity, Snow, Star, Summer
+, Scotch, Sean, Sebastian, Seginus, Serpens, Seth, Shadow, Sherlock, Sirius, Sol, Space, Spencer, Steel
 
 Taylor, Teddy, Terminus, Theodore, Thunder, Timothy, Tinker, Tracy, Trinket, Triton, Trove, Tundra, Turais, Turquoise, Twilight
 
