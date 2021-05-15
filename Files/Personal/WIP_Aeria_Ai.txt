@@ -1,12 +1,10 @@
-10 may 2021
+15 may 2021
 
 skill journal for Aeria Ai
 +	guitar
 	+	10 parties and venues -- 5 ?
-	+	25,000 tips -- 1330
-+	science & logic
-	+	tutor 20 hrs children -- 11.93
-	+	100 experiments -- 56
+	+	25,000 tips -- 2137
++	science: 100 experiments -- 56
 +	photography
 	+	75 subjects -- 42
 	+	50 unique sims -- 22
@@ -93,6 +91,14 @@ fishing
 		Three Eyed Fish
 		Rainbow Snail
 ======================================================================
+Family Events
 Married Christopher Steel
+Created a Plumbot: Acrux
 Triplets: Brooklyn, Blossom, Bellatrix
 Triplets: Brandon, Bryant, Bubbles
+Ambitions Expansion + Used time machine: 
+	NOT Part of Main Family
+		Joaquin
+		Roman
+	Part of Main Family
+		Latisha
