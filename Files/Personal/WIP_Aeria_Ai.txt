@@ -17,7 +17,6 @@ skill journal for Aeria Ai
 	+	200 bottles made -- 168
 	+	turn 400 homegrown grapes into nectar
 	+	15 combinations -- 5
-+	inventing: detonated 150 objects -- 15
 +	collections
 	+	all space rocks
 	+	all fireflies
@@ -57,7 +56,7 @@ INSECTS
 		Dispersion
 		Entropic
 		Optic
-		Damping	
+		Damping
 		Prismatic
 		Uber
 ======================================================================
@@ -92,7 +91,7 @@ Married Christopher Steel
 Created a Plumbot: Acrux
 Triplets: Brooklyn, Blossom, Bellatrix
 Triplets: Brandon, Bryant, Bubbles
-Ambitions Expansion + Used time machine: 
+Ambitions Expansion + Used time machine:
 	NOT Part of Main Family
 		Joaquin
 		Roman
@@ -102,7 +101,6 @@ Ambitions Expansion + Used time machine:
 CHESTS
 
 China
-Red		
-Orange	
+Red
+Orange
 Yellow
-
