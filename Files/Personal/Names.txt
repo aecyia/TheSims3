@@ -81,7 +81,7 @@ Relic, Remnant, Remote, Reunion, Rivendale, Robin, Rye
 
 Secret, Shiver, Silver, Sky, Skye, Skylar, Solace, Sun, Swift, Syo
 , Sapphire, Saya, Serendipity, Serenity, Snow, Star, Summer
-, Scotch, Sean, Sebastian, Seginus, Serpens, Seth, Shadow, Sherlock, Sirius, Sol, Space, Spencer, Steel
+, Scotch, Sean, Sebastian, Seginus, Serpens, Seth, Shadow, Sherlock, Sirius, Sol, Space, Spear, Spears, Spencer, Steel
 
 Taylor, Teddy, Terminus, Theodore, Thunder, Timothy, Tinker, Tracy, Trinket, Triton, Trove, Tundra, Turais, Turquoise, Twilight
 
@@ -89,7 +89,7 @@ Unagi, Undertaker, Unique, Urion, Usagi
 
 Valhalla, Valiante, Valor, Vega, Veliante, Vibrant, Victor, Victoria, Vindematrix, Vindemiatrix, Viridi, Viridian, Vitalia, Vivian, Vix, Vlad, Vladimir, Volax, Vyktor
 
-Wales, Walker, Watcher, Wesley, Willow, Winston, Winter, Wish, Wisteria, Wolfe, Wyvern
+Wales, Walker, Watcher, Wesley, Willow, Winston, Winter, Wish, Wisteria, Wolfe, Wyvern, Wynn
 
 Xalia, Xander, Xayah, Xion, Xyle
 

@@ -1,7 +1,8 @@
 A list of cool trackers that would enhance the gameplay:
 
-+	Fires extinguished
++	Fires
 	+	How many fires a sim has extinguished in their lifetime whether it is a house fire or on the job ( Ambitions )
+	+	Firefighters called
 	+	Types of fires started
 		+	Cooking
 		+	Detonation ( Ambitions )
@@ -19,4 +20,9 @@ A list of cool trackers that would enhance the gameplay:
 	+	Number of hours training in the Athletic or Martial Arts Skill
 	+	Number of hours tutoring other Sims in skills
 	+	Number of times a Sim has taught another Sim a song ( World Adventures )
-+	Guitar 
++	Guitar Skill
+	+	Number of Venues or Parties Performed / Played at
+	+	Number of times a Song has been played
++	Clean + Neat + Slob + Messy
+	+	Number of messes created
+	+	Number of messes cleaned
