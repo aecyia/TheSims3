@@ -3,7 +3,7 @@
 skill journal for Aeria Ai
 +	guitar
 	+	10 parties and venues -- 5 ?
-	+	25,000 tips -- 2137
+	+	25,000 tips -- 5377
 +	science: 100 experiments -- 56
 +	photography
 	+	75 subjects -- 42
@@ -18,9 +18,9 @@ skill journal for Aeria Ai
 	+	turn 400 homegrown grapes into nectar
 	+	15 combinations -- 5
 +	inventing
-	+	250 widgets -- 2
+	+	250 widgets -- 74
 	+	detonated 150 objects -- 15
-	+	100 Big Inventions -- 6
+	+	100 Big Inventions -- 62
 +	collections
 	+	all space rocks
 	+	all fireflies
