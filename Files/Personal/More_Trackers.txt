@@ -1,0 +1,22 @@
+A list of cool trackers that would enhance the gameplay:
+
++	Fires extinguished
+	+	How many fires a sim has extinguished in their lifetime whether it is a house fire or on the job ( Ambitions )
+	+	Types of fires started
+		+	Cooking
+		+	Detonation ( Ambitions )
+		+	Fireplaces
+		+	Etc.
++	Lives saved
+	+	How many other Sim lives a Sim has saved through:
+		+	Near-death experiences
+		+	Burning fires
+		+	Drowning
+		+	Giving the Reaper a Death Flower
+		+	Other Sim deaths
+	+	How many times a Sim saved their own life
++	Training / Tutoring / Teaching other Sims
+	+	Number of hours training in the Athletic or Martial Arts Skill
+	+	Number of hours tutoring other Sims in skills
+	+	Number of times a Sim has taught another Sim a song ( World Adventures )
++	Guitar 
