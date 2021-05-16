@@ -19,9 +19,8 @@ skill journal for Aeria Ai
 	+	15 combinations -- 5
 +	inventing
 	+	250 widgets -- 2
-	+	detonated 150 objects -- 0
-	+	100 Big Inventions -- 3
-+	30 street art projects
+	+	detonated 150 objects -- 15
+	+	100 Big Inventions -- 6
 +	collections
 	+	all space rocks
 	+	all fireflies
