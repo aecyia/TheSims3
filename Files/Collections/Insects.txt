@@ -11,16 +11,16 @@ https://sims.fandom.com/wiki/Bug_collecting#The_Sims_3
 https://www.carls-sims-3-guide.com/skills/collecting/butterflies.php
 
 Base Game
-	Moth
-	Monarch Butterfly
-	Zephyr Metalmark Butterfly
-	Red Admiral Butterfly
-	Mission Blue Butterfly
 	Green Swallowtail Butterfly
+	Mission Blue Butterfly
+	Monarch Butterfly
+	Moth
+	Rainbow Butterfly
+	Red Admiral Butterfly
 	Royal Purple Butterfly
 	Silver-spotted Skipper Butterfly
 	Zebra Butterfly
-	Rainbow Butterfly
+	Zephyr Metalmark Butterfly
 World Adventures
 	China
 		Bamboo Straight Swift Butterfly
@@ -60,7 +60,7 @@ Base Game
 	Japanese Beetle
 	Water Beetle
 	Light Beetle
-	Rhinocerous Beetle
+	Rhinoceros Beetle
 	Stag Beetle Beetle
 	Spotted Beetle
 	Trilobite Beetle
