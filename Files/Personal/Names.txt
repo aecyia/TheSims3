@@ -79,9 +79,9 @@ Relic, Remnant, Remote, Reunion, Rivendale, Robin, Rye
 , Riven, River, Rosalia, Rose, Roselia
 , Ray, Reese, Regulus, Rei, Reid, Ricky, Romeo, Rufus, Rust, Rutilicus, Ryan
 
-Secret, Shiver, Silver, Sky, Skye, Skylar, Solace, Sun, Swift, Syo
+Secret, Shadow, Shiver, Silver, Sky, Skye, Skylar, Solace, Sun, Swift, Syo
 , Sapphire, Saya, Senna, Serendipity, Serenity, Snow, Star, Summer
-, Scotch, Sean, Sebastian, Seginus, Serpens, Seth, Shadow, Sherlock, Sirius, Sol, Space, Spear, Spears, Spencer, Steel
+, Scotch, Sean, Sebastian, Seginus, Serpens, Seth, Sherlock, Sirius, Sol, Space, Spear, Spears, Spencer, Steel
 
 Taylor, Tesla, Tinker, Tracy, Trinket, Trove, Tundra, Turais, Turquoise, Twilight
 , Tia
