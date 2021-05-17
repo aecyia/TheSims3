@@ -1,122 +1,40 @@
 Last Updated: 17 May 2021
-Original Start: 16 January 2021
+Original Start: 17 May 2021
 
-Skill Journal for Aeria Ai
-+	guitar at 10 parties and venues
-+	science: 100 experiments -- 56
-+	photography
-	+	75 subjects -- 55
-	+	50 unique sims -- 33
-	+	60 strangers -- 1
-	+	5 photo collections -- 0
-+	martial arts
-	+	tournament 5 -- 1
-	+	75 sparring matches -- 7
-+	nectar
-	+	200 bottles made -- 168
-	+	turn 400 homegrown grapes into nectar
-	+	15 combinations -- 5
-+	collections
-	+	all space rocks
-	+	all fireflies
+Goal: Showtime Badges
 ======================================================================
-INSECTS
-	Late Night
-		Green Will-O'-The-Wisp
-		Blue Will-O'-The-Wisp
-		Pink Will-O'-The-Wisp
-	Showtime
-		Firefly albus 		White
-		Firefly pratinus	Green
-		Firefly fulvus		Yellow
-		Firefly luteus		Orange
-		Firefly caeruleus	Blue
-		Firefly ruber		Red
-		Firefly roseus		Pink
-		Firefly purpureus	Purple
-	Late Night
-		Termite
-		Spider
-	Into the Future
-		Neutron
-		Caustic
-		Quantum
-		Scalar
-		Lite
-		Lepton
-		Tribble
-		Heisenberg
-		Condensor
-		Tunnelling
-		Torque
-		Induction
-		Polar
-		Thermo
-		Dispersion
-		Entropic
-		Optic
-		Damping
-		Prismatic
-		Uber
-======================================================================
-fishing
-	Late Night
-		Sea Sludge
-		Kissing Gourami
-		Sewer Trilobite
-	Showtime
-		Sea Bat Starfish
-		Linckia Starfish
-		Ninja Starfish
-	Supernatural
-		Toad
-		Luminous Salamander
-		Fairy Damsel
-	Island Paradise
-		Sea Urchin
-		Anemone
-		Sea Polyp
-		Hermit Crab
-		Octopus
-		Squid
-		Eel
-		Seahorse
-	Into the Future
-		Three Eyed Fish
-		Rainbow Snail
-======================================================================
-Family Events
-Married Christopher Steel
-Created a Plumbot: Acrux
-Triplets: Brooklyn, Blossom, Bellatrix
-Triplets: Brandon, Bryant, Bubbles
-Ambitions Expansion + Used time machine:
-	NOT Part of Main Family
-		Joaquin
-		Roman
-	Part of Main Family
-		Latisha
-======================================================================
-CHESTS
-
-China
-Red
-Orange
-Yellow
-
++	singer, magician, or acrobat win a Simfest in a Park
++	win a simfest at a coffeehouse
++	perform in a Park, Coffeehouse, Live Show Venue, Private Show Venue, Big Show Venue
++	singer
+	+	Sell 25 singer albums
+	+	sing-a-gram 15 times
+	+	20k tips
++	Magician
+	+	once at each venue
+	+	20 tricks
+	+	20k tips
+	+	woo-hoo in magician's box of mystery 10x
+	+	legendary magician show in a big show venue as a genie
++	acrobat
+	+	once at each venue
+	+	legendary show
+	+	legendary acrobat show in a big show venue as a ghost
+	+	20k tips
+	+	all 3 giant ring of fire tricks in a row w/o falling
+	+	human statue 30x
++	diva sim -- request 30 compliments from other sims
++	nearly drown attempting the watery grave trick
++	all mime & juggling stunts 3x before becoming a performance artist
++	vanishing sim trick 20x
++	play 5 four-player games of dominoes
++	get singed riding the plasmapunch gyroscopic conductor
++	10k tips playing pool
++	woo-hoo phone booth 10x
++	collect a lounge lizard gnome
++	20 songs karaoke machine
 ======================================================================
 Expansions Using:
-	Ambitions
-	Late Night
 	Showtime
-	University Life
-	World Adventures
 Stuff Packs Using:
-	70s, 80s, and 90s Stuff
-	Diesel Stuff
-	Fast Lane Stuff
-	High-End Loft Stuff
-	Master Suite Stuff
-	Movie Stuff
-	Outdoor Living Stuff
-	Town Life Stuff
+	None

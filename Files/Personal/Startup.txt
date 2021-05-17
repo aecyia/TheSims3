@@ -1,5 +1,5 @@
 Mod Scripts Found DIALOG
-+	Packages\13april.package
++	Packages\abcdef.package
 
 LOGGED IN TO THE SIMS 3
 
