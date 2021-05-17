@@ -1,14 +1,12 @@
-15 may 2021
+16 may 2021
 
 skill journal for Aeria Ai
-+	guitar
-	+	10 parties and venues -- 5 ?
-	+	25,000 tips -- 5377
++	guitar at 10 parties and venues
 +	science: 100 experiments -- 56
 +	photography
-	+	75 subjects -- 42
-	+	50 unique sims -- 22
-	+	60 strangers -- 0
+	+	75 subjects -- 55
+	+	50 unique sims -- 33
+	+	60 strangers -- 1
 	+	5 photo collections -- 0
 +	martial arts
 	+	tournament 5 -- 1
