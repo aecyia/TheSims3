@@ -6,9 +6,16 @@ Recommended Mods:
 	Consigner
 	DebugEnabler
 	GoHere
+	Master Controller
+		Master Controller Cheats
 	Mover
 	Once Read
 	Overwatch
 	TaxCollector
 	Traveler
 	WrittenWord
+Others:
+	Careers
+	Error Trap
+	Relativity
+	Vector
