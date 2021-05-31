@@ -13,6 +13,7 @@ Documents\Electronic Arts\The Sims 3
 		+	scriptCache.package
 		+	simCompositorCache.package
 		+	socialCache.package
+		+	Script_Error.xml files
 	+	Delete any unused files from the folders:
 		+	Custom Music
 		+	Downloads
