@@ -46,7 +46,7 @@ Sculptures	0		§ 0
 █ █ █▀█ █ █ █   ▀█▀ █▀█   █ █▀▄▀█ █▀█ █▀█ █▀█ █ █ █▀▀
 █▀█ █▄█ ▀▄▀▄▀    █  █▄█   █ █ ▀ █ █▀▀ █▀▄ █▄█ ▀▄▀ ██▄
 
-+	Sellling items / objects
++	Selling items / objects
 	+	Items such as
 		+	Books
 		+	Fruit
