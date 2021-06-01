@@ -1,6 +1,5 @@
 # Security Policy
 
-## Reporting a Vulnerability
+## Report A Vulnerability Here
 
-### Where to Go
-    github.com/aecyia/TheSims3/issues
+github.com/aecyia/TheSims3/issues
