@@ -1,5 +1,9 @@
 # The Sims 3
 
-Purpose: My progress + notes
+## Purpose
 
-Project Start: 03 February 2021
++	Documenting my progress in the game
+
++	Notes and information
+
+***Started: 03 February 2021***
