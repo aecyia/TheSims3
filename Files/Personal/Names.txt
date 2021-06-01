@@ -77,7 +77,7 @@ Quartz, Quest, Quincy
 
 Relic, Remnant, Remote, Reunion, Rivendale, Robin, Rye
 , Riven, River, Rosalia, Rose, Roselia
-, Ray, Reese, Regulus, Rei, Reid, Ricky, Romeo, Rufus, Rust, Rutilicus, Ryan
+, Ray, Reese, Regulus, Rei, Reid, Ricky, Ripley, Romeo, Rufus, Rust, Rutilicus, Ryan
 
 Secret, Shadow, Shiver, Silver, Sky, Skye, Skylar, Solace, Sun, Swift, Syo
 , Sapphire, Saya, Senna, Serendipity, Serenity, Snow, Star, Summer
