@@ -54,6 +54,7 @@
 		"Ezreal",
 		"Fleur",
 		"Fyre",
+		"Harvestables",
 		"Shminter",
 		"Simfest",
 		"Yuumi",
@@ -78,6 +79,8 @@
 		"centauri",
 		"elterion",
 		"maximillion",
+		"moodlet",
+		"moodlets",
 		"n",
 		"overwatch",
 		"plasmapunch",
@@ -85,6 +88,8 @@
 		"raas",
 		"seginus",
 		"spellcasting",
+		"tasker",
+		"testingcheatsenabled",
 		"toadify",
 		"turais"
 	]
