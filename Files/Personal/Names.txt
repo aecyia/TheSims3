@@ -30,8 +30,8 @@ Ethereal, Ember
 , Edrisa, Edusa, Elle, Elteria, Emilee, Estelia, Estelle, Eva, Evangeline, Eve, Evelyn
 , Earl, Echo, Edmund, Edward, Edwin, Ei, Ekko, Elias, Elliot, Elterion, Emmett, Epsilon, Eric, Erik, Eteron, Ethan, Everest, Ezreal
 
-Fizz, Flight, Flood, Florentine, Forever
-, Fae, Faith, Fantasia, Fate, Fauna, Faye, Fiora, Fleur, Flora, Florence, Florencia, Florentina
+Fizz, Flight, Flood, Florentine, Forever, Fortune
+, Fae, Faith, Fantasia, Fate, Fauna, Faye, Fiora, Fleur, Flora, Florence, Florencia, Florentina, Fortuna
 , Ferb, Finn, Fixo, Flint, Florentino, Floyd, Flynn, Forest, Forrest, Fox, François, Furnace, Fynn, Fyre
 
 Galaxy, Glory
@@ -54,20 +54,20 @@ Karma, Kayle, Key, Kindred, Kris
 , Kalista, Kendra, Katarina
 , Kai, Kayn, Kayne, Kennen, Kenneth, King, Kornephoros, Kyle
 
-Lazuli, Lynx
-, Lavender, Layla, Leah, Lynne
-, Lance, Leo, Levi, Leviathan, Levy, Link, Lloyd, Lodestone, London, Lucius, Lyle
+Lazuli, Lynx, Luau
+, Lavender, Layla, Leah, Leia, Leona, Lynne, Lillia, Lissandra, Lulu
+, Lance, Leo, Levi, Leviathan, Levy, Link, Lloyd, Lodestone, London, Lucius, Lyle, Lucian
 
 Max, Memory, Midnight, Mystery
-, Mae, Mai, Mana, Maxine, May, Mei, Memoria, Mimosa, Monochromia
+, Mae, Mai, Mana, Maxine, May, Mei, Memoria, Mimosa, Monochromia, Morgana
 , Mars, Mason, Matthew, Maximillion, Miles, Mycroft
 
-Nimbus
-, Nova
+Nimbus, Nexus
+, Nova, Nami
 , Naos, Nate, Nathan, Neo, Newt, Nick, Nix, Noah, Noct, Nocte, Nocturne, Noiz, Nox, Noxus
 
 Oasis, Oblivion, Oreo
-, Ocean, Octavia, October, Orca, Orvala
+, Ocean, Oceania, Octavia, October, Orca, Orianna, Orvala
 , Oberon, Octavius, Onyx, Orion
 
 Phoenix, Polaris
@@ -75,7 +75,7 @@ Phoenix, Polaris
 , Parker, Phineas, Pierce, Pilot, Pod, Poseidon, Poseidos, Preston, Prime, Prince, Procyius, Procyon, Python, Pythos
 
 Quartz, Quest, Quincy
-, Queen, Quinne
+, Queen, Quinn, Quinne
 , Quentin, Quinton
 
 Relic, Remnant, Remote, Reunion, Rivendale, Robin, Rye
@@ -83,20 +83,20 @@ Relic, Remnant, Remote, Reunion, Rivendale, Robin, Rye
 , Ray, Reese, Regulus, Rei, Reid, Ricky, Ripley, Romeo, Rufus, Rust, Rutilicus, Ryan
 
 Secret, Shadow, Shiver, Silver, Sky, Skye, Skylar, Solace, Sun, Swift, Syo
-, Sapphire, Saya, Senna, Serendipity, Serenity, Snow, Star, Summer
+, Sapphire, Saya, Senia, Senna, Sera, Serendipity, Serenity, Seria, Snow, Sona, Soraka, Star, Summer
 , Scotch, Sean, Sebastian, Seginus, Serpens, Seth, Shane, Sherlock, Sirius, Sol, Space, Spear, Spears, Spencer, Steel
 
 Taylor, Tesla, Tinker, Tracy, Trinket, Trove, Tundra, Turais, Turquoise, Twilight
-, Tia
+, Tia, Tristana
 , Teddy, Terminus, Theodore, Thunder, Timothy, Triton
 
 Unagi, Usagi
 , Unique
 , Undertaker, Urion
 
-Valhalla, Valiante, Vega, Veliante, Vibrant, Vindematrix, Vindemiatrix, Vitrix, Volax
-, Vanessa, Victoria, Viridi, Viridian, Vitalia, Vivian, Vix, Vixia
-, Valor, Victor, Vlad, Vladimir, Vyktor
+Valhalla, Valiante, Vayn, Vayne, Vega, Veliante, Vibrant, Vindematrix, Vindemiatrix, Vitrix, Volax
+, Vanessa, Vi, Victoria, Viridi, Viridian, Vitalia, Vivian, Vix, Vixia
+, Valor, Victor, Vlad, Vladimir, Vyktor, Varus
 
 Wynn
 , Willow, Winter, Wish, Wisteria
