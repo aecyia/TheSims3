@@ -7,14 +7,13 @@ Achievements Left: Too many
 DLCs not started: Generations, Pets, Seasons, Island Paradise
 Achievements Concluded ( & therefore can't get ) : Winter Shminter ( Seasons )
 
-█▀▀ █ █ █▀█ █▀█ █▀▀ █▄ █ ▀█▀	 █▀ █ █ █▀█ █ █ █ ▀█▀ █ █▀▄▀█ █▀▀
-█▄▄ █▄█ █▀▄ █▀▄ ██▄ █ ▀█  █		 ▄█ █▀█ █▄█ ▀▄▀▄▀  █  █ █ ▀ █ ██▄
+█▀▀ █ █ █▀█ █▀█ █▀▀ █▄ █ ▀█▀ ::	█▀ █ █ █▀█ █ █ █ ▀█▀ █ █▀▄▀█ █▀▀
+█▄▄ █▄█ █▀▄ █▀▄ ██▄ █ ▀█  █  ::	▄█ █▀█ █▄█ ▀▄▀▄▀  █  █ █ ▀ █ ██▄
 
 +	singer, magician, or acrobat win a Simfest in a Park
 +	win a simfest at a coffeehouse
 +	perform in a Park, Coffeehouse, Live Show Venue, Private Show Venue, Big Show Venue
 +	singer
-	+	Sell 25 singer albums
 	+	sing-a-gram 15 times
 	+	20k tips
 +	Magician
