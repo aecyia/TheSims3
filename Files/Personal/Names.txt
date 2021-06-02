@@ -16,41 +16,43 @@ Acquae, Acre, Ahri, Alex, Alphecca, Aquae, Arae, Arden, Ardent, Ari, Ash, Ashe, 
 
 Blake, Brooklyn
 , Bellatrix, Bernadette, Blossom, Briella, Brielle, BrookeLynne, Bubbles, Bunnie, Buttercup
-, Baxter, Benedict, Bradley, Brandon, Brent, Bronx, Bryant, Bryce
+, Bard, Baxter, Benedict, Bradley, Brandon, Brent, Bronx, Bryant, Bryce
 
 Centauri, Cerulean, Courage
-, Caitlyn, Calypso, Camilla, Camille, Candy, Cappuccino, CarolLynne, Carolyn, Carolynne, Cassiopeiae, Celeste, Celestia, Celestial, Celestine, Cheri, Cherry, Chocolate, Cinnamon, Cinxia, Cocoa, Cornelia, Cornucopia, Crystal, Cyra
+, Caitlyn, Calypso, Camilla, Camille, Candy, Cappuccino, CarolLynne, Carolyn, Carolynne, Cassiopeiae, Cassiopia, Celeste, Celestia, Celestial, Celestine, Ceryia, Ceryias, Cheri, Cherry, Chocolate, Cinnamon, Cinxia, Cocoa, Cornelia, Cornucopia, Crystal, Cyra
 , Cade, Caeculus, Caelian, Canyon, Cardax, Cardrax, Carter, Casper, Cassio, Cassion, Castor, Cecil, Cedric, Centaur, Chance, Chip, Ciel, Cody, Colby, Cooper, Cosmic, Cosmos, Cove, Cyan, Cyprus, Cyrus, Czarius
 
 Dusk
 , Daniella, Danielle, Day, Destiny, Diana, Diane, Dove
-, Dante, Darren, Darryl, Deal, Deep, Dominic, Doyle, Draco, Drew, Dune
+, Dante, Darius, Darren, Darryl, Deal, Deep, Dominic, Doyle, Draco, Drew, Dune
 
 Ethereal, Ember
-, Edrisa, Edusa, Elle, Elteria, Emilee, Estelia, Estelle, Eva, Evangeline, Eve
-, Earl, Echo, Edmund, Edward, Edwin, Ei, Elias, Elliot, Elterion, Emmett, Epsilon, Eric, Erik, Eteron, Ethan, Everest, Ezreal
+, Edrisa, Edusa, Elle, Elteria, Emilee, Estelia, Estelle, Eva, Evangeline, Eve, Evelyn
+, Earl, Echo, Edmund, Edward, Edwin, Ei, Ekko, Elias, Elliot, Elterion, Emmett, Epsilon, Eric, Erik, Eteron, Ethan, Everest, Ezreal
 
-Florentine, Forever
-, Fae, Faith, Fantasia, Fate, Fauna, Faye, Fleur, Flora, Florence, Florencia
-, Ferb, Finn, Flight, Flint, Flood, Floyd, Flynn, Forest, Forrest, Fox, François, Furnace, Fynn, Fyre
+Fizz, Flight, Flood, Florentine, Forever
+, Fae, Faith, Fantasia, Fate, Fauna, Faye, Fiora, Fleur, Flora, Florence, Florencia, Florentina
+, Ferb, Finn, Fixo, Flint, Florentino, Floyd, Flynn, Forest, Forrest, Fox, François, Furnace, Fynn, Fyre
 
 Galaxy, Glory
-, Gaia, Galaxia, Gardenia, Gem, Gemini, Geneva, Geneviere, Genevieve
+, Gaia, Galaxia, Gardenia, Gem, Gemini, Geneva, Geneviere, Genevieve, Gwen, Gwendolyn
 , Genos, Geyser, Glaze, Glenn, Godric, Gray, Grayson, Grey, Greyson, Grid, Gunner
 
 Harley, Haru, Haven, Haze, Honour, Hope, Hue, Hydra
 , Harmony, Heart, Henrietta, Hera, Hermione, Hestia, Hime, Holly, Honouria, Hyacinth, Hydrangea, Hypatia
-, Halo, Hamilton, Hans, Hawk, Hayato, Hayden, Heath, Hector, Hephaestus, Hermes, Hex, Hibiki, Hippocrates, Hobbes, Holmes, Host, Hunter, Hydrax
+, Halo, Hamilton, Hans, Hawk, Hayato, Hayden, Heath, Hector, Hephaestus, Hermes, Hex, Hibiki, Hippocrates, Hobbes, Holmes, Host, Hunter, Hydrax, Heimerdinger
 
-Idris, Indigo, Infinity, Io, Isle, Ivory, Ivy
-, Ildaria, Irene, Irina, Iris, Isabella, Isabelle, Isla
-, Icarus, Ice, Icon, Ignatius, Isaac, Ivan
+Idris, Indigo, Infinity, Io, Isle, Ivern, Illaoi
+, Ildaria, Irelia, Ireliosa, Irene, Irina, Iris, Isabella, Isabelle, Isla, Ivory, Ivy
+, Icarus, Ice, Icon, Ignatius, Isaac, Ivan, Irelio
 
-, Juliet, July, June
-, Jaden, Jarvis, Jason, Jay, Jayden, Joaquin, Joseph, Justice, Justin
+Justice, Jinx
+, Juliet, July, June, Janna
+, Jaden, Jarvis, Jase, Jason, Jay, Jayce, Jayden, Joaquin, Joseph, Justin, Jhin
 
-, Kalista, Kendra
-, Kai, Kayne, Kenneth, Key, King, Kornephoros, Kris, Kyle
+Karma, Kayle, Key, Kindred, Kris
+, Kalista, Kendra, Katarina
+, Kai, Kayn, Kayne, Kennen, Kenneth, King, Kornephoros, Kyle
 
 Lazuli, Lynx
 , Lavender, Layla, Leah, Lynne
