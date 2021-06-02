@@ -10,10 +10,18 @@ Achievements Concluded ( & therefore can't get ) : Winter Shminter ( Seasons )
 █▀▀ █ █ █▀█ █▀█ █▀▀ █▄ █ ▀█▀ ::	█▀ █ █ █▀█ █ █ █ ▀█▀ █ █▀▄▀█ █▀▀
 █▄▄ █▄█ █▀▄ █▀▄ ██▄ █ ▀█  █  ::	▄█ █▀█ █▄█ ▀▄▀▄▀  █  █ █ ▀ █ ██▄
 
-+	singer, magician, or acrobat win a Simfest in a Park
-+	win a simfest at a coffeehouse
-+	perform in a Park, Coffeehouse, Live Show Venue, Private Show Venue, Big Show Venue
-+	singer
+
++	diva sim -- request 30 compliments from other sims
++	WIN A SIMFEST AS S / A / M
+	+	Park
+	+	coffeehouse
++	Performances
+	+	Park
+	+	Coffeehouse
+	+	Live Show Venue
+	+	Private Show Venue
+	+	Big Show Venue
++	Singer
 	+	sing-a-gram 15 times
 	+	20k tips
 +	Magician
@@ -22,17 +30,16 @@ Achievements Concluded ( & therefore can't get ) : Winter Shminter ( Seasons )
 	+	20k tips
 	+	woo-hoo in magician's box of mystery 10x
 	+	legendary magician show in a big show venue as a genie
-+	acrobat
+	+	LVL 7 >> Box of Danger >> Watery Grave >> nearly drown
+	+	LVL 3 >> vanishing sim trick 20x
++	Acrobat
 	+	once at each venue
 	+	legendary show
 	+	legendary acrobat show in a big show venue as a ghost
 	+	20k tips
 	+	all 3 giant ring of fire tricks in a row w/o falling
 	+	human statue 30x
-+	diva sim -- request 30 compliments from other sims
-+	nearly drown attempting the watery grave trick
-+	all mime & juggling stunts 3x before becoming a performance artist
-+	vanishing sim trick 20x
+	+	all mime & juggling stunts 3x before LVL 3 Performance Artist
 +	play 5 four-player games of dominoes
 +	get singed riding the plasmapunch gyroscopic conductor
 +	10k tips playing pool
@@ -48,12 +55,21 @@ Achievements Concluded ( & therefore can't get ) : Winter Shminter ( Seasons )
 	+	8 fairy enemies
 	+	8 witch friends
 	+	woo-hoo gypsy caravan
+	+	toadify 10 sims
+	+	50 spellcasting duels
+	+	cast 25 successful charms
 +	fairy
 	+	8 witch enemies
 	+	8 fairy friends
+	+	trick 50 sims
+	+	perform 8x each then sleep until Well Rested
+		+	Gold and Toads
+		+	Inner Beauty
+		+	Flight of Felicity
 +	vampire
 	+	turn 8 sims into vampires
 	+	have 5 vamp friends
+	+	make 15 sims Think Of You
 +	werewolf
 	+	eat 30 raw fish or meat
 	+	marry a vampire
@@ -63,20 +79,23 @@ Achievements Concluded ( & therefore can't get ) : Winter Shminter ( Seasons )
 +	celebrity psychic
 	+	lifetime wish
 	+	hold 5 psychic conventions
-+	trick 50 sims
-+	toadify 10 sims
-+	ensorcel 100 sims
-+	50 spellcasting duels
-+	cast 25 successful charms
-+	make 15 sims Think Of You
++	genie
+	+	ensorcel 100 sims
++	fortune teller
+	+	LVL 1 >> horoscope reader >> ask 5 sims their sign
+	+	LVL 4 >> palm reader >> conduct 2 private readings
 +	female sim -- 15 fairy partners, break up 14
 +	male sim -- 15 witch partners, break up 14
-+	palm reader -- conduct 2 private readings
-+	horoscope reader -- ask 5 sims their sign
-+	perform the Gold and Toads, Inner Beauty, and Flight of Felicity fairy enchantments 8 times each then sleep until Well Rested
 +	complete the OH My Ghost opportunity
-+	cut 20 stacks of gems with the Gem cutter
-+	cut one of each kind of gem cut
+	1	be close to someone who died
+		+	friend, good friend, best friend, BFF
+		+	gf / bf, husband / wife
+	2	science lab call opportunity
+	3	bring urn to lab
+	4	return with ghost buddy
++	GEMS
+	+	cut 20 stacks with the Gem cutter
+	+	cut every kind of gem cut
 
 █▀ █▀▀ ▄▀█ █▀ █▀█ █▄ █ ▄▀█ █
 ▄█ ██▄ █▀█ ▄█ █▄█ █ ▀█ █▀█ █▄▄
