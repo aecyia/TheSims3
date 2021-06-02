@@ -60,7 +60,7 @@ Bait
 	+	The cover pictures for the following are different levels and do not align with the other cover pictures
 		1	All that Glitters is Goldfish
 		2	Glitter Tragedy: Trout and Clownfish Baiting Technique
-	+	Generally, the order from lowest fishing skill to highest is: Purple, Green, Blue 
+	+	Generally, the order from lowest fishing skill to highest is: Purple, Green, Blue
 		1	The Wee Swimmers: Reeling Anchovy and Minnow
 		1	The Wiskered Deep: Catfish and You
 		1	All that Glitters is Goldfish
@@ -100,7 +100,7 @@ Compositions [ Levels 5 – 9 ]
 	Laser Rhythm-A-Con
 
 █   ▄▀█ ▀█▀ █▀▀   █▄ █ █ █▀▀ █ █ ▀█▀
-█▄▄ █▀█  █  ██▄   █ ▀█ █ █▄█ █▀█  █ 
+█▄▄ █▀█  █  ██▄   █ ▀█ █ █▄█ █▀█  █
 
 Opportunity
 	Film
@@ -127,7 +127,7 @@ Recipes
 	Red [ 2; Level 5 ]
 	Green [ 2; Levels 8 – 9 ]
 
-█▀ █ █ █▀█ █▀▀ █▀█ █▄ █ ▄▀█ ▀█▀ █ █ █▀█ ▄▀█ █  
+█▀ █ █ █▀█ █▀▀ █▀█ █▄ █ ▄▀█ ▀█▀ █ █ █▀█ ▄▀█ █
 ▄█ █▄█ █▀▀ ██▄ █▀▄ █ ▀█ █▀█  █  █▄█ █▀▄ █▀█ █▄▄
 
 General ( 14 )
@@ -202,7 +202,7 @@ General
 Opportunity
 	Questionable Romantic Foods
 	The Saga of the Three Relics
-Skill Books 
+Skill Books
 	Martial Arts Vol. 1
 	Photography Vol. 1
 	Nectar Vol. 1 – 3
@@ -211,7 +211,7 @@ Recipes
 		2	Egg Rolls
 		6	Stir Fry
 	Egypt [ Yellow ]
-		1	Shwarma
+		1	Shawarma
 		5	Falafel
 	France [ Purple ]
 		1	Cheese Plate
