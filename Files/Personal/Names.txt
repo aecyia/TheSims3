@@ -10,9 +10,9 @@ For the following:
 	+	and more
 Last Updated: 16 May 2021
 
-Acquae, Acre, Alex, Alphecca, Aquae, Arae, Arden, Ardent, Asterias, Asterisk, Asternal, Asteroid, Australis, Australius, Australus, Aventine, Azuli
-, Acacia, Acquilae, Aecyia, Aeolia, Aeria, Aeria, Aery, Aeryia, Aetnia, Aetolia, Ai, Alessandra, Alessandria, Alexa, Alexandra, Alexandria, Alexia, Ally, Amethyst, Andrea, Aoi, Aquilae, Arachne, Aria, Ascella, Ascella, Astelia, Asteria, Asthenia, Asthenia, Astoria, Astra, Atenia, Athena, Athenia, Atolia, Atria, Aura, Aure, Aurelia, Australia, Autumn, Azulia, Azura, Azure
-, Aatrox, Ace, Acer, Acherion, Acolyte, Acrux, Adonis, Adrian, Aecyion, Aer, Aerinus, Aero, Aescolanus, Aeviternitas, Aevum, Aiden, Albatross, Albion, Albirion, Alcyion, Alcyon, Alcyone, Aldebaran, Aleistar, Alexander, Alfred, Alioth, Alix, Alnyx, Alpha, Altair, Amazon, Andrew, Andy, Anthony, Antonio, Antony, Aphelios, Aquilon, Archer, Arcturus, Arculus, Aresepru, Art, Asgard, Aslan, Astor, Astro, Atropos, Aurelion, Aurelius, Austin, Avalon, Avior, Axel, Ayden, Azerion, Azues, Azul, Azus, Asthenias, Ashton
+Acquae, Acre, Ahri, Alex, Alphecca, Aquae, Arae, Arden, Ardent, Ari, Ash, Ashe, Asterias, Asterisk, Asternal, Asteroid, Australis, Australius, Australus, Aventine, Azuli
+, Acacia, Acalia, Acquilae, Aecyia, Aeolia, Aeria, Aeria, Aery, Aeryia, Aetnia, Aetolia, Ai, Akali, Akalia, Alessandra, Alessandria, Alexa, Alexandra, Alexandria, Alexia, Ally, Amethyst, Andrea, Anivia, Aoi, Aquilae, Arachne, Aria, Ascella, Ascella, Astelia, Asteria, Asthenia, Asthenia, Astoria, Astra, Atenia, Athena, Athenia, Atolia, Atria, Aura, Aure, Aurelia, Australia, Autumn, Azulia, Azura, Azure
+, Aatrox, Ace, Acer, Acherion, Acolyte, Acrux, Adonis, Adrian, Aecyion, Aer, Aerinus, Aero, Aescolanus, Aeviternitas, Aevum, Aiden, Albatross, Albion, Albirion, Alcyion, Alcyon, Alcyone, Aldebaran, Aleistar, Alexander, Alfred, Alioth, Alix, Alnyx, Alpha, Altair, Amazon, Andrew, Andy, Anthony, Antonio, Antony, Aphelios, Aquilon, Archer, Arcturus, Arculus, Aresepru, Art, Asgard, Ashton, Aslan, Asthenias, Astor, Astro, Atropos, Aurelio, Aurelion, Aurelius, Austin, Avalon, Avior, Axel, Ayden, Azerion, Azues, Azul, Azus
 
 Blake, Brooklyn
 , Bellatrix, Bernadette, Blossom, Briella, Brielle, BrookeLynne, Bubbles, Bunnie, Buttercup
