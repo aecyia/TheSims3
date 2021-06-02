@@ -1,6 +1,6 @@
 <mxfile>
     <diagram id="MnHXRLiWCuT4bkUuz_oc" name="Bookshelves">
-        <mxGraphModel dx="1110" dy="822" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="480" pageHeight="480" background="none" math="0" shadow="0">
+        <mxGraphModel dx="764" dy="431" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="480" pageHeight="480" background="none" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -104,7 +104,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="H79nvtfC_lhW25GDWAJ8" name="Genres">
-        <mxGraphModel dx="1110" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="500" math="0" shadow="0">
+        <mxGraphModel dx="764" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="500" math="0" shadow="0">
             <root>
                 <mxCell id="pmA7vRkRfB0VJjXid8ay-0"/>
                 <mxCell id="pmA7vRkRfB0VJjXid8ay-1" parent="pmA7vRkRfB0VJjXid8ay-0"/>

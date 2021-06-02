@@ -4,50 +4,50 @@
 █▀ ▀█▀ ▄▀█ ▀█▀ █ █▀ ▀█▀ █ █▀▀ █▀
 ▄█  █  █▀█  █  █ ▄█  █  █ █▄▄ ▄█
 
-+	
-+	
-+	
-+	
-	
++
++
++
++
+
 Challenges			Requirement				Bonus / Reward
 
 
 █▀█ █▀█ █▀█ █▀▀ █▀▀ █▀ █▀ █ █▀█ █▄ █ █▀
 █▀▀ █▀▄ █▄█ █▀  ██▄ ▄█ ▄█ █ █▄█ █ ▀█ ▄█
 
-+	
-+	
++
++
 
 █ █ █▀█ █ █ █   ▀█▀ █▀█   █ █▀▄▀█ █▀█ █▀█ █▀█ █ █ █▀▀
 █▀█ █▄█ ▀▄▀▄▀    █  █▄█   █ █ ▀ █ █▀▀ █▀▄ █▄█ ▀▄▀ ██▄
 
-+	
-+	
-+	
-+	
-+	
-+	
++	Writing at the computer
++
++
++
++
++
 
 █ █ █▀ █▀▀ █▀▀ █ █ █     ▀█▀ █▀█ ▄▀█ █ ▀█▀ █▀
 █▄█ ▄█ ██▄ █▀  █▄█ █▄▄    █  █▀▄ █▀█ █  █  ▄█
 
-+	
-+	
++
++
 
 ▄▀█ █▄▄ █ █   █ ▀█▀ █ █▀▀ █▀
 █▀█ █▄█ █ █▄▄ █  █  █ ██▄ ▄█
 
 0
-1	
-2	
-3	
-4	
-5	
-6	
-7	
-8	
-9	
-10	
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
 
 █▀█ █▀█ █▀█ █▀█ █▀█ ▀█▀ █ █ █▄ █ █ ▀█▀ █ █▀▀ █▀
 █▄█ █▀▀ █▀▀ █▄█ █▀▄  █  █▄█ █ ▀█ █  █  █ ██▄ ▄█
@@ -80,7 +80,7 @@ Writing Class
 	+	Loner: decreases need for socialization
 	+	No Sense of Humor: decreases need for socialization
 	+	Couch Potato: doubles "Comfy" mood boost
-	+	Slob: decrreases Hygiene decay rate
+	+	Slob: decreases Hygiene decay rate
 	+	Hates the Outdoors: removes the "Stir Crazy" moodlet
 	+	Adventurous: removes the "Stir Crazy" moodlet
 	+	Neurotic: the "Freak Out" interaction decreases stress
@@ -108,7 +108,7 @@ Writing Class
 	+	fills Fun 25% faster
 
 █▀▀ █▄ █ █ █ █ █▀█ █▀█ █▄ █ █▀▄▀█ █▀▀ █▄ █ ▀█▀
-██▄ █ ▀█ ▀▄▀ █ █▀▄ █▄█ █ ▀█ █ ▀ █ ██▄ █ ▀█  █ 
+██▄ █ ▀█ ▀▄▀ █ █▀▄ █▄█ █ ▀█ █ ▀ █ ██▄ █ ▀█  █
 
 +	The Lot
 	+40	Beautiful Vista
