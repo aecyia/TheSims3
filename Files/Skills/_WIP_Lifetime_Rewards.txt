@@ -6,8 +6,8 @@
 +	text after the " -- " means recommended
 +	Sorted by type / category
 +	Symbols
-	↑	Increase, Improve
-	↓	Lowers, Decrease
+	↑	Increase, Improve, Gain, Higher
+	↓	Lowers, Decrease, Lose, Lower
 
 █▄▄ ▄▀█ █▀ █▀▀   █▀▀ ▄▀█ █▀▄▀█ █▀▀
 █▄█ █▀█ ▄█ ██▄   █▄█ █▀█ █ ▀ █ ██▄
@@ -15,25 +15,25 @@
 Lifetime Reward				Cost	Start	Bonus / Reward
 
 Physical
-Fast Metabolism				5,000	Child	Faster: Lose weight + gain muscle. Lowers weight gain from overeating
+Fast Metabolism				5,000	Child	Faster: ↓ weight + ↑ muscle. ↓ weight gain from overeating
 Speedy Cleaner				5,000	Child	Faster: Clean messes -- NEAT TRAIT
 Discount Diner				5,000	Child	Free: Eating at Diner / Bistro
-Professional Slacker		5,000	Teen	No demotion risk. Slacking off = ↑ performance. Lowered chance of getting caught from getting a replacement for a lecture
+Professional Slacker		5,000	Teen	No demotion risk. Slacking off = ↑ performance. ↓ chance of getting caught from getting a replacement for a lecture
 Observant					5,000	Child	Learn 3 traits upon meeting
 Office Hero					5,000	YA		Faster: Relationships with co-workers
 Legendary Host				5,000	Teen	100% chance party guests being positively higher than the party's level of fun
 Complimentary Entertainment	5,000	Child	Free: Community Theatre actions
 Bookshop Bargainer			10,000	Child	Cheaper: Bookstore merch -- WEEKLY DISCOUNT
-Fertility Treatment			10,000	YA		Higher chance of having triplets -- BOTH PARENTS
-Opportunistic				10,000	Child	Increased Opportunity rewards by 200%
-Multi-Tasker				10,000	Child	Improves school + work performance. Homework, promotions, part-time jobs, jobs
+Fertility Treatment			10,000	YA		↑ chance of having triplets -- BOTH PARENTS
+Opportunistic				10,000	Child	↑ Opportunity rewards by 200%
+Multi-Tasker				10,000	Child	↑ school + work performance. Homework, promotions, part-time jobs, jobs
 Steel Bladder				10,000	Child	Removed: Bladder Need
 Never Dull					10,000	Child	Removed: Boredom of other Sims when repeating social interactions many times. Doesn't work for: Enthuse About Comic Books, High Five
 Change Lifetime Wish		10,000	Child	Changes Lifetime Wish. Disappears once achieved.
-Attractive					15,000	Teen	Increased starting relationship bonus + rate of relationship. -- CHARISMA CHALLENGES
-Vacationer					15,000	Teen	When Sims with this Lifetime Reward take days off, their work performance bar will go down much slower than usual. When they are home, they will not get paid for doing their job.
-Haggler						15,000	Teen		Good discount at convenience stores. Even cheaper with the weekly discount
-Fast Learner				15,000	Child		Learn skills faster. Combined with certain traits + Elated mood makes learning faster
+Attractive					15,000	Teen	↑ starting relationship bonus + rate of relationship. -- CHARISMA CHALLENGES
+Vacationer					15,000	Teen	Take days off = slower work performance decrease. At home, no pay for doing job
+Haggler						15,000	Teen		Discount at convenience stores -- WEEKLY DISCOUNT
+Fast Learner				15,000	Child		Learn skills faster
 Dirt Defiant				15,000	Child		Slows hygiene decay by 75%. Squeaky Clean lasts 28 hours instead of 7. Objects and activities that decay hygiene still do so, however.
 Long Distance Friend		20,000	Child		The relationship bar will never decay through means of neglect. (This reward is useless if your Sim is charismatic and has the "Super Friendly" charisma skill challenges).
 Mid-Life Crisis				20,000	Young Adult	Reselect a Sim's traits without using testingcheatsenabled.
