@@ -58,7 +58,7 @@ Vaudeville
 Business Opportunity
 	0	The Wright Papers
 	0	The Goth Account
-	0	Landgraab Financial	
+	0	Landgraab Financial
 	1	Caffeine Culture
 	2	Going Paperless
 	3	Bloviation on Hyper Inflation
@@ -114,7 +114,7 @@ Military Opportunity
 	1	Getting Out of the Pit
 	2	Advanced Elbow Lubricant Techniques
 	3	Learning to Speak Officer
-	4	Learn to Fly In 21 Days	
+	4	Learn to Fly In 21 Days
 	5	Dealing With Whining From Engines and Pilots
 	6	How to Take the Ugly for the Team
 	7	Beyond the Aviator Glasses
@@ -288,7 +288,7 @@ Laser Rhythm-A-Con Compositions
 	9	Whistle while you Twerk
 
 █   ▄▀█ ▀█▀ █▀▀   █▄ █ █ █▀▀ █ █ ▀█▀
-█▄▄ █▀█  █  ██▄   █ ▀█ █ █▄█ █▀█  █ 
+█▄▄ █▀█  █  ██▄   █ ▀█ █ █▄█ █▀█  █
 
 Film Opportunity
 	1	How To Get Noticed by Not Being Seen
@@ -343,7 +343,7 @@ Recipes
 	8	Tri-Tip Tofu Steak
 	9	Stuffed Tursoykey
 
-█▀ █ █ █▀█ █▀▀ █▀█ █▄ █ ▄▀█ ▀█▀ █ █ █▀█ ▄▀█ █  
+█▀ █ █ █▀█ █▀▀ █▀█ █▄ █ ▄▀█ ▀█▀ █ █ █▀█ ▄▀█ █
 ▄█ █▄█ █▀▀ ██▄ █▀▄ █ ▀█ █▀█  █  █▄█ █▀▄ █▀█ █▄▄
 
 Biography
@@ -511,20 +511,20 @@ Comics
 	Mighty Mutants
 	Mystery Man
 	Neo-Knight Noir
-	Outrageous Adventure	
+	Outrageous Adventure
 	Plasma Bug
 	Quickfoot
-	Ratticator	
+	Ratticator
 	Sagebrush and Sixguns
-	Shinjuku Baseball Kata	
+	Shinjuku Baseball Kata
 	Sports Team Extreme
-	Supercute Magical Girl Maya	
+	Supercute Magical Girl Maya
 	Tales From The Mine
 	The Inedible Bulk
 	Toadsim Ninjas
 	Upperclass Man
 	Volcanic Mechanic
-	Werecat and Womrat	
+	Werecat and Womrat
 	Xenophobic Travelogue
 UNLISTED GENRE
 	Science Fiction

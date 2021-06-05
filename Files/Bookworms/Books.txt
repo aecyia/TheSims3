@@ -58,9 +58,9 @@ Compositions [ Levels 5 – 9 ]
 	Guitar
 Bait
 	+	The cover pictures for the following are different levels and do not align with the other cover pictures
+	+	Generally, the order from lowest fishing skill to highest is: Purple, Green, Blue
 		1	All that Glitters is Goldfish
 		2	Glitter Tragedy: Trout and Clownfish Baiting Technique
-	+	Generally, the order from lowest fishing skill to highest is: Purple, Green, Blue
 		1	The Wee Swimmers: Reeling Anchovy and Minnow
 		1	The Wiskered Deep: Catfish and You
 		1	All that Glitters is Goldfish
@@ -183,6 +183,7 @@ Skill Books
 Comics
 	Advice: Regular Bookshop prices are lower than Nerd Shop prices
 		35 books
+
 █ █ █ █▀█ █▀█ █   █▀▄   ▄▀█ █▀▄ █ █ █▀▀ █▄ █ ▀█▀ █ █ █▀█ █▀▀ █▀		China	France
 ▀▄▀▄▀ █▄█ █▀▄ █▄▄ █▄▀   █▀█ █▄▀ ▀▄▀ ██▄ █ ▀█  █  █▄█ █▀▄ ██▄ ▄█		Egypt	<3
 

@@ -140,8 +140,7 @@ Writing Class
 █▀▀ █ █ ▄▀█ █▀█ ▀█▀ █▀
 █▄▄ █▀█ █▀█ █▀▄  █  ▄█
 
-Refer to the .png and .drawio files in the same folder
-
+Refer to the Bookworms.drawio file in the same folder
 
 █▄ █ ▄▀█ █▀▄▀█ █ █▄ █ █▀▀
 █ ▀█ █▀█ █ ▀ █ █ █ ▀█ █▄█
