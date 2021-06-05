@@ -11,7 +11,7 @@ Achievements Concluded ( & therefore can't get ) : Winter Shminter ( Seasons )
 █▄▄ █▄█ █▀▄ █▀▄ ██▄ █ ▀█  █  ::	▄█ █▀█ █▄█ ▀▄▀▄▀  █  █ █ ▀ █ ██▄
 
 
-+	diva sim -- request 30 compliments from other sims
++	diva trait -- request 30 compliments from other sims
 +	WIN A SIMFEST AS S / A / M
 	+	Park
 	+	coffeehouse
