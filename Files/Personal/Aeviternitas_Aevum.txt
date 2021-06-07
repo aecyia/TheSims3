@@ -1,0 +1,41 @@
+DLCs		Base Game, Showtime, Master Suite, Fast Lane
+Link		https://www.thesims3.com/assetDetail.html?assetId=9466169
+Created		07 June 2021
+Author		BunnieNoiz
+Inspiration	https://sims.fandom.com/wiki/Butler#The_Sims_3:_Late_Night
+Inspiration	Sebastian Michaelis, Alfred Pennyworth, Gotoh ( HxH )
+
+Sim			Aeternum Aevum
+Sex			Male
+Gender		Male
+Age			Young Adult
+Subtype		Human========================Vampire
+
+Skin		Light
+Weight		Boney
+
+Parents		Unknown
+Spouse		None
+Children	None
+Family		None
+
+Traits		Neat, Loves The Outdoors, Friendly, Natural Cook, Handy
+
+Aeternum	Eternally, always, perpetually, constantly
+Aevum		The midpoint between time and eternity; the mode of being of the angels, saints, and celestial bodies
+Purpose		Gentleman, butler, and caretaker of the main household
+Backstory	Aeternum is a well-learned, intelligent, knowledgeable, and well-traveled man of many experiences. He serves the main household with great pride,
+
+History
+07 June 2021
++	DLCs
+	+	Base Game
+	+	Stuff Packs
+	+	Ambitions
+	+	Into the Future
+	+	Late Night
+	+	Showtime
+	+	Supernatural
+	+	University Life
+	+	World Adventures
++

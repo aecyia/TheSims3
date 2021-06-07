@@ -80,6 +80,7 @@ In-Game Options
 	+	Graphics Tab
 		+	Lowest setting for all
 		+	Enable Object Hiding
+		+	Fullscreen = less frames per second
 	+	General Settings Tab
 		+	Disable these if you don't need / use them:
 			+	Shop Mode
