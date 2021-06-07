@@ -1,18 +1,20 @@
 Author		BunnieNoiz
 Created		07 June 2021
-Link		---
-DLCs		---
-Inspiration	https://sims.fandom.com/wiki/Butler#The_Sims_3:_Late_Night
-Inspiration	Sebastian Michaelis, Alfred Pennyworth, Gotoh ( HxH )
-Disclaimer	Not actually a butler NPC, but you can add him as a Sim to your household and have him do butler things
+Link		https://www.thesims3.com/assetDetail.html?assetId=9466249
+DLCs		Base Game, Supernatural, Showtime, Into The Future, Late Night, Fast Lane, Town Life
+
+Inspiration		https://sims.fandom.com/wiki/Butler#The_Sims_3:_Late_Night
+Inspiration		Sebastian Michaelis, Alfred Pennyworth, Gotoh ( HxH )
+Derivative Of	https://www.thesims3.com/assetDetail.html?assetId=9466169
+Disclaimer		Not actually a butler NPC, but you can add him as a Sim to your household and have him do butler things
 
 Sim			Aeternum Aevum
-Sex			Male
 Gender		Male
 Age			Young Adult
-Subtype		Human
+Subtype		Vampire
 
-Skin		Light
+Skin		None
+Build		Ripped
 Weight		Boney
 
 Parents		Unknown
@@ -20,7 +22,12 @@ Spouse		None
 Children	None
 Family		None
 
-Traits		Neat, Loves The Outdoors, Friendly, Natural Cook, Handy
+Traits			Natural Cook, Proper, Neat, Handy, Green Thumb
+Lifetime Wish	Renaissance Sim
+Favorite Food	Sushi
+Favorite Music	Classical
+Favorite Colour	White
+Astro Sign 		Gemini
 
 Aeternum		Eternally, always, perpetually, constantly
 Aevum			The midpoint between time and eternity; the mode of being of the angels, saints, and celestial bodies
@@ -75,9 +82,3 @@ Skills
 		+	Advanced Technology
 		+	Bot Building
 		+	Laser Rhythm-A-Con
-
-
-History
-
-07 June 2021
-+	Moved to Sunset Valley
