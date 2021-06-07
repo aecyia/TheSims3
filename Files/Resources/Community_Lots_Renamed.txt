@@ -1,0 +1,104 @@
+https://www.carls-sims-3-guide.com/buildedit/edittownlots.php
+https://sims.fandom.com/wiki/Lot_assignment#The_Sims_3
+
+Base Game
+	Art gallery
+	Beach
+	Big park
+	Big shop - Grocery
+	City hall
+	Criminal hideout - Abandoned warehouse
+	Day spa
+	Fishing spot
+	Graveyard
+	Gym
+	Hospital
+	Library
+	Military base
+	No visitors allowed
+	Police station
+	Pool
+	Restaurant - Bistro
+	Restaurant - Diner
+	Science lab
+	Small park
+	Small shop - Bookstore
+	Stadium
+	Theater
+	Visitors allowed
+World Adventures
+	Academy
+	Base camp ( Adventure destination only )
+	Chinese garden
+	Hidden tomb ( Create a World only )
+	Landmark tomb ( Adventure destination only )
+	Market ( Adventure destination only )
+	Nectary
+	Small market ( Adventure destination only )
+Ambitions
+	Consignment store
+	Fire station
+	Hangout
+	Junkyard
+	Junkyard with no visitors
+	Laundromat
+	Salon
+Late Night
+	Dive bar
+	Local watering hole
+	Sports bar
+	Dance club
+	Disco club
+	Poolside club
+	Exclusive lounge
+	Fusion lounge
+	Vampire lounge
+Pets
+	Cat jungle
+	Dive bar criminal ( Create a World only )
+	Dog park
+	Equestrian center
+	Horse ranch
+	Pet store ( requires pet shop register object from the limited edition )
+Showtime
+	Big show venue
+	Coffeehouse
+	Live show venue
+	Private venue
+Supernatural
+	Elixir consignment store
+	Supernatural hangout
+	Arboretum
+	Gypsy wagon
+	Mausoleum
+	Vault of Antiquity
+Seasons
+	Festival grounds
+University Life
+	Arcade
+	Dormitory ( University world only )
+	Fraternity ( University world only )
+	Group science park ( University world only )
+	Java hut
+	Nerd shop
+	Rebel hangout
+	Sorority ( University world only )
+	Student union
+	University hangout
+Island Paradise
+	Diving area ( Create a World only )
+	Port
+	Resort
+Into the Future
+	Base camp ( Future world only )
+	Bot emporium
+	Business park
+	Cafeteria
+	Dried up beach
+	Future lounge
+	Gallery shop
+	Plumbot competition arena
+	Recreational park ( Future world only )
+	Wasteland
+	Stellar observatory
+	ZEPHYR stop
