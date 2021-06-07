@@ -1,8 +1,5 @@
-█▀ █▀█ ▄▀█ █▀▀ █▀▀   █▀█ █▀█ █▀▀ █▄▀ █▀
-▄█ █▀▀ █▀█ █▄▄ ██▄   █▀▄ █▄█ █▄▄ █ █ ▄█
-
-https://www.carls-sims-3-guide.com/skills/collecting/rocks.php
-https://sims.fandom.com/wiki/Rock_collecting
+█▀█ █▀▀ █▀ █▀█ █ █ █▀█ █▀▀ █▀▀ █▀ 	https://sims.fandom.com/wiki/Rock_collecting
+█▀▄ ██▄ ▄█ █▄█ █▄█ █▀▄ █▄▄ ██▄ ▄█ 	https://www.carls-sims-3-guide.com/skills/collecting/rocks.php
 
 Acapulcoite						GLT		70%
 Angrite							LT		100%

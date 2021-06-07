@@ -1,13 +1,3 @@
-This is a sample text file for everything to collect:
-Insects
-	Butterflies
-	Fireflies
-	Beetles
-	Nanites
-Gems
-Metals
-Space Rocks
-
 █▄▄ █ █ ▀█▀ ▀█▀ █▀▀ █▀█ █▀▀ █   █ █▀▀ █▀
 █▄█ █▄█  █   █  ██▄ █▀▄ █▀  █▄▄ █ ██▄ ▄█
 
@@ -74,24 +64,24 @@ Late Night
 █▄ █ ▄▀█ █▄ █ █ ▀█▀ █▀▀ █▀
 █ ▀█ █▀█ █ ▀█ █  █  ██▄ ▄█
 
-Neutron	
-Caustic	
-Quantum	
-Scalar	
-Lite	
-Lepton	
-Tribble	
+Neutron
+Caustic
+Quantum
+Scalar
+Lite
+Lepton
+Tribble
 Heisenberg
 Condensor
 Tunnelling
-Torque	
+Torque
 Induction
-Polar	
-Thermo	
+Polar
+Thermo
 Dispersion
 Entropic
-Optic	
-Damping	
+Optic
+Damping
 Prismatic
 Uber
 
@@ -119,7 +109,7 @@ Ruby
 Septarian Nodule
 Smithsonite
 Smoky Quartz
-Soulpeace	
+Soulpeace
 Sunstone
 Tanzanite
 Tiberium
@@ -131,8 +121,8 @@ Yellow Sapphire
 █ ▀ █ ██▄  █  █▀█ █▄▄ ▄█
 
 Iron
-Silver 
-Gold 
+Silver
+Gold
 Palladium
 Plutonium
 Copper
@@ -140,7 +130,7 @@ Mummitomium
 Iridium
 Titanium
 Platinum
-Mercury	
+Mercury
 Compendium
 Supernovium
 Woohooium

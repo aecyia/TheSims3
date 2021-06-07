@@ -1,14 +1,8 @@
-█ █▄ █ █▀ █▀▀ █▀▀ ▀█▀ █▀
-█ █ ▀█ ▄█ ██▄ █▄▄  █  ▄█
+█ █▄ █ █▀ █▀▀ █▀▀ ▀█▀ █▀	https://simswiki.info/wiki.php?title=Game_Help:Sims_3_Bug_Collecting
+█ █ ▀█ ▄█ ██▄ █▄▄  █  ▄█	https://sims.fandom.com/wiki/Bug_collecting#The_Sims_3
 
-https://simswiki.info/wiki.php?title=Game_Help:Sims_3_Bug_Collecting
-https://sims.fandom.com/wiki/Bug_collecting#The_Sims_3
-
-
-█▄▄ █ █ ▀█▀ ▀█▀ █▀▀ █▀█ █▀▀ █   █ █▀▀ █▀
-█▄█ █▄█  █   █  ██▄ █▀▄ █▀  █▄▄ █ ██▄ ▄█
-
-https://www.carls-sims-3-guide.com/skills/collecting/butterflies.php
+█▄▄ █ █ ▀█▀ ▀█▀ █▀▀ █▀█ █▀▀ █   █ █▀▀ █▀	https://sims.fandom.com/wiki/Bug_collecting#Butterflies
+█▄█ █▄█  █   █  ██▄ █▀▄ █▀  █▄▄ █ ██▄ ▄█	https://www.carls-sims-3-guide.com/skills/collecting/butterflies.php
 
 Base Game
 	Green Swallowtail Butterfly
@@ -36,8 +30,8 @@ Late Night
 	Blue Will-O'-The-Wisp
 	Pink Will-O'-The-Wisp
 
-█▀▀ █ █▀█ █▀▀ █▀▀ █   █ █▀▀ █▀
-█▀  █ █▀▄ ██▄ █▀  █▄▄ █ ██▄ ▄█
+█▀▀ █ █▀█ █▀▀ █▀▀ █   █ █▀▀ █▀	https://sims.fandom.com/wiki/Bug_collecting#Butterflies
+█▀  █ █▀▄ ██▄ █▀  █▄▄ █ ██▄ ▄█	https://www.carls-sims-3-guide.com/skills/collecting/butterflies.php
 
 Showtime
 	Firefly albus 		White
@@ -49,10 +43,8 @@ Showtime
 	Firefly roseus		Pink
 	Firefly purpureus	Purple
 
-█▄▄ █▀▀ █▀▀ ▀█▀ █   █▀▀ █▀
-█▄█ ██▄ ██▄  █  █▄▄ ██▄ ▄█
-
-https://www.carls-sims-3-guide.com/skills/collecting/bugs.php
+█▄▄ █▀▀ █▀▀ ▀█▀ █   █▀▀ █▀	https://sims.fandom.com/wiki/Bug_collecting#Beetles
+█▄█ ██▄ ██▄  █  █▄▄ ██▄ ▄█	https://www.carls-sims-3-guide.com/skills/collecting/bugs.php
 
 Base Game
 	Cockroach
@@ -73,10 +65,10 @@ Late Night
 	Termite
 	Spider
 
-█▄ █ ▄▀█ █▄ █ █ ▀█▀ █▀▀ █▀
-█ ▀█ █▀█ █ ▀█ █  █  ██▄ ▄█ [ Into the Future DLC ]
+█▄ █ ▄▀█ █▄ █ █ ▀█▀ █▀▀ █▀	https://www.carls-sims-3-guide.com/skills/collecting/intothefuture/nanites.php
+█ ▀█ █▀█ █ ▀█ █  █  ██▄ ▄█	https://sims.fandom.com/wiki/Bug_collecting#Nanites
 
-https://www.carls-sims-3-guide.com/skills/collecting/intothefuture/nanites.php
+INTO THE FUTURE
 
 Neutron		Common
 Caustic		Common
