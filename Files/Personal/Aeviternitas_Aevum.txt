@@ -1,15 +1,16 @@
-DLCs		Base Game, Showtime, Master Suite, Fast Lane
-Link		https://www.thesims3.com/assetDetail.html?assetId=9466169
-Created		07 June 2021
 Author		BunnieNoiz
+Created		07 June 2021
+Link		---
+DLCs		---
 Inspiration	https://sims.fandom.com/wiki/Butler#The_Sims_3:_Late_Night
 Inspiration	Sebastian Michaelis, Alfred Pennyworth, Gotoh ( HxH )
+Disclaimer	Not actually a butler NPC, but you can add him as a Sim to your household and have him do butler things
 
 Sim			Aeternum Aevum
 Sex			Male
 Gender		Male
 Age			Young Adult
-Subtype		Human========================Vampire
+Subtype		Human
 
 Skin		Light
 Weight		Boney
@@ -21,14 +22,14 @@ Family		None
 
 Traits		Neat, Loves The Outdoors, Friendly, Natural Cook, Handy
 
-Aeternum	Eternally, always, perpetually, constantly
-Aevum		The midpoint between time and eternity; the mode of being of the angels, saints, and celestial bodies
-Purpose		Gentleman, butler, and caretaker of the main household
-Backstory	Aeternum is a well-learned, intelligent, knowledgeable, and well-traveled man of many experiences. He serves the main household with great pride,
+Aeternum		Eternally, always, perpetually, constantly
+Aevum			The midpoint between time and eternity; the mode of being of the angels, saints, and celestial bodies
+Purpose			Gentleman, butler, and caretaker of the main household
+Intention		If you want to take care of Sims as a butler, you can use the University life pack for roommates, then take care of them as needed
+Description		Aeternum is a well-learned, intelligent, knowledgeable, and well-traveled man of many experiences. He serves the main household with great pride, loyalty, love, and care. He does many tasks including: cleaning the house, does the laundry, washing dishes, serving delicious food of the highest quality, buys food and other essentials, tends to the garden, watering plants, making beds, fending off obsessive fans, caring for babies and children, tutoring children, feeding and cleaning up after pets, protecting the main family from harm ( such as fires, burglars, and other life-threatening situations ), repairing broken objects and electronics, evicting party crashers, entertain party guests with their musical talent and skills, interacting with Sims, giving wondrous insights and advice, answers house phones, and much more. He is the butler, maid, gardener, repairman, nanny, deliveryman, and bodyguard all at once.
 
-History
-07 June 2021
-+	DLCs
+
+DLCs
 	+	Base Game
 	+	Stuff Packs
 	+	Ambitions
@@ -38,4 +39,45 @@ History
 	+	Supernatural
 	+	University Life
 	+	World Adventures
-+
+Skills
+	+	Base Game
+		+	Athletic
+		+	Charisma
+		+	Cooking
+		+	Fishing
+		+	Gardening
+		+	Guitar
+		+	Handiness
+		+	Logic
+		+	Painting
+		+	Writing
+		+	Collecting
+	+	World Adventures
+		+	Martial Arts
+		+	Nectar Making
+		+	Photography
+	+	Ambitions
+		+	Inventing
+		+	Sculpting
+		+	Consignment
+	+	Late Night
+		+	Bass
+		+	Drums
+		+	Mixology
+		+	Piano
+	+	Supernatural
+		+	Alchemy
+	+	University Life
+		+	Science
+		+	Social Networking
+		+	Street Art
+	+	Into the Future
+		+	Advanced Technology
+		+	Bot Building
+		+	Laser Rhythm-A-Con
+
+
+History
+
+07 June 2021
++	Moved to Sunset Valley
