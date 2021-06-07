@@ -1,17 +1,3 @@
-█▀█ █▀▀ █▀ █▀█ █ █ █▀█ █▀▀ █▀▀ █▀ 	https://sims.fandom.com/wiki/Writing_(The_Sims_3)
-█▀▄ ██▄ ▄█ █▄█ █▄█ █▀▄ █▄▄ ██▄ ▄█	https://sims.fandom.com/wiki/List_of_books_in_The_Sims_3
-
-█▄ █ █▀█ ▀█▀ █▀▀ █▀
-█ ▀█ █▄█  █  ██▄ ▄█
-
-+	Similar to Books.txt but with less notes
-+	A full list of official books for collectors
-+	Titles only
-+	Skill books #s are of the Volume number, not the level number
-	+	1 is Level 0
-	+	2 is Level 3
-	+	3 is Level 6
-
 █▄▄ ▄▀█ █▀ █▀▀   █▀▀ ▄▀█ █▀▄▀█ █▀▀
 █▄█ █▀█ ▄█ ██▄   █▄█ █▀█ █ ▀ █ ██▄
 

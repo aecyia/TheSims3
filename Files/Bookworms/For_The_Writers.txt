@@ -1,53 +1,95 @@
-█▀█ █▀▀ █▀ █▀█ █ █ █▀█ █▀▀ █▀▀ █▀	https://www.carls-sims-3-guide.com/skills/writing/book-type-list.php
-█▀▄ ██▄ ▄█ █▄█ █▄█ █▀▄ █▄▄ ██▄ ▄█	https://sims.fandom.com/wiki/Writing_(The_Sims_3)
-
 █▀ ▀█▀ ▄▀█ ▀█▀ █ █▀ ▀█▀ █ █▀▀ █▀
 ▄█  █  █▀█  █  █ ▄█  █  █ █▄▄ ▄█
 
-+
-+
-+
-+
++	Books Read
++	Current Book Completed
++	Completed Books
++	Scrapped Writings
++	Pages Written
++	Flops
++	Hits
++	Best Sellers
++	Most Experienced Genre
++	Most Profitable Book
++	Money Earned Writing
++	Current Weekly Royalties
 
-Challenges			Requirement				Bonus / Reward
-
+Challenges			Requirement						Bonus / Reward
+Speed Writer		§30,000 in Royalties			Write quicker
+Prolific Writer		Write 20 books 					Higher chance of writing best-sellers
+Specialist Writer	5 novels in a specific genre	More hits + best-sellers in the particular genre
 
 █▀█ █▀█ █▀█ █▀▀ █▀▀ █▀ █▀ █ █▀█ █▄ █ █▀
 █▀▀ █▀▄ █▄█ █▀  ██▄ ▄█ ▄█ █ █▄█ █ ▀█ ▄█
 
-+
-+
++	Base Game: Journalism career track
++	Ambitions DLC: Self-Employed writer
 
 █ █ █▀█ █ █ █   ▀█▀ █▀█   █ █▀▄▀█ █▀█ █▀█ █▀█ █ █ █▀▀
 █▀█ █▄█ ▀▄▀▄▀    █  █▄█   █ █ ▀ █ █▀▀ █▀▄ █▄█ ▀▄▀ ██▄
 
++	Income
+	+	Per completed book: 12 PM Sundays for 6 weeks
+	+	Every Chapter ( Every 20% ): Small payments
+	+	Death of author sim: No payments to household
 +	Writing at the computer
-+
-+
-+
-+
-+
+	+	Computer Whiz Trait
+	+	Use the computers at the library
++	Lifetime Reward: Acclaimed Author
++	Wishes
+	+	Can take up a lot of slot space
+	+	Frequently available
+	+	Making # royalties
+	+	Writing # novels
+	+	Writing specific genres
++	Specialist Genre / Specialization
+	+	First genre with that completes 5 novels
+	+	List: Trashy > Drama > Science Fiction > Fantasy > Humor > Satire > Mystery > Romance > Historical > Children > Vaudeville > Biography > Article > Autobiography > Masterpiece > Political Memoir > Life Story > Fiction > Non-fiction > Poetry > Horror > Sports > Comic
++	Supernatural Skeptics cannot write Horror genres
++	Toddler Books
+	+	Bluish Eggs With a Side of Pastrami
+	+	Frank I'm Not
+	+	Oh the Destinations You'll Briefly Visit
++	Writing novels instead of refining writing skills
+	+	Increases writing skill
+		+	Refine writing skills = faster rate to next level
+	+	Increases total book count
++	Writing class: Business building
++	Higher difficulty rating >> Longer to write >> Higher earnings
++	Read more books
 
 █ █ █▀ █▀▀ █▀▀ █ █ █     ▀█▀ █▀█ ▄▀█ █ ▀█▀ █▀
 █▄█ ▄█ ██▄ █▀  █▄█ █▄▄    █  █▀▄ █▀█ █  █  ▄█
 
-+
-+
++	Bookworm: Bonus to writing quality + writing novels faster
++	Artistic: More Bonus
++	Computer Whiz: Enjoy playing on computer more + fix broken computers faster
++	Handy: Fixes broken things faster
++	Hates the Outdoors: Never go Stir-Crazy
++	Adventurous: Longer to become Stir-Crazy ( 9 days )
++	Insane: Social need fulfilled by talking to self
++	Green Thumb: Social need fulfilled by talking to plants
++	Loner: Needs less Social interaction than others; mood boost when alone
++	No Sense of Humor: Halved need for Fun
++	Perfectionist: Longer to complete; Better quality
++	Slob: Sims don't mind a dirty house or body
++	Couch Potato: Fun mood boost from comfy chair, TV, etc.
++	Neurotic: Decrease stress from "Freak Out" interaction
 
 ▄▀█ █▄▄ █ █   █ ▀█▀ █ █▀▀ █▀
-█▀█ █▄█ █ █▄▄ █  █  █ ██▄ ▄█
+█▀█ █▄█ █ █▄▄ █  █  █ ██▄ ▄█	non-trait specific
 
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
+0	Fiction, Non, Fiction
+1	Science Fiction
+2	Trashy
+3	Drama, Children's, Sports
+4	Horror
+5	Humor
+6	Historical ( Elders only )
+7	Poetry
+8	Mystery
+9	-
+10	Romance
 
 █▀█ █▀█ █▀█ █▀█ █▀█ ▀█▀ █ █ █▄ █ █ ▀█▀ █ █▀▀ █▀
 █▄█ █▀▀ █▀▀ █▄█ █▀▄  █  █▄█ █ ▀█ █  █  █ ██▄ ▄█
@@ -107,6 +149,16 @@ Writing Class
 	+	requires World Adventures
 	+	fills Fun 25% faster
 
+█   █ █▀▀ █▀▀ ▀█▀ █ █▀▄▀█ █▀▀   █ █ █ █ █▀ █ █ █▀▀ █▀
+█▄▄ █ █▀  ██▄  █  █ █ ▀ █ ██▄   ▀▄▀▄▀ █ ▄█ █▀█ ██▄ ▄█
+
++	Illustrious Author
+	+	Max painting and writing skills
++	Professional Author
+	+	4,000 a week in royalties
++	Star News Anchor
+	+	Journalism Career Level 10
+
 █▀▀ █▄ █ █ █ █ █▀█ █▀█ █▄ █ █▀▄▀█ █▀▀ █▄ █ ▀█▀
 ██▄ █ ▀█ ▀▄▀ █ █▀▄ █▄█ █ ▀█ █ ▀ █ ██▄ █ ▀█  █
 
@@ -119,23 +171,22 @@ Writing Class
 	+10	Decorated
 	+25 Nicely Decorated
 	+40 Beautifully Decorated
-	+	Achieved by
-		+	Plants
-			+	Flame Fruit
-			+	Decorations
-		+	Statues
-		+	Paintings
-		+	Furniture
-			+	Your desk chair
-				+	Comfy Moodlet
-			+	Stereo
-				+	Turned on, in the same room
-				+	Favourite music playing
-				+	Better quality speakers
-			+	Fireplace
-				+	Fireplace Homestead ( LTR )
-				+	Handiness upgrade
-				+	Cozy Fire moodlet
+	+	Plants
+		+	Flame Fruit
+		+	Decorations
+	+	Statues
+	+	Paintings
+	+	Furniture
+		+	Your desk chair
+			+	Comfy Moodlet
+		+	Stereo
+			+	Turned on, in the same room
+			+	Favourite music playing
+			+	Better quality speakers
+		+	Fireplace
+			+	Fireplace Homestead ( LTR )
+			+	Handiness upgrade
+			+	Cozy Fire moodlet
 
 █▀▀ █ █ ▄▀█ █▀█ ▀█▀ █▀
 █▄▄ █▀█ █▀█ █▀▄  █  ▄█
