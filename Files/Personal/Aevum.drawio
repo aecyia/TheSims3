@@ -1,0 +1,16 @@
+<mxfile>
+    <diagram id="UOW7m2ev4oPxLiBa1cgc" name="Sunset Valley">
+        <mxGraphModel dx="442" dy="289" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="252" value="&lt;span style=&quot;font-size: 15px&quot;&gt;A&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=none;strokeColor=#FF0080;" parent="1" vertex="1">
+                    <mxGeometry x="1000" y="40" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="304" value="&lt;font style=&quot;font-size: 14px&quot;&gt;A&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#00FFFF;" vertex="1" parent="1">
+                    <mxGeometry x="880" y="40" width="80" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
