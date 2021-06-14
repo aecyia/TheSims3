@@ -1,21 +1,21 @@
 █▀ ▀█▀ ▄▀█ ▀█▀ █ █▀ ▀█▀ █ █▀▀ █▀
 ▄█  █  █▀█  █  █ ▄█  █  █ █▄▄ ▄█
 
-+	Books Read
-+	Current Book Completed
-+	Completed Books
-+	Scrapped Writings
-+	Pages Written
-+	Flops
-+	Hits
-+	Best Sellers
-+	Most Experienced Genre
-+	Most Profitable Book
-+	Money Earned Writing
-+	Current Weekly Royalties
++	Books Read: 0
++	Current Book Completed: 0 %
++	Completed Books: 0
++	Scrapped Writings: 0
++	Pages Written: 0
++	Flops: 0
++	Hits: 0
++	Best Sellers: 0
++	Most Experienced Genre: -
++	Most Profitable Book: - ( Royalties: § 0 per week )
++	Money Earned Writing: § 0
++	Current Weekly Royalties: § 0
 
 Challenges			Requirement						Bonus / Reward
-Speed Writer		§30,000 in Royalties			Write quicker
+Speed Writer		§ 30,000 in Royalties			Write quicker
 Prolific Writer		Write 20 books 					Higher chance of writing best-sellers
 Specialist Writer	5 novels in a specific genre	More hits + best-sellers in the particular genre
 

@@ -5,10 +5,10 @@
 ▄█  █  █▀█  █  █ ▄█  █  █ █▄▄ ▄█
 
 +	Number Caught: 0
-+	Fish Types Caught: 0%
++	Fish Types Caught: 0 %
 +	Heaviest Fish Caught: - ( 0 kg )
-+	Most Money Earned from Selling a Fish: - for §0
-+	Total Money Earned from Fishing: §0
++	Most Money Earned from Selling a Fish: - for § 0
++	Total Money Earned from Fishing: § 0
 
 █▀▀ █ █ ▄▀█ █   █   █▀▀ █▄ █ █▀▀ █▀▀ █▀
 █▄▄ █▀█ █▀█ █▄▄ █▄▄ ██▄ █ ▀█ █▄█ ██▄ ▄█
