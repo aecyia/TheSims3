@@ -31,10 +31,10 @@ Documents\Electronic Arts\The Sims 3\FeaturedItems
 		7	Select the User with which you play the game again
 		8	Find the Write
 		9	Check the box for Deny
-		10	Okay ( 2nd window )
+		10	Okay
 		11	Read the Windows Security popup
 		12	Yes
-		13	Okay ( 1st window )
+		13	Okay
 Program Files (x86)\Steam\steamapps\common\The Sims 3\Game\Bin
 	+	Open GraphicsRules.sgr with a text editor ( such as Notepad )
 	1	Find this
@@ -59,28 +59,12 @@ Program Files (x86)\Steam\steamapps\common\The Sims 3\Game\Bin
 		seti cardLevelMedium	3
 		seti cardLevelLowmedium	3
 		seti cardLevelLow		3
-Combine all your custom content packages with S3PE
-	+	Opens one file instead of multiple = runs faster with the same amount of space taken up
-	1	Download your custom content + mods
-	2	Extract it into .package files
-	3	Download: https://sourceforge.net/projects/sims3tools/
-	4	Install S3PE
-	5	Run S3PE
-	6	File >> New		OR	CTRL + N
-	7	Resource >> Import >> From Package
-	8	Select your packages
-	9	Open
-	10	Import
-	11	No
-	12	Select File >> Save As
-	13	Name your file
-	14	Wait for S3PE to combine it all
-	15	Move the new file to the mods or custom content folder
+	5	Save the file
 In-Game Options
 	+	Graphics Tab
 		+	Lowest setting for all
 		+	Enable Object Hiding
-		+	Fullscreen = less frames per second
+		+	Fullscreen = less frames per second = slower
 	+	General Settings Tab
 		+	Disable these if you don't need / use them:
 			+	Shop Mode
@@ -93,6 +77,7 @@ Disabling the Launcher
 	1	Rename the Sims3Launcher.exe to Sims3LauncherOld.exe ( or anything you want )
 	2	Rename TS3.exe to Sims3Launcher.exe
 NRaas Mods
+	+	https://www.nraas.net/community/Mods-List
 	+	Purpose
 		+	Resetting sims, towns, objects, etc.
 		+	Catching errors, resolving them
@@ -110,6 +95,23 @@ How to get Mods
 	6	Mod Scripts Found DIALOG
 	7	Packages loaded
 	8	Start save file
+Combine all your custom content packages with S3PE
+	+	Opens one file instead of multiple = runs faster with the same amount of space taken up
+	1	Download your custom content + mods
+	2	Extract it into .package files
+	3	Download: https://sourceforge.net/projects/sims3tools/
+	4	Install S3PE
+	5	Run S3PE
+	6	File >> New		OR	CTRL + N
+	7	Resource >> Import >> From Package
+	8	Select your packages
+	9	Open
+	10	Import
+	11	No
+	12	Select File >> Save As
+	13	Name your file
+	14	Wait for S3PE to combine it all
+	15	Move the new file to the mods or custom content folder
 Other General Actions
 	+	Not running any other applications in the background as you play
 	+	Loading a different save game or creating a new game
