@@ -65,8 +65,6 @@ Achievements Concluded ( & therefore can't get ) : Winter Shminter ( Seasons )
 		+	Gold and Toads
 		+	Inner Beauty
 		+	Flight of Felicity
-+	vampire
-	+	turn 8 sims into vampires
 +	werewolf
 	+	eat 30 raw fish or meat
 	+	marry a vampire
