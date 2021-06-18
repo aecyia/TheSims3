@@ -1,0 +1,18 @@
+Colours for Occults and Life States
+
+NONE
+Mummy
+SimBot
+Imaginary Friend
+Unicorn
+Genie
+Ghost
+Toads
+Tragic Clown
+Zombie
+Alien
+
+Purple	Vampire
+Green	Fairy
+Brown	Werewolf
+Yellow	Witch

@@ -10,7 +10,6 @@ Achievements Concluded ( & therefore can't get ) : Winter Shminter ( Seasons )
 █▀▀ █ █ █▀█ █▀█ █▀▀ █▄ █ ▀█▀ ::	█▀ █ █ █▀█ █ █ █ ▀█▀ █ █▀▄▀█ █▀▀
 █▄▄ █▄█ █▀▄ █▀▄ ██▄ █ ▀█  █  ::	▄█ █▀█ █▄█ ▀▄▀▄▀  █  █ █ ▀ █ ██▄
 
-
 +	diva trait -- request 30 compliments from other sims
 +	WIN A SIMFEST AS S / A / M
 	+	Park
@@ -75,15 +74,10 @@ Achievements Concluded ( & therefore can't get ) : Winter Shminter ( Seasons )
 	+	lifetime wish
 	+	give 25 fairy enchantments
 +	celebrity psychic
-	+	lifetime wish
 	+	hold 5 psychic conventions
 +	genie
 	+	ensorcel 100 sims
-+	fortune teller
-	+	LVL 1 >> horoscope reader >> ask 5 sims their sign
-	+	LVL 4 >> palm reader >> conduct 2 private readings
 +	female sim -- 15 fairy partners, break up 14
-+	male sim -- 15 witch partners, break up 14
 +	complete the OH My Ghost opportunity
 	1	be close to someone who died
 		+	friend, good friend, best friend, BFF

@@ -13,6 +13,7 @@
 +	lifetime rewards
 +	traits
 +	RELIC HUNTER
++	Food folder: gardening, fishing, cooking, nectar, etc.
 
 band = skill ? https://sims.fandom.com/wiki/Opportunity/Band
 
