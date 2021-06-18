@@ -2,20 +2,6 @@
 
 + This file is to introduce the files in the folder: Bookworms
 
-## Books.txt
-
-+ A list of books that you can buy, write, and collect sorted by DLCs >> Genre
-
-## Bookworms.drawio
-
-+ A sample library setup
-
-+ A map of genres based on writing prerequisites and requirements
-
-## For_The_Writers.txt
-
-+ A full guide for the writing skill
-
 ## Books_List.txt
 
 + Similar to Books.txt but with less notes
@@ -32,6 +18,25 @@
 
   + 3 is Level 6
 
+## Books.txt
+
++ A list of books that you can buy, write, and collect sorted by DLCs >> Genre
+
+## Bookworms.drawio
+
++ A sample library setup
+
++ A map of genres based on writing prerequisites and requirements
+
+## For_The_Writers.txt
+
++ A full guide for the writing skill
+
+## Environment.txt
+
++ Environmental factors that can boost performance, quality, comfort, etc.
+
+
 ## Resources
 
 + https://sims.fandom.com/wiki/List_of_books_in_The_Sims_3
@@ -39,3 +44,5 @@
 + https://sims.fandom.com/wiki/Writing_(The_Sims_3)
 
 + https://www.carls-sims-3-guide.com/skills/writing/
+
++ http://simswiki.info/wiki.php%3Ftitle%3DGame_Help:Sims_3_Books

@@ -1,0 +1,39 @@
+█ █ █▀ █▀▀ █▀▀ █ █ █     ▀█▀ █▀█ ▄▀█ █ ▀█▀ █▀
+█▄█ ▄█ ██▄ █▀  █▄█ █▄▄    █  █▀▄ █▀█ █  █  ▄█
+
++	Bookworm: Bonus to writing quality + writing novels faster
++	Artistic: More Bonus
++	Computer Whiz: Enjoy playing on computer more + fix broken computers faster
++	Handy: Fixes broken things faster
++	Hates the Outdoors: Never go Stir-Crazy
++	Adventurous: Longer to become Stir-Crazy ( 9 days )
++	Insane: Social need fulfilled by talking to self
++	Green Thumb: Social need fulfilled by talking to plants
++	Loner: Needs less Social interaction than others; mood boost when alone
++	No Sense of Humor: Halved need for Fun
++	Perfectionist: Longer to complete; Better quality
++	Slob: Sims don't mind a dirty house or body
++	Couch Potato: Fun mood boost from comfy chair, TV, etc.
++	Neurotic: Decrease stress from "Freak Out" interaction
+
+▀█▀ █▀█ ▄▀█ █ ▀█▀ █▀
+ █  █▀▄ █▀█ █  █  ▄█
+
++	Most Helpful
+	+	Bookworm: more books read = better writing
+	+	Artistic: develops Writing faster
++	Useful
+	+	Perfectionist: longer time but higher quality
+	+	Computer Whiz: reduces Fun decay + broken computers fixed faster
++	Others
+	+	Loner: decreases need for socialization
+	+	No Sense of Humor: decreases need for socialization
+	+	Couch Potato: doubles "Comfy" mood boost
+	+	Slob: decreases Hygiene decay rate
+	+	Hates the Outdoors: removes the "Stir Crazy" moodlet
+	+	Adventurous: removes the "Stir Crazy" moodlet
+	+	Neurotic: the "Freak Out" interaction decreases stress
+	+	Insane: the "Talk to Self" interaction fulfills social needs
+	+	Green Thumb: talking to plants fulfills social needs
++	Specific to Novels
+	+	Refer to Genre_Boosts.txt

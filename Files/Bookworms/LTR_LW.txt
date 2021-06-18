@@ -1,0 +1,27 @@
+█   █ █▀▀ █▀▀ ▀█▀ █ █▀▄▀█ █▀▀   █▀█ █▀▀ █ █ █ ▄▀█ █▀█ █▀▄ █▀
+█▄▄ █ █▀  ██▄  █  █ █ ▀ █ ██▄   █▀▄ ██▄ ▀▄▀▄▀ █▀█ █▀▄ █▄▀ ▄█
+
++	Acclaimed Author ( 30,000 )
+	+	boosts royalties
++	Steel Bladder ( 10,000 )
+	+	no more bladder decay
++	Dirt Defiant ( 15,000 )
+	+	decreases the Hygiene decay rate by 75%
+	+	the Squeaky Clean moodlet lasts for 28 hrs instead of 7 hrs
++	Hardly Hungry ( 25,000 )
+	+	decreases the Hunger decay rate by 75%
++	Moodlet Manager ( 60,000 )
+	+	allows the removal negative moodlets
++	Carefree ( 20,000 )
+	+	requires World Adventures
+	+	fills Fun 25% faster
+
+█   █ █▀▀ █▀▀ ▀█▀ █ █▀▄▀█ █▀▀   █ █ █ █ █▀ █ █ █▀▀ █▀
+█▄▄ █ █▀  ██▄  █  █ █ ▀ █ ██▄   ▀▄▀▄▀ █ ▄█ █▀█ ██▄ ▄█
+
++	Illustrious Author
+	+	Max painting and writing skills
++	Professional Author
+	+	4,000 a week in royalties
++	Star News Anchor
+	+	Journalism Career Level 10

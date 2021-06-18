@@ -1,0 +1,56 @@
+Article
+Autobiography
+	Ambitious
+	Charismatic
+	Daredevil
+	Diva
+	Insane
+	Kleptomaniac
+	Unlucky
+Biography
+Children's
+	Artistic
+	Childish
+	Family-Oriented
+Comic
+Drama
+	Commitment Issues
+	Diva
+Fantasy
+	Neurotic
+Fiction
+Historical
+	No Sense of Humor
+	Perfectionist
+Horror
+	Supernatural Fan
+Humor
+	Loser
+	Inappropriate
+	Mean-Spirited
+Life Story
+Masterpiece
+Mystery
+	Genius
+Non-Fiction
+Poetry
+	Avant Garde
+	Brooding
+Political Memoir
+Romance
+	Hopeless Romantic
+Satire
+	Avant Garde
+	Grumpy
+	Hot-Headed
+	Over-Emotional
+	Rebellious
+Sci-Fi
+	Genius
+	Computer Whiz
+Sports
+	Athletic
+Trashy
+	Flirty
+Vaudeville
+	Bookworm
