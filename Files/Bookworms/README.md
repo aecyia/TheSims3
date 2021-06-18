@@ -1,41 +1,20 @@
-# Purpose
+# Bookworms Folder
 
-+ This file is to introduce the files in the folder: Bookworms
+This file is to introduce the files in this folder
 
-## Books_List.txt
-
-+ Similar to Books.txt but with less notes
-
-+ A full list of official books for collectors sorted by DLCs >> Genre >> Book Titles
-
-+ Titles only, no authors
-
-+ #s of Skill Books are of the volume number, not the level number
-
-  + 1 is Level 0
-
-  + 2 is Level 3
-
-  + 3 is Level 6
-
-## Books.txt
-
-+ A list of books that you can buy, write, and collect sorted by DLCs >> Genre
-
-## Bookworms.drawio
-
-+ A sample library setup
-
-+ A map of genres based on writing prerequisites and requirements
-
-## For_The_Writers.txt
-
-+ A full guide for the writing skill
-
-## Environment.txt
-
-+ Environmental factors that can boost performance, quality, comfort, etc.
-
+|Title|Description|Additional Notes|
+|---|---|---|
+|Books_List|Official books sorted by DLCs >> Genre >> Book Titles|Titles only, no authors. Skill Books are of the volume number, not the level number|
+|Books|Books that you can buy, write, and collect sorted by DLCs >> Genre|
+|Bookworms.drawio|A sample library setup|A map of genres based on writing prerequisites and requirements|
+|Environment|Environmental factors that can boost performance, quality, comfort, etc.|
+|For_The_Writers|A general guide for the writing skill|Statistics, Professions, How to Improve, Abilities, Learning Writing|
+|Genre_Boosts|A list of traits that enhance / boost a genre|
+|Genres|Genres that Sims can write|
+|LTR_LW|Useful lifetime rewards and lifetime wishes|
+|Naming|A short note about naming books|
+|Opportunities|A list of writing opportunities|
+|Traits|Useful traits|
 
 ## Resources
 
