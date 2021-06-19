@@ -50,24 +50,15 @@ Achievements Concluded ( & therefore can't get ) : Winter Shminter ( Seasons )
 ▄█ █▄█ █▀▀ ██▄ █▀▄ █ ▀█ █▀█  █  █▄█ █▀▄ █▀█ █▄▄
 
 +	witch
-	+	kick gnomes 10x
-	+	8 fairy enemies
-	+	8 witch friends
-	+	woo-hoo gypsy caravan
 	+	toadify 10 sims
 	+	50 spellcasting duels
 	+	cast 25 successful charms
 +	fairy
-	+	8 witch enemies
-	+	8 fairy friends
 	+	trick 50 sims
 	+	perform 8x each then sleep until Well Rested
 		+	Gold and Toads
 		+	Inner Beauty
 		+	Flight of Felicity
-+	werewolf
-	+	eat 30 raw fish or meat
-	+	marry a vampire
 +	master of mysticism
 	+	lifetime wish
 	+	give 25 fairy enchantments
@@ -75,7 +66,6 @@ Achievements Concluded ( & therefore can't get ) : Winter Shminter ( Seasons )
 	+	hold 5 psychic conventions
 +	genie
 	+	ensorcel 100 sims
-+	female sim -- 15 fairy partners, break up 14
 +	complete the OH My Ghost opportunity
 	1	be close to someone who died
 		+	friend, good friend, best friend, BFF

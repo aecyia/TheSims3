@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base>
+  <Current_Tuning>
+    <kDepreciateProbability value="44">
+      <!--Probability (0-100%) that this art will depreciate.  Otherwise, it will appreciate.-->
+    </kDepreciateProbability>
+    <kMediumValueCutoff value="100">
+      <!--Minimum cost at which art will appreciate at the daily rate associated with art of medium value (as opposed to low or high).-->
+    </kMediumValueCutoff>
+    <kHighValueCutoff value="1000">
+      <!--Minimum cost at which art will appreciate at the daily rate associated with art of high value (as opposed to low or medium).-->
+    </kHighValueCutoff>
+    <kLowValueMaximumDailyChange value="2">
+      <!--Maximum value the art can appreciate or depreciate per day if it is of low value.-->
+    </kLowValueMaximumDailyChange>
+    <kMediumValueMaximumDailyChange value="15">
+      <!--Maximum value the art can appreciate or depreciate per day if it is of medium value.-->
+    </kMediumValueMaximumDailyChange>
+    <kHighValueMaximumDailyChange value="50">
+      <!--Maximum value the art can appreciate or depreciate per day if it is of high value.-->
+    </kHighValueMaximumDailyChange>
+  </Current_Tuning>
+</base>
