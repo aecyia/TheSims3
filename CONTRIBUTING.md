@@ -1,8 +1,11 @@
-# Contact
+# Contributing Guidelines
+
+(:
+## Contact
 
 github.com/aecyia
 
-# Current Status
+## Current Status
 
 Not accepting any contributions
 
