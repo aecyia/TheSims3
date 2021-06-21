@@ -1,6 +1,5 @@
 # Contributing Guidelines
 
-(:
 ## Contact
 
 github.com/aecyia
