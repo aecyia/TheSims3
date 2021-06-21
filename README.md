@@ -2,8 +2,8 @@
 
 ## Purpose
 
-+	Documenting my progress in the game
++ Documenting my progress in the game
 
-+	Notes and information
++ Notes and information
 
 ***Started: 03 February 2021***
