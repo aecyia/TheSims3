@@ -1,4 +1,5 @@
 Article
+	-
 Autobiography
 	Ambitious
 	Charismatic
@@ -8,17 +9,20 @@ Autobiography
 	Kleptomaniac
 	Unlucky
 Biography
+	-
 Children's
 	Artistic
 	Childish
 	Family-Oriented
 Comic
+	-
 Drama
 	Commitment Issues
 	Diva
 Fantasy
 	Neurotic
 Fiction
+	-
 Historical
 	No Sense of Humor
 	Perfectionist
@@ -29,14 +33,18 @@ Humor
 	Inappropriate
 	Mean-Spirited
 Life Story
+	-
 Masterpiece
+	-
 Mystery
 	Genius
 Non-Fiction
+	-
 Poetry
 	Avant Garde
 	Brooding
 Political Memoir
+	-
 Romance
 	Hopeless Romantic
 Satire

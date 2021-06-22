@@ -3,5 +3,5 @@ When naming books, I tend to use the format:
 	Example: Ace Masterpiece 017
 
 Otherwise, you can use the original pre-written titles.
-	They automatically suggest a rename if the title is taken.
+	They automatically suggest a rename with increasing numbers if the title is taken.
 		Title >> Title 2 >> Title 3 >> etc.
