@@ -1,7 +1,5 @@
 # Bookworms Folder
 
-This file is to introduce the files in this folder
-
 |Title|Description|Additional Notes|
 |---|---|---|
 |Books_List|Official books sorted by DLCs >> Genre >> Book Titles|Titles only, no authors. Skill Books are of the volume number, not the level number|
