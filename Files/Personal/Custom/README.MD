@@ -2,6 +2,8 @@
 
 Because I usually break the game and have to reinstall many times a month
 
+. . . If you're not breaking the game, you're just not trying hard enough
+
 ## Documents\Electronic Arts\The Sims 3\Downloads
 
 + Aeternum Aevum.Sims3Pack
