@@ -1,7 +1,4 @@
 +	full list of commands
-+	collections
-	+	list
-	+	all of them
 +	skills
 	+	list
 	+ 	notes on all
