@@ -50,7 +50,6 @@ Sculptor's Egg		Sculpting Skill Level 5 ( Ambitions )
 Dust				Gem cutter byproduct ( Supernatural )
 Sun					100 cuts total; +25
 Moon				100 cuts total; +25
-============================================================
 Geode				Only Polished Split + Heart-Shaped cuts
 Septarian Nodule	Only Polished Split + Heart-Shaped cuts
 Tiberium			Only Spire + Heart-Shaped cuts

@@ -96,6 +96,6 @@
 
 ## Resources
 
-+ https://www.carls-sims-3-guide.com/skills/collecting/worldadventures/transfiguration.php
++ <https://www.carls-sims-3-guide.com/skills/collecting/worldadventures/transfiguration.php>
 
-+ https://sims.fandom.com/wiki/Transfiguration
++ <https://sims.fandom.com/wiki/Transfiguration>
