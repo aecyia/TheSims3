@@ -2,7 +2,7 @@
 
 ## Contact
 
-github.com/aecyia
+<https://github.com/aecyia>
 
 ## Current Status
 
