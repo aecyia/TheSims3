@@ -26,10 +26,11 @@ Human Form Expert	50 unique Sims			Increase relationship with already known Sims
 Paparazzi			60 unique strangers		Stranger pics worth more
 Shutternut			5 unique collections	Free pictures
 
-Photograph collections
+Photograph Collections
 
-?	Subject Name	Difficulty	Number
+Status >> Subject Name >> Difficulty >> Number
 
+Refer to Photographs.txt in the Collections Folder
 
 █▀█ █▀█ █▀█ █▀▀ █▀▀ █▀ █▀ █ █▀█ █▄ █ █▀
 █▀▀ █▀▄ █▄█ █▀  ██▄ ▄█ ▄█ █ █▄█ █ ▀█ ▄█

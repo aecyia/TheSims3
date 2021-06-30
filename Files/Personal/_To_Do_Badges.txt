@@ -21,7 +21,7 @@ Achievements Concluded ( & therefore can't get ) : Winter Shminter ( Seasons )
 	+	Private Show Venue
 	+	Big Show Venue
 +	Singer
-	+	sing-a-gram 15 times
+	+	EACH sing-a-gram 15 times
 	+	20k tips
 +	Magician
 	+	once at each venue

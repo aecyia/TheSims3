@@ -1,0 +1,300 @@
++	Collections >> Difficulty >> Subject >> Description
++	https://sims.fandom.com/wiki/Photography/Photo_collections
+
+Plants & Flowers -- 24 Subjects
+	1	A Life Plant
+	1	A Lime Tree
+	1	Apple Tree
+	1	Avornalino Grape Vine
+	1	Bell Pepper Plant
+	1	Cherimola Blan Grape Vine
+	1	Cranerlet Nuala Grape Vine
+	1	Death Flower Bush
+	1	Flame Plant
+	1	Garlic Plant
+	1	Gralladina Fran Grape Vine
+	1	Hydrangea -- Either pink or white will do
+	1	Lettuce Plant
+	1	Meloire Grape Vine
+	1	Onion Plant
+	1	Plum Tree
+	1	Pomengranate Tree
+	1	Potato Vine
+	1	Red Rose -- Called 'Rosey Roses' in the build menu
+	1	Renoit Grape Vine
+	1	Sun Flower -- Bought in the build menu; Not vase
+	1	Tomato Plant
+	1	Watermelon Vine
+	1	White Rose -- Called 'Semi-Roses' in the build menu
+Architecture & Buildings -- 12 Subjects
+	1	A French Market -- In Champs Les Sims
+	1	Academy -- In Shang Simla
+	1	Bookstore
+	1	Chinese Garden -- Scholar's Garden in Shang Simla
+	1	City Hall
+	1	General Hospital
+	1	Mausoleum -- In the Graveyard
+	1	Nectary -- In Champs Les Sims
+	1	Sports Stadium
+	1	The Market -- In Shang Simla or Al Simhara
+	1	Town Theatre
+Best In Class -- 14 Subjects
+	1	A Limo
+	1	Expensive Stereo System
+	1	Luxury Car
+	1	Nectar Rack
+	2	A Top Chef -- Sim at the top of the Culinary career
+	2	Chief Lifesaver -- Sim at the top of the Medicine career
+	2	Diplomat Extraordinaire -- Sim at the top of the Political career
+	2	Fancy Tent -- Sultan's Tabernacle
+	2	Master Criminal -- Sim at the top of the Criminal career
+	2	Military Bigwig -- Sim at the top of the Military career
+	2	Omniplant
+	2	SuperCop -- Sim at the top of the Law Enforcement career
+	2	Superstar -- Sim at the top of the Music career
+	3	A Money Tree
+Oh the Calamity ! -- 9 Subjects
+	1	A Fight -- Two Sims fighting
+	1	A Singed Sim -- From fire, explosion, electrocution or from exploring catacombs in the Graveyard
+	1	A Social Worker -- Neglecting a Baby
+	1	A Thief ! -- Thief that has broken into your house before the policeman arrives
+	1	Oh No ! Snake ! -- A sim bit in the face or hand by a King Cobra from the snake basket bought in Al Simhara
+	1	One Sick Sim -- Nauseous Sim on his way to the bathroom or bent over the toilet already
+	1	Slap Fight -- A Sim slapping another Sim
+	1	Soaked to the Bone -- From Dive Well or steam Trap or caught in the rain
+	1	The Repoman -- Not paying bills
+Collectables -- 22 Subjects
+	1	Copper
+	1	Geode
+	1	Gold
+	1	Iron
+	1	Luminorious Gem
+	1	Magic Gnome
+	1	Mercury Vial
+	1	Mummitomium
+	1	Opal
+	1	Quartz
+	1	Rainbow Gem
+	1	Silver
+	1	Space Rock
+	1	Topaz
+	1	White Diamond
+	2	Pink Diamond
+	3	Canopic Jar Set
+	3	China Statue Set -- Green Dragon, Snake of Simhara, Wandering Tiger of Baroo
+	3	Dangerous Creatures Statue Set -- Statue of Ammit, Statue of Anubis, Fudog, Fearless Gargoyle
+	3	Dropa Stone Set
+	3	Egyptian Statue Set -- Seth of the Desert, Statue of the Cobra, Horus of the Sky, Sultan of the Sphinx
+	4	Tiberium
+Ambitions -- 10 Subjects
+	1	Sculpture Garden -- 5 or more sim-made sculptures
+	1	A Makeover -- Sim offering another sim a makeover. Snap this picture before entering the makover window
+	1	Eccentric Collection -- Collection of items made at the inventing station
+	1	Big Air -- Sim jumping on trampoline
+	1	Bake Sale -- Kid sim using a baker's stand
+	1	Fire in the Hole! -- Sim detonating something
+	1	Top Brass -- Sim at the top in a profession: architectural designer, firefighter, ghosthunter, investigator, stylist
+	1	Getting a Tattoo -- Sim getting a tattoo, not just the tattoo chair
+	1	Tools of the Trade -- Any Ambitions work bench
+	1	A Fire Engine -- Can be taken while fire enging is parked in fire department
+Nightlife -- 10 Subjects
+	1	A Hotspot -- A night club with Sims ( Not a dead night )
+	1	A Mixologist -- A mixologist working
+	1	Celebrity Sighting -- A celebrity posing
+	1	Rocking Out -- Sim playing a music instrument, preferably at a community lot
+	1	Bar Games -- Dart board
+	1	Dancing Fools -- Sim dancing on a counter or a dance floor
+	1	Skinnydipping -- A sim skinny dipping
+	1	Vampire -- A vampire posing
+	1	Food Truck -- A food truck ( does not have to be serving people )
+	1	Cocktails -- A drink from a bar
+Paranormal -- 13 Subjects
+	1	A Ghost
+	1	A Ghostly Problem -- Two ghosts
+	1	A Serious Ghost Problem -- Five ghosts
+	1	It's Haunted ! -- Object possessed by a ghost
+	1	My Dead Spouse
+	1	Simply Death -- The Grim Reaper
+	1	Too Many Ghosts ! -- Three Ghosts
+	1	Wandering Ghost -- Has to be non-family
+	2	A Mummy ! -- Found in some tombs at Al Simhara
+	2	Death On Vacation -- The Grim Reaper while on vacation
+	2	My Dead Enemy -- A ghost of an enemy
+	3	Mummy Having A Snack -- A Mummy eating food
+	5	Doubly Dead -- Ghost mummy
+Sims in Motion -- 17 Subjects
+	1	Honing Body & Mind -- Sim practicing with the dummy in Shang Simla 's special garden
+	1	Sims Dancing -- Any two Sims dancing together, preferably not at a party
+	1	Solo Dancer -- Any one Sim dancing by themselves, preferably not at a party
+	1	Fighting Fire -- Any Sim trying to extinguish a fire
+	1	Playing Catch -- Requires a child or someone with Childish trait
+	3	Pleading to the Sphinx -- Get cursed by a mummy & then travel to Al Simhara
+	1	Get a Room ! -- Sims making out on the couch during the day
+	1	Sims Sparring -- With the required object from Shang Simla
+	1	Making Nectar -- From the nectar making machine
+	1	Running -- Any Sim running
+	1	Pushing Statue -- In a tomb at vacation
+	1	Fighting Flab -- Sim working out
+	1	Great Tunes -- Sim playing music, normally at a house, not a community lot
+	1	Sim Making the Bed -- Any Sim in the process of making the bed
+	1	Board Breaker -- With the required object from Shang Simla
+	1	Refreshing Swim -- Sim in a pool
+	2	Dumpster Diving -- Sim digging through a dumpster or a trashcan
+Everyday Moments -- 25 Subjects
+	1	A Sim in the area -- Any sim that is not a friend
+	1	Two's Company -- Two sims that aren't friends
+	1	Child Being Carried -- Can be a sim holding a teddybear
+	1	Pizza Delivery -- Picture of the pizza delivery guy before he hands off the pizza
+	1	Lovers at Night -- Any image of a couple at night
+	2	Political Demonstration
+	1	A Sim Cooking -- Any Sim cooking a meal on the stove or in the oven
+	1	Mail Carrier -- The mail carrier. If Sim is friend with carrier, you must take the " My Friend " picture before " Mail Carrier " label is given
+	2	Police Officer -- Easiest to take after policeman apprehends suspect & comes to talk to Sim
+	2	Firefighter -- Can not be fighting or running to fight fire
+	1	Kid Playing with Oven -- Any child playing with the oven
+	1	Babysitter
+	1	Kid Playing with Toybox -- Any child playing with the toybox
+	1	A Sim Fishing -- Any Sim fishing
+	1	A Sim Gardening -- Any Sim gardening
+	3	Photo of Photographer -- Take a photo of another sim taking a picture with a cell phone or camera
+	1	A Chessmatch -- Can be one sim playing chess
+	1	A Sim using the Computer -- Any Sim using the computer
+	1	Repairman on the Job -- A picture of the repairman while they are fixing an appliance or household object
+	1	Four Sims Eating -- Any four Sims eating at the same time must all fit in frame
+	1	Maid at Work -- Must be taken while maid is actively performing a cleaning task
+	1	A Group of Sims -- 4 or more sims that none can be a friend of the photographer
+	1	Someone Painting -- Any Sim painting
+	1	Remedy for a hot day -- Sim playing in a sprinkler
+	1	Three's a Crowd -- 3 sims; none can be a friend of the photographer
+Home Sweet Home -- 13 Subjects
+	1	A Party! -- A couple of party objects. ( Balloons & Cake )
+	1	Bathroom Stuff -- Towel rack & toilet paper
+	1	Gadgets Galore -- Two electronic objects
+	1	Toys & Hobbies -- Children's toys such as a car or boat
+	1	Kitchen Kitsch -- Picture of your kitchen will usually do
+	1	A Toilet
+	1	Outdoor Stuff -- Any two outdoor activity items
+	1	A Nice Garden -- Three plants
+	1	Furniture -- Two pieces of furniture
+	1	Something Yummy -- A serving of food
+	1	Home Decor -- Any two decorative items ( Picture & Curtain )
+	1	Cute Teddy Bear
+	1	Baby Stuff -- Any two baby items
+	1	Home Decor -- A sculpture made using the Pedestrian Sculpting Station
+Still Life -- 10 Subjects
+	1	Objects -- Easy, just random items not covered by another subject
+	1	Box of Tissue -- Found in buy mode under miscellaneous decor
+	2	Nectar and Food -- Bottle of nectar (not already served) and any plate of food
+	1	Video Game System -- Any video game system will do
+	1	Television -- Any television will do
+	1	Tombstone -- Go to the Graveyard
+	1	Flowers -- Two or more flowers
+	1	A Couch -- or a bench
+	1	Candles -- The Mood-Lite candle from the buy mode, decoration/other, or the Grocery Store
+	1	Garden Decorations -- Gnome/Flamingo/Etc
+Travel -- 20 Subjects
+	1	A Relic -- Any relic from any of the 3 vacation locations
+	1	Pushable Statue
+	1	Floor Trap
+	1	Giant Boulder -- Most of them are in Shang Simla
+	2	Torch of Anubis -- Decorative statue holding a torch found in Al Simhara
+	1	SarcophagusFound in Al Simhara
+	1	Pile of Ancient coins
+	1	Floor Switch
+	1	Pile of Rubble
+	1	Treasure Chest
+	1	Great Sphinx -- Found in Al Simhara
+	1	A Pyramid -- Found in Al Simhara
+	2	Lovers in China
+	3	Soulpeace Statue -- Only found inside The Sphinx tomb
+	2	Lovers in France
+	1	Abu Simbel -- Tomb in Al Simhara
+	1	Shower in a Can -- Buy at any of the general merchants. A Sim using a Shower in a Can
+	2	Snake Charmer -- Sim using the snake basket, bought in Al Simhara
+	2	Lovers in Egypt
+	1	Dragon CaveTomb in Shang Simla
+Around Town -- 13 Subjects
+	1	Bicycle -- Any bicycle
+	1	Car -- Any car, but preferably a cheap model
+	1	Diner -- A diner in town ( some towns do not automatically come with diners )
+	1	Grocery Store -- The grocery store in any town
+	1	Gym -- Outside shot of the gym in any town
+	1	Picnic -- Buy a picnic basket in the buy menu
+	1	Places In Town -- Any picture of two random locations in town
+	1	Police Car -- Easiest to take when police apprehend burglar
+	1	School -- The school building in any town
+	1	The Beach -- Lot must be zoned commercially as a Beach
+	1	The Bistro -- The fancy restaurant in any town
+	1	The Park -- Lot must be zoned commercially as a Big Park
+	1	The Spa -- Sharma Day Spa; Sunflower Spa does not work
+Family and Friends -- 10 Subjects
+	1	Family Member -- A family member who is not the child, grandchild, or spouse
+	1	Housemate -- Someone who lives with your Sim, but isn't a family member
+	1	My Child -- Your sim's kid
+	1	My Friend -- Your sim's friend, good friend, best friend, etc
+	1	My Main Squeeze -- A photo of your Sim's boy/girlfriend (Romantic Interest works too)
+	1	My Spouse -- Your sim's husband/wife
+	1	Three of My Friends -- Three of your sim's friends, good friends, best friends, etc
+	1	Two of My Friends -- Two of your sim's friends, good friends, best friends, etc
+	2	Ghostly Family -- A family member who is a ghost
+	2	My Grandchild -- Your sim's grandchild
+Generations -- 10 Subjects
+	1	Graduation -- A sim in their graduation robes
+	1	Party Sims -- Any Sims at a party. May require multiple shots due to other similar types of pictures
+	1	Caught! -- Kid or teen caught pulling a prank or doing something bad
+	1	Pillow Fight -- Two sims pillow fighting
+	1	Party Dancers -- Any Sims dancing at a party. May require multiple shots due to other similar types of pictures.
+	1	For Science! -- Making a potion
+	1	Backyard Fun -- i.e. playing catch
+	1	Imaginary Friend -- A ghost
+	1	Sleepover Fun
+	1	A Wedding -- Two sims exchanging rings or just a wedding arch
+Animal Kingdom -- 10 Subjects
+	1	Pet in a cage
+	1	Baby animals -- At least 2 baby animals
+	1	Birdie
+	1	Horse & Rider -- A Sim riding a horse
+	1	Deer -- A deer
+	1	A dog -- Any dog, not your Sim's pet
+	1	A cat -- Any cat, not your Sim's pet
+	1	A Horse -- Any horse, not your Sim's pet
+	1	A Zoo ! -- At least 3 animals.
+	1	My Pet -- The Sim's pet
+Pets In Action -- 10 Subjects
+	1	Dead Bird -- Wait until a large bird in the tree cage dies of old age and drops to the bottom of the cage
+	1	Cute Cat -- Cat playing
+	1	Talking Bird -- The bird must know at least 1 language
+	1	Death Riding -- When a horse dies, Death comes for the horse soul and rides the horse
+	1	Pet Cemetery -- Two or more pet grave stone
+	1	Show Jumping -- Horse jumping
+	1	Dog Tricks -- If you only have one SIM in your household get a Bonehilda ( Supernatural ) they will autonomously perform teach trick action to a pet
+	1	Heroic Horse -- A horse ( and rider? ) performing the heroic pose action
+	1	Clever Cat -- Cat hunting something
+	1	Tug of War
+Supernatural Photo Journal -- 11 Subjects
+	1	ZOMBIES !!! -- Any zombie. Easiest to take during a full moon
+	1	Elixir -- Any elixir set on a surface
+	1	Fortune Teller
+	1	Magical Items -- Any decorate Sims 3 Supernatural item that cannot be interacted with
+	1	Mystic Architecture
+	1	Spellcasting Duel
+	1	Werewolf Playing Fetch
+	1	Magic Mushrooms!
+	1	Howling Werewolf
+	1	Fairy Trick
+	1	Werewolf Scratching Furniture
+Seasons -- 14 Subjects
+	1	Aliens! -- A picture of any alien
+	1	Rainy Day -- Any Sim holding an umbrella in the rain
+	1	Haunted House -- The haunted house set up during the fall festival
+	1	Serious Competitive Eating -- Two or more Sims competing in an eating competition
+	1	A Game of Horseshoes -- Any Sim playing horseshoes during spring festival
+	1	Fun in the Sun -- A Sim on a floaty in the water
+	1	A Festival -- Any festival celebration
+	1	Autumn Leaves -- A picture of a pile of leaves or trees with autumn-colored leaves
+	1	Snow Day! -- A Sim making a snow angel or a snow angel already made
+	1	Snowball Fight! -- Any Sims engaging in a snowball fight
+	1	Water Balloon Fight! -- Any Sims engaging in a water balloon fight
+	1	Spring Dance King -- A Sim must win the title by dancing at the spring festival
+	1	Spring Dance Queen -- A Sim must win the title by dancing at the spring festival
+	1	Seasonal Party -- Any party that is seasonal-specific. Costume party is easiest

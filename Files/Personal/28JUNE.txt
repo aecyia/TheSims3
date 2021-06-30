@@ -1,0 +1,413 @@
+Alabaster
+Amethyst
+Bloodstone
+Blue Topaz
+Citrine
+Diamond
+Emerald
+Fluorite
+Geode
+Jade
+Lapis Lazuli
+Luminorious
+Moonstone
+Opal
+Pink Diamond
+Quartz
+Rainbow
+Ruby
+Septarian Nodule
+Smithsonite
+Smoky Quartz
+Soulpeace
+Sunstone
+Tanzanite
+Tiberium
+Turquoise
+Vampire's Eye
+Yellow Sapphire
+
+Alabaster
+	Emerald
+	Oval
+	Pear
+	Plumbbob
+	Marquis
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor's Egg
+	Dust
+	Sun
+	Moon
+Amethyst
+	Emerald
+	Oval
+	Pear
+	Plumbbob
+	Marquis
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor's Egg
+	Dust
+	Sun
+	Moon
+Bloodstone
+	Emerald
+	Oval
+	Pear
+	Plumbbob
+	Marquis
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor's Egg
+	Dust
+	Sun
+	Moon
+Blue Topaz
+	Emerald
+	Oval
+	Pear
+	Plumbbob
+	Marquis
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor's Egg
+	Dust
+	Sun
+	Moon
+Citrine
+	Emerald
+	Oval
+	Pear
+	Plumbbob
+	Marquis
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor's Egg
+	Dust
+	Sun
+	Moon
+Diamond
+	Emerald
+	Oval
+	Pear
+	Plumbbob
+	Marquis
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor's Egg
+	Dust
+	Sun
+	Moon
+Emerald
+	Emerald
+	Oval
+	Pear
+	Plumbbob
+	Marquis
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor's Egg
+	Dust
+	Sun
+	Moon
+Fluorite
+	Emerald
+	Oval
+	Pear
+	Plumbbob
+	Marquis
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor's Egg
+	Dust
+	Sun
+	Moon
+Geode
+	Polished Split
+	Heart-Shaped
+Jade
+	Emerald
+	Oval
+	Pear
+	Plumbbob
+	Marquis
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor's Egg
+	Dust
+	Sun
+	Moon
+Lapis Lazuli
+	Emerald
+	Oval
+	Pear
+	Plumbbob
+	Marquis
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor's Egg
+	Dust
+	Sun
+	Moon
+Luminorious
+	Emerald
+	Oval
+	Pear
+	Plumbbob
+	Marquis
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor's Egg
+	Dust
+	Sun
+	Moon
+Moonstone
+	Emerald
+	Oval
+	Pear
+	Plumbbob
+	Marquis
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor's Egg
+	Dust
+	Sun
+	Moon
+Opal
+	Emerald
+	Oval
+	Pear
+	Plumbbob
+	Marquis
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor's Egg
+	Dust
+	Sun
+	Moon
+Pink Diamond
+	Emerald
+	Oval
+	Pear
+	Plumbbob
+	Marquis
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor's Egg
+	Dust
+	Sun
+	Moon
+Quartz
+	Emerald
+	Oval
+	Pear
+	Plumbbob
+	Marquis
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor's Egg
+	Dust
+	Sun
+	Moon
+Rainbow
+	Emerald
+	Oval
+	Pear
+	Plumbbob
+	Marquis
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor's Egg
+	Dust
+	Sun
+	Moon
+Ruby
+	Emerald
+	Oval
+	Pear
+	Plumbbob
+	Marquis
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor's Egg
+	Dust
+	Sun
+	Moon
+Septarian Nodule
+	Polished Split
+	Heart-Shaped
+Smithsonite
+	Emerald
+	Oval
+	Pear
+	Plumbbob
+	Marquis
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor's Egg
+	Dust
+	Sun
+	Moon
+Smoky Quartz
+	Emerald
+	Oval
+	Pear
+	Plumbbob
+	Marquis
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor's Egg
+	Dust
+	Sun
+	Moon
+Soulpeace
+	Emerald
+	Oval
+	Pear
+	Plumbbob
+	Marquis
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor's Egg
+	Dust
+	Sun
+	Moon
+Sunstone
+	Emerald
+	Oval
+	Pear
+	Plumbbob
+	Marquis
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor's Egg
+	Dust
+	Sun
+	Moon
+Tanzanite
+	Emerald
+	Oval
+	Pear
+	Plumbbob
+	Marquis
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor's Egg
+	Dust
+	Sun
+	Moon
+Tiberium
+	Spire
+	Heart-Shaped
+Turquoise
+	Emerald
+	Oval
+	Pear
+	Plumbbob
+	Marquis
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor's Egg
+	Dust
+	Sun
+	Moon
+Vampire's Eye
+	Emerald
+	Oval
+	Pear
+	Plumbbob
+	Marquis
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor's Egg
+	Dust
+	Sun
+	Moon
+Yellow Sapphire
+	Emerald
+	Oval
+	Pear
+	Plumbbob
+	Marquis
+	Crystal Ball
+	Brilliant
+	Heart-Shaped
+	Skull
+	Star
+	Sculptor's Egg
+	Dust
+	Sun
+	Moon
