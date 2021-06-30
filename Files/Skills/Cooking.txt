@@ -1,5 +1,5 @@
 █▀█ █▀▀ █▀ █▀█ █ █ █▀█ █▀▀ █▀▀ █▀ 	https://www.carls-sims-3-guide.com/skills/cooking/
-█▀▄ ██▄ ▄█ █▄█ █▄█ █▀▄ █▄▄ ██▄ ▄█
+█▀▄ ██▄ ▄█ █▄█ █▄█ █▀▄ █▄▄ ██▄ ▄█	https://sims.fandom.com/wiki/Cooking_(The_Sims_3)
 
 █▀ ▀█▀ ▄▀█ ▀█▀ █ █▀ ▀█▀ █ █▀▀ █▀
 ▄█  █  █▀█  █  █ ▄█  █  █ █▄▄ ▄█
@@ -21,30 +21,77 @@ Menu Maven			Learned 28 recipes	Prepare higher quality food
 █▀█ █▀▀ █▀▀ █ █▀█ █▀▀ █▀   █▄▀ █▄ █ █▀█ █ █ █ █▄ █
 █▀▄ ██▄ █▄▄ █ █▀▀ ██▄ ▄█   █ █ █ ▀█ █▄█ ▀▄▀▄▀ █ ▀█
 
-Level	Recipe Name		Your Best Quality		Ingredients
-
+Lvl	>> Recipe Name >> Your Best Quality >> Ingredients
 
 █▀█ █▀█ █▀█ █▀▀ █▀▀ █▀ █▀ █ █▀█ █▄ █ █▀
 █▀▀ █▀▄ █▄█ █▀  ██▄ ▄█ ▄█ █ █▄█ █ ▀█ ▄█
 
-+
-+
++	Culinary career track: Five Star Chef
 
 █ █ █▀█ █ █ █   ▀█▀ █▀█   █ █▀▄▀█ █▀█ █▀█ █▀█ █ █ █▀▀
 █▀█ █▄█ ▀▄▀▄▀    █  █▄█   █ █ ▀ █ █▀▀ █▀▄ █▄█ ▀▄▀ ██▄
 
-+
-+
-+
-+
-+
-+
++	Cooking class: Restaurant
+	+	Check newspaper for discounted classes
++	Cook a lot
+	+	Improve a dish's quality by cooking it a lot
++	Expensive + Upgraded
+	+	Fridge, stove and appliances
+	+	Beware of fire
+	+	Get improved appliances for improved meal quality
++	Cooking Skill Books
+	+	Read from library
+	+	Buy discounted from Consignment Store ( Ambitions )
++	Recipes bought from the bookstore
+	+	Base Game, World Adventures, Pets, Showtime, Supernatural, and Seasons
++	Social interaction ' Trading Cooking Secrets '
+	+	Target Sim must have Cooking skill
+		+	Logic Skill 10 >> Tutor Sims in Cooking
+	+	Active Sim must have unknown recipes
++	TV Channel: Cookin' Cable
+	+	Increase skill
+	+	Increase Fun
+	+	Learn recipe
++	Gourmet pet food
+	+	Cooking Skill 1
+	+	Count as # of recipes known
++	Mealtimes		Mon - Fri		Weekend
+	+	Breakfast	1 AM - 11 AM	1 AM - 9 AM
+	+	Brunch		-				9 AM - 3 PM
+	+	Lunch		11 AM - 5 PM	3 PM - 5 PM
+	+	Dinner		5 PM - 1 AM		5 AM - 1 AM
++	Child >> Toy oven >> Bake pastries
+	+	Muffins Lvl 1
+	+	Pie Lvl 2
+	+	Cake Lvl 3
+	+	Ambitions DLC
+		+	Blueberry muffins, vanilla muffins, chocolate cookies, sugar cookies, chocolate brownies, caramel brownies, vanilla cupcakes and pie
++	Better quality ingredients
+	+	Gardening Skill >> Plants, Veggies, Fruits
+	+	Fishing Skill >> Fish
+	+	Buying from the Grocery Store is of better quality than buying from the fridge
 
 █ █ █▀ █▀▀ █▀▀ █ █ █     ▀█▀ █▀█ ▄▀█ █ ▀█▀ █▀
 █▄█ ▄█ ██▄ █▀  █▄█ █▄▄    █  █▀▄ █▀█ █  █  ▄█
 
-+
-+
++	Natural Cook
++	Perfectionist -- longer but better quality
++	Green Thumb -- better quality ingredients
++	Angler -- better quality fish
++	Vegetarian -- vegetarian versions of meat dishes
++	Eco-Friendly -- organic dishes
++	Schmoozer -- easier to be friends with coworkers and the boss
+
+█   █ █▀▀ █▀▀ ▀█▀ █ █▀▄▀█ █▀▀
+█▄▄ █ █▀  ██▄  █  █ █ ▀ █ ██▄
+
++	Rewards
+	+	Born to Cook
++	Wishes
+	+	Culinary Librarian -- Learn every recipe
+	+	Celebrated Five-Star Chef -- Top of the Culinary World
+	+	Renaissance Sim -- Max 3 skills
+		+	Cooking, Gardening, Fishing
 
 ▄▀█ █▄▄ █ █   █ ▀█▀ █ █▀▀ █▀
 █▀█ █▄█ █ █▄▄ █  █  █ ██▄ ▄█
@@ -62,5 +109,65 @@ Level	Recipe Name		Your Best Quality		Ingredients
 
 █▀█ █▀█ █▀█ █▀█ █▀█ ▀█▀ █ █ █▄ █ █ ▀█▀ █ █▀▀ █▀
 █▄█ █▀▀ █▀▀ █▄█ █▀▄  █  █▄█ █ ▀█ █  █  █ ██▄ ▄█
-
 https://sims.fandom.com/wiki/Opportunity/Cooking
+
+Title >> Description >> Reward
+One,Two,Tri-Tip Steaks
+	Prepare a group meal of Tri-Tip Steaks and deliver it to specified Sim neighbor
+	Cash
+Fresh Cookies For Sale!
+	Bake two group serving of cookies and deliver them to the school
+	Varies
+Hot Dogs,Please!
+	Prepare hot dogs and give it to specified Sim neighbor
+	Cash
+Burgelicious
+	Cook burgers and deliver them to specified Sim neighbor
+	Cash
+Borrowing Ingredients
+	Deliver a tomato to specified Sim neighbor
+	Cash Reward Relationship Increased
+Great Gooey Cheesesteaks
+	Cook Cheese Steak and deliver it to specified Sim neighbor
+	Cash
+Swim Into The Grill
+	Cook Grilled Salmon and deliver it to specified Sim neighbor
+	Cash
+A Life Giving Recipe
+	Prepare Ambrosia and deliver it to the hospital
+	Cash
+From One Chef To Another
+	Share cooking tips with specified Sim neighbor
+	Cash, Relationship Increased
+Burgers For Sims
+	In Uniform	Cook burgers and deliver them to the police station.
+	Time Limited
+	Cash, Relationship Increased
+A Favourite Meal
+	Cook specified recipe and deliver it to specified Sim neighbor.
+	Time Limited
+	Varies
+Excellence You Can Taste!
+	Prepare an 'excellent' group meal and deliver it to specified Sim neighbor
+	Time limited
+	Varies
+The Greatest Food Ever
+	Prepare a 'great' group meal and deliver it to specified Sim neighbor
+	Time limited
+	Varies
+Nice!
+	Prepare a 'nice' group meal and deliver it to specified Sim neighbor
+	Time limited
+	Varies
+Very Nice!
+	Prepare a 'very nice' group meal and deliver it to specified Sim neighbor
+	Time limited
+	Varies
+Perfection From The Pan
+	Prepare a 'perfect' group meal and deliver it to specified Sim neighbor
+	Time limited
+	Varies
+That's Outstanding!
+	Prepare an 'outstanding' group meal and deliver it to specified Sim neighbor
+	Time limited
+	Varies
