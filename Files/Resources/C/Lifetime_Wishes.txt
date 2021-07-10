@@ -1,38 +1,38 @@
 █▄▄ ▄▀█ █▀ █▀▀   █▀▀ ▄▀█ █▀▄▀█ █▀▀
 █▄█ █▀█ ▄█ ██▄   █▄█ █▀█ █ ▀ █ ██▄
 
-Become a Creature-Robot Cross Breeder		Reach level 9 of Science career
-Become a Superstar Athlete					Reach level 9 of Sport career
-Become a Master Thief						Reach level 10 of Criminal-Thief career
-Become an Astronaut							Reach level 10 of Army career
-Celebrated Five-Star Chef					Reach level 10 of Culinary career
-CEO of a Mega-Corporation					Reach level 10 of Business career
+Become a Creature-Robot Cross Breeder		Level 9 of Science career
+Become a Superstar Athlete					Level 9 of Sport career
+Become a Master Thief						Level 10 of Criminal-Thief career
+Become an Astronaut							Level 10 of Army career
+Celebrated Five-Star Chef					Level 10 of Culinary career
+CEO of a Mega-Corporation					Level 10 of Business career
 Chess Legend								Max Logic skill, Max chess skill
-Forensics Specialist - Dynamic DNA Profiler	Reach level 10 of Law-Forensic career
+Forensics Specialist - Dynamic DNA Profiler	Level 10 of Law-Forensic career
 Gold Digger									See the ghost of your rich widow
 Golden Tongue, Golden Fingers				Max Charisma, Max Guitar skill
 Heartbreaker								Be a (girl)friend of 10 different Sims
-Hit Movie Composer							Reach level 10 of Music-Classic career
+Hit Movie Composer							Level 10 of Music-Classic career
 Illustrious Author							Max Writing skill, Max Painting skill
-International Super Spy						Reach level 10 of Law-Spy career
-Jack of All Trades							Reach level 5 in four different careers
-Leader of the Free World					Reach level 10 of Politics career
+International Super Spy						Level 10 of Law-Spy career
+Jack of All Trades							Level 5 in four different careers
+Leader of the Free World					Level 10 of Politics career
 Living in the Lap of Luxury					Get a family capital of 100.000,-
 Master of the Arts							Max Painting skill, Max Guitar skill
 Perfect Mind, Perfect Body					Max Logic skill, Max Athletic skill
 Presenting the Perfect Private Aquarium		Have 13 Perfect fish in fish bowls around the house
 Professional Author							Make $4,000 simoleons a week in royalties from the writing skill.
 Renaissance Sim								Max 3 different skills
-Rock Star									Reach level 10 of Music-Rock career
-Emperor of Evil								Reach level 10 of Criminal-Evil career
-Star News Anchor							Reach level 10 of Journalism career
+Rock Star									Level 10 of Music-Rock career
+Emperor of Evil								Level 10 of Criminal-Evil career
+Star News Anchor							Level 10 of Journalism career
 Super Popular								Get 20 friends
 Surrounded by Family						Raise 5 babies to teens
 Swimming in Cash							Have $50,000 simoleons on hand.
 The Culinary Librarian						Learn all recipies
 The Perfect Garden							Grow 8 different kinds of perfect plants
 The Tinkerer								Max both the Logic and Handiness skills.
-World Renowned Surgeon						Reach level 10 of Medical career
+World Renowned Surgeon						Level 10 of Medical career
 
 █ █ █ █▀█ █▀█ █   █▀▄   ▄▀█ █▀▄ █ █ █▀▀ █▄ █ ▀█▀ █ █ █▀█ █▀▀ █▀
 ▀▄▀▄▀ █▄█ █▀▄ █▄▄ █▄▀   █▀█ █▄▀ ▀▄▀ ██▄ █ ▀█  █  █▄█ █▀▄ ██▄ ▄█
@@ -50,35 +50,35 @@ World-Class Gallery			At least 10 Photos each from China, Egypt, and France, wit
 █▀█ █ ▀ █ █▄█ █  █  █ █▄█ █ ▀█ ▄█
 
 Descendant of da Vinci					Max painting, Sculpting and inventing skill
-Fashion Phenomenon						Reach level 10 of Stylist career
+Fashion Phenomenon						Level 10 of Stylist career
 Firefighter Super Hero					Save 30 lives from fire on jobhours
 Home Design Hotshot						Earn 100 top scores in the Architectural career
 Monster Maker							Create 3 monsters
-Paranormal Profiteer					Reach level 10 of Ghosthunter career
+Paranormal Profiteer					Level 10 of Ghosthunter career
 Pervasive Private Eye					Solve 35 Cases as a Private Investigator
 Possession is Nine Tenths of the Law	Possess 50,000 Simoleons worth of stolen goods.
 
 █ █ █▄ █ █ █ █ █▀▀ █▀█ █▀ █ ▀█▀ █▄█   █   █ █▀▀ █▀▀
 █▄█ █ ▀█ █ ▀▄▀ ██▄ █▀▄ ▄█ █  █   █    █▄▄ █ █▀  ██▄
 
-Blog Artist									Reach level 10 in Social Networking, make a 5-star Blog
+Blog Artist									Level 10 in Social Networking, make a 5-star Blog
 Major Master								Earn Three Degrees
 Perfect Student								Earn a Degree with a Perfect GPA
 Reach Max Influence with all Social Groups	Reach Max Influence with all Social Groups
-Scientific Specialist						Reach level 10 in the Science skill and level 10 in the Science, Medical, or Business Career Tracks
+Scientific Specialist						Level 10 in the Science skill and level 10 in the Science, Medical, or Business Career Tracks
 
 █ █▄ █ ▀█▀ █▀█   ▀█▀ █ █ █▀▀   █▀▀ █ █ ▀█▀ █ █ █▀█ █▀▀
 █ █ ▀█  █  █▄█    █  █▀█ ██▄   █▀  █▄█  █  █▄█ █▀▄ ██▄
 
-High Tech Collector				Reach level 10 in Advanced Technology and Own a Windcarver, Dream Pod, Food Synthesizer, Holo Disc, and Jetpack
+High Tech Collector				Level 10 in Advanced Technology and Own a Windcarver, Dream Pod, Food Synthesizer, Holo Disc, and Jetpack
 Made the Most of My Time		Experience both Alternate Timelines (Dystopia and Utopia) while also being honored with a Legacy Statue.
-More than a Machine				Reach level 10 in Bot Building and give a Plumbot the Sentience Trait Chip.
+More than a Machine				Level 10 in Bot Building and give a Plumbot the Sentience Trait Chip.
 
 █   ▄▀█ ▀█▀ █▀▀   █▄ █ █ █▀▀ █ █ ▀█▀
-█▄▄ █▀█  █  ██▄   █ ▀█ █ █▄█ █▀█  █ 
+█▄▄ █▀█  █  ██▄   █ ▀█ █ █▄█ █▀█  █
 
-Distinguished Director				Reach level 10 of Film-Directing career
-Superstar Actor						Reach level 10 of Film-Acting career
+Distinguished Director				Level 10 of Film-Directing career
+Superstar Actor						Level 10 of Film-Acting career
 One Sim Band						Max Guitar, Bass, Drum and Piano skill
 Master Mixologist					Max Mixology skill, own a bar
 Lifestyle of the Rich and Famous	Raise 100,000 Simoleons and Gain Celebrity Rank 5
@@ -87,19 +87,19 @@ Master Romancer						Woohoo in 5 different places with 5 different Sims
 █▀ █ █ █▀█ █ █ █ ▀█▀ █ █▀▄▀█ █▀▀
 ▄█ █▀█ █▄█ ▀▄▀▄▀  █  █ █ ▀ █ ██▄
 
-Master Acrobat 			Reach level 10 in the Acrobat Profession
-Master Magician			Reach level 10 in the Magician Profession
-Vocal Legend			Reach level 10 in the Singing Profession
+Master Acrobat 			Level 10 in the Acrobat Profession
+Master Magician			Level 10 in the Magician Profession
+Vocal Legend			Level 10 in the Singing Profession
 
-█▀ █ █ █▀█ █▀▀ █▀█ █▄ █ ▄▀█ ▀█▀ █ █ █▀█ ▄▀█ █ 
+█▀ █ █ █▀█ █▀▀ █▀█ █▄ █ ▄▀█ ▀█▀ █ █ █▀█ ▄▀█ █
 ▄█ █▄█ █▀▀ ██▄ █▀▄ █ ▀█ █▀█  █  █▄█ █▀▄ █▀█ █▄▄
 
-Alchemy Artisan			Reach Level 10 in Alchemy Skill and use 50 Elixirs
+Alchemy Artisan			Level 10 in Alchemy Skill and use 50 Elixirs
 Celebrity Psychic		Make it to level 10 in the Fortune Teller career, Scam artist path
-Greener Gardens 		Reach level 10 in Gardening, and use Bloom 100 times
+Greener Gardens 		Level 10 in Gardening, and use Bloom 100 times
 Leader of the Pack		Turn 5 Sims into Werewolves, and Collect 40,000 Simoleons while Hunting with a Pack
-Magic Makeover			Cast Inner Beauty on 12 Sims, reach Level 10 Charisma
-Master of Mysticism		Reach Level 10 in Fortune Teller Career, Mystic Path
+Magic Makeover			Cast Inner Beauty on 12 Sims, Level 10 Charisma
+Master of Mysticism		Level 10 in Fortune Teller Career, Mystic Path
 Mystic Healer			Cure 12 Transformed Sims
 Turn the Town			Drink from 20 Sims and turn 5 into Vampires
 Zombie Master			Turn 10 Sims into Zombies using the Reanimation Ritual or Potent Zombification Elixir
