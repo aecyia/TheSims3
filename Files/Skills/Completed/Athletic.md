@@ -1,4 +1,4 @@
-# Skill
+# Athletic Skill
 
 ## Statistics
 
