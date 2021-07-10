@@ -9,7 +9,7 @@
 |Genres_By_DLC|Books that you can buy, write, and collect| Sorted by DLCs >> Genre|
 |LTR_LW|Useful lifetime rewards and lifetime wishes|-|
 |Naming|A short note about naming books|-|
-|Opportunities|A list of writing opportunities|-|
+|Opportunities|A list of writing opportunities|Title >> Task >> Description|
 |Traits_By_Genres|A list of traits that enhance / boost a genre|Sorted by Genre >> Traits||
 |Traits|Useful traits|-|
 |Writing_Genres|Genres that Sims can write|-|
