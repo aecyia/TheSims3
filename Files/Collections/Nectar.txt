@@ -9,6 +9,7 @@ Flame Fruit
 Life Fruit
 Lime
 	Meloire Grapes
+Plasma
 Plum
 Pomegranate
 Pomelo

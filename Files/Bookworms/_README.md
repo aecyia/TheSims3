@@ -13,12 +13,13 @@
 |Traits_By_Genres|A list of traits that enhance / boost a genre|Sorted by Genre >> Traits||
 |Traits|Useful traits|-|
 |Writing_Genres|Genres that Sims can write|-|
+|Written_Books|A pre-generated list of book titles|Sorted by Genre; From Personal Experience|
 
 ## Resources
 
 + <https://sims.fandom.com/wiki/List_of_books_in_The_Sims_3>
 
-+ <https://sims.fandom.com/wiki/Writing_(The_Sims_3>)
++ <https://sims.fandom.com/wiki/Writing_(The_Sims_3)>
 
 + <https://www.carls-sims-3-guide.com/skills/writing/>
 
